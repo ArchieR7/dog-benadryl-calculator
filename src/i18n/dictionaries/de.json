@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Benadryl-Dosierungsrechner für Hunde - Sichere Diphenhydramin-Dosis nach Gewicht",
+    "titleTemplate": "%s | Hunde-Benadryl-Rechner",
+    "description": "Kostenloser Benadryl-Dosierungsrechner für Hunde. Berechnen Sie die sichere Diphenhydramin-Dosis basierend auf dem Gewicht Ihres Hundes. Mit Dosierungstabelle, Flüssig-Benadryl-Anleitung und Sicherheitsinformationen.",
+    "keywords": "benadryl für hunde, benadryl dosierung hund, diphenhydramin für hunde, wieviel benadryl kann ich meinem hund geben, benadryl dosierungstabelle hunde"
+  },
+  "header": {
+    "title": "Hunde-Benadryl-Rechner",
+    "nav": {
+      "calculator": "Rechner",
+      "dosageChart": "Dosierungstabelle",
+      "safetyGuide": "Sicherheitshinweise",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "Benadryl für Hunde: Dosierungsrechner",
+    "subtitle": "Wie viel Benadryl kann ich meinem Hund geben? Berechnen Sie die sichere Diphenhydramin-Dosis basierend auf dem Gewicht Ihres Hundes. Kostenloser Rechner mit Dosierungstabelle für Allergien, Juckreiz und Angst."
+  },
+  "calculator": {
+    "title": "Benadryl-Dosierungsrechner",
+    "weightLabel": "Gewicht des Hundes",
+    "weightPlaceholder": "Gewicht eingeben",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Benadryl-Typ",
+    "typeOptions": {
+      "tablet25": "Tablette (25mg)",
+      "tablet50": "Tablette (50mg)",
+      "liquid": "Flüssig (12,5mg/5ml)",
+      "chewable": "Kautablette (12,5mg)"
+    },
+    "purposeLabel": "Verwendungszweck (Optional)",
+    "purposeOptions": {
+      "allergies": "Allergien / Juckreiz",
+      "motion": "Reisekrankheit",
+      "anxiety": "Leichte Angst",
+      "insect": "Insektenstiche",
+      "other": "Sonstiges"
+    },
+    "specialConditions": "Mein Hund ist trächtig, säugend, ein Welpe oder hat Gesundheitsprobleme",
+    "result": {
+      "singleDose": "Empfohlene Einzeldosis",
+      "frequency": "Häufigkeit",
+      "frequencyValue": "2-3 mal täglich (alle 8-12 Stunden)",
+      "maxDailyDose": "Maximale Tagesdosis",
+      "importantNotes": "Wichtige Hinweise:",
+      "vetReminder": "Konsultieren Sie immer Ihren Tierarzt, bevor Sie Ihrem Hund Benadryl geben, besonders wenn Ihr Hund andere Medikamente nimmt oder Vorerkrankungen hat."
+    },
+    "warnings": {
+      "smallDogs": "Sehr kleine Hunde sind empfindlicher. Beginnen Sie mit einer niedrigeren Dosis und konsultieren Sie Ihren Tierarzt.",
+      "largeDogs": "Bei großen Rassen bestätigen Sie die Dosierung mit Ihrem Tierarzt.",
+      "specialConditions": "Hunde mit Gesundheitsproblemen oder trächtige/säugende Hunde benötigen tierärztliche Beratung.",
+      "liquidRecommended": "Für kleine Hunde ist die flüssige Form möglicherweise einfacher genau zu dosieren.",
+      "tablet50TooStrong": "50mg Tabletten sind zu stark für Hunde unter 11 kg.",
+      "largeVolume": "Großes Volumen - Tabletten können praktischer sein."
+    }
+  },
+  "dosageChart": {
+    "title": "Benadryl-Dosierungstabelle für Hunde",
+    "subtitle": "Schnellreferenz basierend auf 1mg pro 1lb Körpergewicht",
+    "headers": {
+      "weight": "Hundegewicht",
+      "dosage": "Dosis (mg)",
+      "tablets25": "25mg Tabletten",
+      "tablets50": "50mg Tabletten",
+      "liquid": "Flüssig (12,5mg/5ml)"
+    },
+    "note": "Hinweis: Diese Tabelle dient nur als allgemeine Referenz. Die Dosierung kann je nach individuellen Gesundheitsbedürfnissen Ihres Hundes variieren. Konsultieren Sie immer Ihren Tierarzt, bevor Sie Medikamente verabreichen."
+  },
+  "liquidGuide": {
+    "title": "Flüssiges Benadryl für Hunde: Dosierungsanleitung",
+    "intro": "Flüssiges Benadryl (Kinderformel) ist oft einfacher für kleine Hunde zu dosieren. Das Standard-Kinder-Benadryl enthält 12,5 mg pro 5 mL (1 Teelöffel).",
+    "conversion": {
+      "title": "Kinder-Flüssig-Benadryl Umrechnung:",
+      "formula": "12,5 mg = 5 mL (1 Teelöffel) = 1 TL"
+    },
+    "chartTitle": "Flüssig-Benadryl-Dosierungstabelle für Hunde:",
+    "headers": {
+      "weight": "Hundegewicht",
+      "dose": "Dosis (mg)",
+      "liquid": "Flüssigkeitsmenge"
+    },
+    "warning": {
+      "title": "Wichtige Warnung für Kinder-Benadryl:",
+      "items": [
+        "Überprüfen Sie die Inhaltsstoffe sorgfältig - vermeiden Sie Formeln mit Xylitol (giftig für Hunde)",
+        "Verwenden Sie nur Diphenhydramin-Formeln (keine Abschwellmittel oder Schmerzmittel)",
+        "Vermeiden Sie \"Benadryl-D\" oder Multi-Symptom-Formeln",
+        "Alkoholfreie Formeln werden für Hunde bevorzugt"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Wie viel Benadryl kann ich meinem Hund geben?",
+    "intro": "Die Standarddosis von Benadryl für Hunde beträgt 1 mg pro Pfund Körpergewicht, 2-3 mal täglich. Dies ist derselbe Wirkstoff (Diphenhydramin) wie in menschlichem Benadryl, aber die Dosierung wird für Hunde anders berechnet.",
+    "simpleRule": {
+      "title": "Die einfache Regel:",
+      "formula": "1 mg Benadryl = 1 lb Körpergewicht",
+      "example": "Beispiel: Ein 11 kg Hund kann 25 mg Benadryl nehmen (eine 25mg Tablette)"
+    },
+    "guidelines": {
+      "title": "Wichtige Dosierungsrichtlinien:",
+      "items": {
+        "frequency": "Häufigkeit: Alle 8-12 Stunden geben (2-3 mal täglich)",
+        "maximum": "Maximum: Nicht mehr als 2 mg pro Pfund in einer Einzeldosis",
+        "duration": "Dauer: Nur kurzfristige Anwendung, sofern nicht vom Tierarzt verordnet",
+        "forms": "Formen: Nur reines Diphenhydramin verwenden — Formeln mit Abschwellmitteln vermeiden (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Ist Benadryl sicher für Hunde?",
+    "intro": "Ja, Benadryl ist bei korrekter Dosierung für die meisten Hunde generell sicher. Diphenhydramin, der Wirkstoff in Benadryl, ist ein Antihistaminikum, das Tierärzte häufig für Allergien, Juckreiz und leichte Angst bei Hunden empfehlen.",
+    "safeFor": {
+      "title": "Sicher für:",
+      "items": [
+        "Gesunde erwachsene Hunde",
+        "Kurzfristige Allergielinderung",
+        "Reisekrankheit",
+        "Leichte Angstsituationen",
+        "Reaktionen auf Insektenstiche"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Nicht sicher für:",
+      "items": [
+        "Hunde mit Glaukom",
+        "Hunde mit Herzerkrankungen",
+        "Trächtige oder säugende Hunde",
+        "Welpen unter 6 Monaten",
+        "Hunde mit bestimmten Medikamenten"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Wann Hunden Benadryl geben",
+    "allergies": {
+      "title": "Allergien",
+      "description": "Saisonale Allergien, Umweltallergene, juckende Haut, Nesselsucht und leichte allergische Reaktionen."
+    },
+    "motionSickness": {
+      "title": "Reisekrankheit",
+      "description": "Autofahrten, Reiseangst. 30 Minuten vor der Reise für beste Ergebnisse geben."
+    },
+    "anxiety": {
+      "title": "Leichte Angst",
+      "description": "Gewitter, Feuerwerk, Tierarztbesuche. Der Müdigkeitseffekt kann helfen, ängstliche Hunde zu beruhigen."
+    },
+    "insectBites": {
+      "title": "Insektenstiche",
+      "description": "Bienenstiche, Mückenstiche, Spinnenbisse, die Schwellungen oder Juckreiz verursachen."
+    }
+  },
+  "safety": {
+    "title": "Nebenwirkungen & Warnzeichen",
+    "commonSideEffects": {
+      "title": "Häufige Nebenwirkungen (normalerweise harmlos):",
+      "items": [
+        "Schläfrigkeit oder Sedierung",
+        "Mundtrockenheit",
+        "Harnverhalt",
+        "Schnelle Atmung (anfänglich)"
+      ]
+    },
+    "callVet": {
+      "title": "Rufen Sie sofort Ihren Tierarzt an, wenn Sie bemerken:",
+      "items": [
+        "Atemnot oder Schwellung",
+        "Extreme Lethargie oder Reaktionslosigkeit",
+        "Krampfanfälle oder Zittern",
+        "Erbrechen oder Durchfall",
+        "Appetitlosigkeit für mehr als 24 Stunden",
+        "Schneller oder unregelmäßiger Herzschlag"
+      ]
+    },
+    "whenNot": {
+      "title": "Wann KEIN Benadryl geben:",
+      "items": [
+        "Hunde mit Glaukom",
+        "Hunde mit Herz-Kreislauf-Erkrankungen",
+        "Hunde mit Bluthochdruck",
+        "Trächtige oder säugende Hunde",
+        "Hunde, die bestimmte Medikamente nehmen (MAO-Hemmer, Beruhigungsmittel)",
+        "Welpen unter 6 Monaten"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen zu Benadryl für Hunde",
+    "items": [
+      {
+        "question": "Ist Benadryl sicher für Hunde?",
+        "answer": "Ja, Benadryl (Diphenhydramin) ist bei korrekter Dosierung von 1 mg pro Pfund Körpergewicht generell sicher für Hunde. Sie sollten jedoch vermeiden, Benadryl an Hunde mit Glaukom, Herz-Kreislauf-Erkrankungen, Bluthochdruck oder trächtige/säugende Hunde zu geben. Konsultieren Sie immer Ihren Tierarzt, bevor Sie irgendwelche Medikamente geben."
+      },
+      {
+        "question": "Wie viel Benadryl kann ich meinem Hund geben?",
+        "answer": "Die Standarddosis von Benadryl für Hunde beträgt 1 mg pro Pfund Körpergewicht, 2-3 mal täglich (alle 8-12 Stunden). Zum Beispiel kann ein 11 kg schwerer Hund 25 mg Benadryl nehmen. Überschreiten Sie niemals 2 mg pro Pfund in einer Einzeldosis. Verwenden Sie unseren Rechner oben für genaue Dosierung."
+      },
+      {
+        "question": "Was bewirkt Benadryl bei Hunden?",
+        "answer": "Benadryl ist ein Antihistaminikum, das hilft, Allergiesymptome bei Hunden zu lindern, einschließlich Juckreiz, Nesselsucht, Schwellungen und Niesen. Es kann auch bei Reisekrankheit, leichter Angst und Reaktionen auf Insektenstiche helfen. Der Wirkstoff Diphenhydramin blockiert Histaminrezeptoren."
+      },
+      {
+        "question": "Können Hunde Benadryl bei Allergien nehmen?",
+        "answer": "Ja, Hunde können Benadryl bei Allergien nehmen. Es behandelt effektiv saisonale Allergien, Umweltallergene, Nahrungsmittelallergien (nur Symptome) und allergische Reaktionen, die juckende Haut oder Nesselsucht verursachen. Geben Sie die Standarddosis von 1 mg pro Pfund Körpergewicht alle 8-12 Stunden."
+      },
+      {
+        "question": "Können Hunde Benadryl gegen Juckreiz nehmen?",
+        "answer": "Ja, Benadryl kann helfen, Juckreiz bei Hunden zu lindern, der durch Allergien, Insektenstiche oder Hautreizungen verursacht wird. Die antihistaminischen Eigenschaften reduzieren die Histaminreaktion, die Juckreiz verursacht. Für beste Ergebnisse geben Sie 1 mg pro Pfund Körpergewicht alle 8-12 Stunden, bis sich die Symptome bessern."
+      },
+      {
+        "question": "Welche Art von Benadryl ist sicher für Hunde?",
+        "answer": "Verwenden Sie nur Benadryl-Produkte, die Diphenhydramin als EINZIGEN Wirkstoff enthalten. Vermeiden Sie Benadryl-D (enthält Abschwellmittel), Multi-Symptom-Formeln und alle Produkte, die Xylitol enthalten (giftig für Hunde). Normale Benadryl-Tabletten (25mg) oder flüssiges Kinder-Benadryl (12,5mg/5mL) sind sichere Optionen."
+      },
+      {
+        "question": "Kann ich meinem Hund täglich Benadryl geben?",
+        "answer": "Obwohl Benadryl für die kurzfristige Anwendung generell sicher ist, sollte die tägliche langfristige Anwendung nur unter tierärztlicher Aufsicht erfolgen. Eine längere Anwendung kann Dosisanpassungen oder alternative Behandlungen erfordern. Bei chronischen Allergien kann Ihr Tierarzt stattdessen verschreibungspflichtige Medikamente empfehlen."
+      },
+      {
+        "question": "Wie lange dauert es, bis Benadryl bei Hunden wirkt?",
+        "answer": "Benadryl beginnt typischerweise innerhalb von 30 Minuten zu wirken und erreicht seine maximale Wirksamkeit in 1-2 Stunden. Die Wirkung hält normalerweise 8-12 Stunden an. Bei Reisekrankheit oder Reiseangst geben Sie Benadryl 30 Minuten vor der Autofahrt oder Reise."
+      },
+      {
+        "question": "Kann ich Kinder-Benadryl für meinen Hund verwenden?",
+        "answer": "Ja, flüssiges Kinder-Benadryl (12,5mg pro 5mL) ist oft einfacher für kleinere Hunde zu dosieren. Überprüfen Sie jedoch die Inhaltsstoffe sorgfältig - vermeiden Sie jede Formel, die Xylitol (giftig für Hunde), Alkohol oder zusätzliche Wirkstoffe neben Diphenhydramin enthält."
+      },
+      {
+        "question": "Was passiert, wenn ich meinem Hund zu viel Benadryl gebe?",
+        "answer": "Wenn Sie eine Benadryl-Überdosis vermuten, kontaktieren Sie sofort Ihren Tierarzt oder das ASPCA Animal Poison Control Center (888-426-4435). Anzeichen einer Überdosis sind extreme Schläfrigkeit, Krampfanfälle, schneller Herzschlag, Atemnot, Unruhe und erweiterte Pupillen."
+      },
+      {
+        "question": "Ist Benadryl das Gleiche wie Diphenhydramin?",
+        "answer": "Ja, Benadryl ist ein Markenname für das Antihistaminikum Diphenhydramin. Generisches Diphenhydramin wirkt identisch und ist oft günstiger. Ob Sie Marken-Benadryl oder generisches Diphenhydramin verwenden, überprüfen Sie immer, dass es der einzige Wirkstoff ist."
+      },
+      {
+        "question": "Wie viel Benadryl kann ich meinem 23 kg Hund geben?",
+        "answer": "Ein 23 kg schwerer Hund kann 50 mg Benadryl (zwei 25mg Tabletten) alle 8-12 Stunden nehmen. Dies folgt der Standarddosierung von 1 mg pro Pfund Körpergewicht. Überschreiten Sie nicht 100 mg pro Dosis (maximal 2 mg pro Pfund)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Medizinischer Hinweis",
+    "text": "Dieser Rechner und die bereitgestellten Informationen dienen nur zu Bildungszwecken und sollten nicht die professionelle tierärztliche Beratung ersetzen. Konsultieren Sie immer Ihren Tierarzt, bevor Sie Ihrem Haustier Medikamente geben. Einzelne Hunde können unterschiedliche Bedürfnisse basierend auf ihrem Gesundheitszustand, Alter und anderen Faktoren haben."
+  },
+  "footer": {
+    "about": "Ein kostenloser Rechner, der Tierbesitzern hilft, die sichere Benadryl-Dosis für ihre Hunde zu bestimmen. Konsultieren Sie immer Ihren Tierarzt, bevor Sie Medikamente verabreichen.",
+    "quickLinks": {
+      "title": "Schnelllinks",
+      "calculator": "Dosierungsrechner",
+      "dosageChart": "Dosierungstabelle",
+      "safetyGuidelines": "Sicherheitsrichtlinien",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "disclaimer": "Haftungsausschluss"
+    },
+    "disclaimerText": "Dieser Rechner dient nur zu Informationszwecken. Konsultieren Sie immer Ihren Tierarzt, bevor Sie Ihrem Haustier Medikamente geben.",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

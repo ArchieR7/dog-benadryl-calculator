@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Köpekler İçin Benadryl Doz Hesaplayıcı - Kiloya Göre Güvenli Difenhidramin Dozu",
+    "titleTemplate": "%s | Köpek Benadryl Hesaplayıcı",
+    "description": "Köpekler için ücretsiz Benadryl doz hesaplayıcı. Köpeğinizin kilosuna göre güvenli difenhidramin dozunu hesaplayın. Doz tablosu, sıvı Benadryl kılavuzu ve güvenlik bilgileri içerir.",
+    "keywords": "köpekler için benadryl, köpek benadryl dozu, köpekler için difenhidramin, köpeğime ne kadar benadryl verebilirim, köpek benadryl doz tablosu, köpekler için sıvı benadryl"
+  },
+  "header": {
+    "title": "Köpek Benadryl Hesaplayıcı",
+    "nav": {
+      "calculator": "Hesaplayıcı",
+      "dosageChart": "Dozaj Tablosu",
+      "safetyGuide": "Güvenlik Rehberi",
+      "faq": "SSS"
+    }
+  },
+  "hero": {
+    "title": "Köpekler İçin Benadryl: Doz Hesaplayıcı",
+    "subtitle": "Köpeğime ne kadar Benadryl verebilirim? Köpeğinizin kilosuna göre güvenli difenhidramin dozunu hesaplayın. Alerji, kaşıntı ve anksiyete için doz tablosu içeren ücretsiz hesaplayıcı."
+  },
+  "calculator": {
+    "title": "Benadryl Doz Hesaplayıcı",
+    "weightLabel": "Köpeğin Kilosu",
+    "weightPlaceholder": "Kilo girin",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Benadryl Türü",
+    "typeOptions": {
+      "tablet25": "Tablet (25mg)",
+      "tablet50": "Tablet (50mg)",
+      "liquid": "Sıvı (12,5mg/5ml)",
+      "chewable": "Çiğnenebilir (12,5mg)"
+    },
+    "purposeLabel": "Amaç (İsteğe Bağlı)",
+    "purposeOptions": {
+      "allergies": "Alerji / Kaşıntı",
+      "motion": "Hareket Hastalığı",
+      "anxiety": "Hafif Anksiyete",
+      "insect": "Böcek Isırıkları",
+      "other": "Diğer"
+    },
+    "specialConditions": "Köpeğim hamile, emziriyor, yavru veya sağlık sorunları var",
+    "result": {
+      "singleDose": "Önerilen Tek Doz",
+      "frequency": "Sıklık",
+      "frequencyValue": "Günde 2-3 kez (her 8-12 saatte)",
+      "maxDailyDose": "Maksimum Günlük Doz",
+      "importantNotes": "Önemli Notlar:",
+      "vetReminder": "Özellikle köpeğiniz başka ilaçlar kullanıyorsa veya altta yatan sağlık sorunları varsa, köpeğinize Benadryl vermeden önce her zaman veterinerinize danışın."
+    },
+    "warnings": {
+      "smallDogs": "Çok küçük köpekler daha hassastır. Düşük dozla başlayın ve veterinerinize danışın.",
+      "largeDogs": "Büyük ırklar için dozu veterinerinizle doğrulayın.",
+      "specialConditions": "Sağlık sorunları olan veya hamile/emziren köpekler veteriner rehberliği gerektirir.",
+      "liquidRecommended": "Küçük köpekler için sıvı form daha doğru dozlama için daha kolay olabilir.",
+      "tablet50TooStrong": "50mg tabletler 25 lbs altındaki köpekler için çok güçlüdür.",
+      "largeVolume": "Büyük hacim - tabletler daha pratik olabilir."
+    }
+  },
+  "dosageChart": {
+    "title": "Köpekler İçin Benadryl Doz Tablosu",
+    "subtitle": "1lb vücut ağırlığı başına 1mg'a dayalı hızlı referans",
+    "headers": {
+      "weight": "Köpek Kilosu",
+      "dosage": "Doz (mg)",
+      "tablets25": "25mg Tabletler",
+      "tablets50": "50mg Tabletler",
+      "liquid": "Sıvı (12,5mg/5ml)"
+    },
+    "note": "Not: Bu tablo yalnızca genel referans içindir. Dozlar köpeğinizin bireysel sağlık ihtiyaçlarına göre değişebilir. İlaç vermeden önce her zaman veterinerinize danışın."
+  },
+  "liquidGuide": {
+    "title": "Köpekler İçin Sıvı Benadryl: Dozlama Kılavuzu",
+    "intro": "Sıvı Benadryl (çocuk formülü) küçük köpekler için dozlaması genellikle daha kolaydır. Standart çocuk sıvı Benadryl 5 mL (1 çay kaşığı) başına 12,5 mg içerir.",
+    "conversion": {
+      "title": "Çocuk Sıvı Benadryl Dönüşümü:",
+      "formula": "12,5 mg = 5 mL (1 çay kaşığı) = 1 çk"
+    },
+    "chartTitle": "Köpekler İçin Sıvı Benadryl Doz Tablosu:",
+    "headers": {
+      "weight": "Köpek Kilosu",
+      "dose": "Doz (mg)",
+      "liquid": "Sıvı Miktarı"
+    },
+    "warning": {
+      "title": "Çocuk Benadryl İçin Önemli Uyarı:",
+      "items": [
+        "İçerikleri dikkatli kontrol edin - ksilitol içeren formüllerden kaçının (köpekler için zehirli)",
+        "Yalnızca difenhidramin içeren formüller kullanın (dekonjestanlar veya ağrı kesiciler olmadan)",
+        "\"Benadryl-D\" veya herhangi bir çoklu semptom formülünden kaçının",
+        "Köpekler için alkolsüz formüller tercih edilir"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Köpeğime Ne Kadar Benadryl Verebilirim?",
+    "intro": "Köpekler için standart Benadryl dozu vücut ağırlığının pound'u başına 1 mg'dır ve günde 2-3 kez verilir. Bu, insan Benadryl'inde bulunan aynı aktif bileşendir (difenhidramin), ancak dozlama köpekler için farklı hesaplanır.",
+    "simpleRule": {
+      "title": "Basit Kural:",
+      "formula": "1 mg Benadryl = 1 lb vücut ağırlığı",
+      "example": "Örnek: 25 lb'lik bir köpek 25 mg Benadryl (bir adet 25mg tablet) alabilir"
+    },
+    "guidelines": {
+      "title": "Önemli Dozlama Kuralları:",
+      "items": {
+        "frequency": "Sıklık: Her 8-12 saatte bir verin (günde 2-3 kez)",
+        "maximum": "Maksimum: Tek dozda pound başına 2 mg'ı geçmeyin",
+        "duration": "Süre: Veterineriniz tarafından yönlendirilmediği sürece yalnızca kısa süreli kullanım",
+        "forms": "Formlar: Yalnızca saf difenhidramin kullanın — dekonjestanlı formüllerden kaçının (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Benadryl Köpekler İçin Güvenli mi?",
+    "intro": "Evet, Benadryl doğru dozda verildiğinde çoğu köpek için genellikle güvenlidir. Benadryl'in aktif bileşeni olan difenhidramin, veterinerlerin köpeklerdeki alerji, kaşıntı ve hafif anksiyete için yaygın olarak önerdiği bir antihistaminiktir.",
+    "safeFor": {
+      "title": "Güvenli Olanlar:",
+      "items": [
+        "Sağlıklı yetişkin köpekler",
+        "Kısa süreli alerji rahatlaması",
+        "Hareket hastalığı",
+        "Hafif anksiyete durumları",
+        "Böcek ısırığı reaksiyonları"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Güvenli Olmayanlar:",
+      "items": [
+        "Glokomu olan köpekler",
+        "Kalp hastalığı olan köpekler",
+        "Hamile veya emziren köpekler",
+        "6 aydan küçük yavrular",
+        "Belirli ilaçlar alan köpekler"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Köpeklere Ne Zaman Benadryl Verilmeli",
+    "allergies": {
+      "title": "Alerjiler",
+      "description": "Mevsimsel alerjiler, çevresel alerjenler, kaşıntılı cilt, kurdeşen ve hafif alerjik reaksiyonlar."
+    },
+    "motionSickness": {
+      "title": "Hareket Hastalığı",
+      "description": "Araba yolculukları, seyahat anksiyetesi. En iyi sonuçlar için seyahattan 30 dakika önce verin."
+    },
+    "anxiety": {
+      "title": "Hafif Anksiyete",
+      "description": "Fırtınalar, havai fişekler, veteriner ziyaretleri. Uyuşukluk etkisi endişeli köpekleri sakinleştirmeye yardımcı olabilir."
+    },
+    "insectBites": {
+      "title": "Böcek Isırıkları",
+      "description": "Arı sokmaları, sivrisinek ısırıkları, şişlik veya kaşıntıya neden olan örümcek ısırıkları."
+    }
+  },
+  "safety": {
+    "title": "Yan Etkiler ve Uyarı İşaretleri",
+    "commonSideEffects": {
+      "title": "Yaygın Yan Etkiler (Genellikle Zararsız):",
+      "items": [
+        "Uyuşukluk veya sedasyon",
+        "Ağız kuruluğu",
+        "İdrar retansiyonu",
+        "Hızlı nefes alma (başlangıçta)"
+      ]
+    },
+    "callVet": {
+      "title": "Şunları Fark Ederseniz Hemen Veterinerinizi Arayın:",
+      "items": [
+        "Nefes almada zorluk veya şişlik",
+        "Aşırı uyuşukluk veya tepkisizlik",
+        "Nöbetler veya titreme",
+        "Kusma veya ishal",
+        "24 saatten fazla süren iştah kaybı",
+        "Hızlı veya düzensiz kalp atışı"
+      ]
+    },
+    "whenNot": {
+      "title": "Benadryl Ne Zaman VERİLMEMELİ:",
+      "items": [
+        "Glokomu olan köpekler",
+        "Kardiyovasküler hastalığı olan köpekler",
+        "Yüksek tansiyonu olan köpekler",
+        "Hamile veya emziren köpekler",
+        "Belirli ilaçlar alan köpekler (MAO inhibitörleri, sakinleştiriciler)",
+        "6 aydan küçük yavrular"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Köpekler İçin Benadryl Hakkında Sık Sorulan Sorular",
+    "items": [
+      {
+        "question": "Benadryl köpekler için güvenli mi?",
+        "answer": "Evet, Benadryl (difenhidramin) vücut ağırlığının pound'u başına 1 mg doğru dozda verildiğinde köpekler için genellikle güvenlidir. Ancak glokomu, kardiyovasküler hastalığı, yüksek tansiyonu olan veya hamile/emziren köpeklere Benadryl vermekten kaçınmalısınız. Herhangi bir ilaç vermeden önce her zaman veterinerinize danışın."
+      },
+      {
+        "question": "Köpeğime ne kadar Benadryl verebilirim?",
+        "answer": "Köpekler için standart Benadryl dozu vücut ağırlığının pound'u başına 1 mg'dır ve günde 2-3 kez verilir (her 8-12 saatte). Örneğin, 25 pound'luk bir köpek 25 mg Benadryl alabilir. Tek dozda asla pound başına 2 mg'ı geçmeyin. Doğru dozlama için yukarıdaki hesaplayıcımızı kullanın."
+      },
+      {
+        "question": "Benadryl köpeklere ne yapar?",
+        "answer": "Benadryl, köpeklerdeki alerji semptomlarını hafifletmeye yardımcı olan bir antihistaminiktir; kaşıntı, kurdeşen, şişlik ve hapşırma dahil. Ayrıca hareket hastalığı, hafif anksiyete ve böcek ısırıklarına veya sokmalarına karşı reaksiyonlarda da yardımcı olabilir. Aktif bileşen difenhidramin, histamin reseptörlerini bloke eder."
+      },
+      {
+        "question": "Köpekler alerji için Benadryl alabilir mi?",
+        "answer": "Evet, köpekler alerji için Benadryl alabilir. Mevsimsel alerjileri, çevresel alerjenleri, gıda alerjilerini (sadece semptomlar) ve kaşıntılı cilde veya kurdeşene neden olan alerjik reaksiyonları etkili bir şekilde tedavi eder. Her 8-12 saatte vücut ağırlığının pound'u başına 1 mg standart dozu verin."
+      },
+      {
+        "question": "Köpekler kaşıntı için Benadryl alabilir mi?",
+        "answer": "Evet, Benadryl alerji, böcek ısırıkları veya cilt tahrişinden kaynaklanan köpeklerdeki kaşıntıyı hafifletmeye yardımcı olabilir. Antihistamin özellikleri kaşıntıya neden olan histamin tepkisini azaltır. En iyi sonuçlar için semptomlar düzelene kadar her 8-12 saatte vücut ağırlığının pound'u başına 1 mg verin."
+      },
+      {
+        "question": "Hangi tür Benadryl köpekler için güvenlidir?",
+        "answer": "Yalnızca TEK aktif bileşen olarak difenhidramin içeren Benadryl ürünlerini kullanın. Benadryl-D'den (dekonjestan içerir), çoklu semptom formüllerinden ve ksilitol içeren herhangi bir üründen (köpekler için zehirli) kaçının. Normal Benadryl tabletleri (25mg) veya çocuk sıvı Benadryl (12,5mg/5mL) güvenli seçeneklerdir."
+      },
+      {
+        "question": "Köpeğime her gün Benadryl verebilir miyim?",
+        "answer": "Benadryl kısa süreli kullanım için genellikle güvenli olsa da, günlük uzun süreli kullanım yalnızca veteriner gözetiminde yapılmalıdır. Uzun süreli kullanım doz ayarlamaları veya alternatif tedaviler gerektirebilir. Kronik alerjiler için veterineriniz bunun yerine reçeteli ilaçlar önerebilir."
+      },
+      {
+        "question": "Benadryl köpeklerde ne kadar sürede etki eder?",
+        "answer": "Benadryl genellikle 30 dakika içinde etki etmeye başlar ve 1-2 saat içinde maksimum etkinliğe ulaşır. Etkiler genellikle 8-12 saat sürer. Hareket hastalığı veya seyahat anksiyetesi için araba yolculuğundan 30 dakika önce Benadryl verin."
+      },
+      {
+        "question": "Köpeğim için çocuk Benadryl kullanabilir miyim?",
+        "answer": "Evet, çocuk sıvı Benadryl (5mL başına 12,5mg) daha küçük köpekler için dozlaması genellikle daha kolaydır. Ancak içerikleri dikkatli kontrol edin - ksilitol (köpekler için zehirli), alkol veya difenhidramin dışında ek aktif bileşenler içeren herhangi bir formülden kaçının."
+      },
+      {
+        "question": "Köpeğime çok fazla Benadryl verirsem ne olur?",
+        "answer": "Bir Benadryl aşırı dozundan şüpheleniyorsanız, hemen veterinerinize veya ASPCA Hayvan Zehir Kontrol Merkezine (888-426-4435) başvurun. Aşırı doz belirtileri arasında aşırı uyuşukluk, nöbetler, hızlı kalp atışı, nefes almada zorluk, ajitasyon ve genişlemiş göz bebekleri bulunur."
+      },
+      {
+        "question": "Benadryl difenhidramin ile aynı mı?",
+        "answer": "Evet, Benadryl antihistamin difenhidramin için bir marka adıdır. Jenerik difenhidramin aynı şekilde çalışır ve genellikle daha uygun fiyatlıdır. İster marka Benadryl ister jenerik difenhidramin kullanın, her zaman tek aktif bileşen olduğunu doğrulayın."
+      },
+      {
+        "question": "50 lb'lik köpeğime ne kadar Benadryl verebilirim?",
+        "answer": "50 pound'luk bir köpek her 8-12 saatte 50 mg Benadryl (iki adet 25mg tablet) alabilir. Bu, vücut ağırlığının pound'u başına 1 mg standart dozunu takip eder. Doz başına 100 mg'ı (pound başına maksimum 2 mg) geçmeyin."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Tıbbi Sorumluluk Reddi",
+    "text": "Bu hesaplayıcı ve sağlanan bilgiler yalnızca eğitim amaçlıdır ve profesyonel veteriner tavsiyesinin yerini almamalıdır. Evcil hayvanınıza herhangi bir ilaç vermeden önce her zaman veterinerinize danışın. Bireysel köpeklerin sağlık durumlarına, yaşlarına ve diğer faktörlere göre farklı ihtiyaçları olabilir."
+  },
+  "footer": {
+    "about": "Evcil hayvan sahiplerinin köpekleri için güvenli Benadryl dozajını belirlemelerine yardımcı olan ücretsiz bir hesap makinesi. Herhangi bir ilaç vermeden önce her zaman veterinerinize danışın.",
+    "quickLinks": {
+      "title": "Hızlı Bağlantılar",
+      "calculator": "Dozaj Hesaplayıcı",
+      "dosageChart": "Dozaj Tablosu",
+      "safetyGuidelines": "Güvenlik Kuralları",
+      "faq": "SSS"
+    },
+    "legal": {
+      "title": "Yasal",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları",
+      "disclaimer": "Sorumluluk Reddi"
+    },
+    "disclaimerText": "Bu hesap makinesi yalnızca bilgilendirme amaçlıdır. Evcil hayvanınıza ilaç vermeden önce her zaman veterinerinize danışın.",
+    "copyright": "Tüm hakları saklıdır."
+  }
+}

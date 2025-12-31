@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Calculadora de Dosis de Benadryl para Perros - Dosis Segura de Difenhidramina",
+    "titleTemplate": "%s | Calculadora de Benadryl para Perros",
+    "description": "Calculadora gratuita de dosis de Benadryl para perros. Calcula la dosis segura de difenhidramina según el peso de tu perro. Incluye tabla de dosis, guía de Benadryl líquido e información de seguridad.",
+    "keywords": "benadryl para perros, dosis benadryl perros, difenhidramina para perros, cuánto benadryl puedo dar a mi perro, tabla de dosis benadryl perros, benadryl líquido para perros"
+  },
+  "header": {
+    "title": "Calculadora de Benadryl para Perros",
+    "nav": {
+      "calculator": "Calculadora",
+      "dosageChart": "Tabla de Dosis",
+      "safetyGuide": "Guía de Seguridad",
+      "faq": "Preguntas Frecuentes"
+    }
+  },
+  "hero": {
+    "title": "Benadryl para Perros: Calculadora de Dosis",
+    "subtitle": "¿Cuánto Benadryl puedo dar a mi perro? Calcula la dosis segura de difenhidramina según el peso de tu perro. Calculadora gratuita con tabla de dosis para alergias, picazón y ansiedad."
+  },
+  "calculator": {
+    "title": "Calculadora de Dosis de Benadryl",
+    "weightLabel": "Peso del Perro",
+    "weightPlaceholder": "Ingresa el peso",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Tipo de Benadryl",
+    "typeOptions": {
+      "tablet25": "Tableta (25mg)",
+      "tablet50": "Tableta (50mg)",
+      "liquid": "Líquido (12.5mg/5ml)",
+      "chewable": "Masticable (12.5mg)"
+    },
+    "purposeLabel": "Propósito (Opcional)",
+    "purposeOptions": {
+      "allergies": "Alergias / Picazón",
+      "motion": "Mareo por Movimiento",
+      "anxiety": "Ansiedad Leve",
+      "insect": "Picaduras de Insectos",
+      "other": "Otro"
+    },
+    "specialConditions": "Mi perro está embarazada, lactando, es cachorro o tiene condiciones de salud",
+    "result": {
+      "singleDose": "Dosis Única Recomendada",
+      "frequency": "Frecuencia",
+      "frequencyValue": "2-3 veces al día (cada 8-12 horas)",
+      "maxDailyDose": "Dosis Máxima Diaria",
+      "importantNotes": "Notas Importantes:",
+      "vetReminder": "Siempre consulta a tu veterinario antes de dar Benadryl a tu perro, especialmente si tu perro toma otros medicamentos o tiene condiciones de salud subyacentes."
+    },
+    "warnings": {
+      "smallDogs": "Los perros muy pequeños son más sensibles. Comienza con una dosis menor y consulta a tu veterinario.",
+      "largeDogs": "Para razas grandes, confirma la dosis con tu veterinario.",
+      "specialConditions": "Los perros con condiciones de salud o embarazadas/lactantes requieren orientación veterinaria.",
+      "liquidRecommended": "Para perros pequeños, la forma líquida puede ser más fácil de dosificar con precisión.",
+      "tablet50TooStrong": "Las tabletas de 50mg son demasiado fuertes para perros menores de 25 lbs.",
+      "largeVolume": "Volumen grande - las tabletas pueden ser más prácticas."
+    }
+  },
+  "dosageChart": {
+    "title": "Tabla de Dosis de Benadryl para Perros",
+    "subtitle": "Referencia rápida basada en 1mg por 1lb de peso corporal",
+    "headers": {
+      "weight": "Peso del Perro",
+      "dosage": "Dosis (mg)",
+      "tablets25": "Tabletas 25mg",
+      "tablets50": "Tabletas 50mg",
+      "liquid": "Líquido (12.5mg/5ml)"
+    },
+    "note": "Nota: Esta tabla es solo para referencia general. Las dosis pueden variar según las necesidades de salud individuales de tu perro. Siempre consulta a tu veterinario antes de administrar medicamentos."
+  },
+  "liquidGuide": {
+    "title": "Benadryl Líquido para Perros: Guía de Dosificación",
+    "intro": "El Benadryl líquido (fórmula infantil) a menudo es más fácil de dosificar para perros pequeños. El Benadryl líquido infantil estándar contiene 12.5 mg por 5 mL (1 cucharadita).",
+    "conversion": {
+      "title": "Conversión de Benadryl Líquido Infantil:",
+      "formula": "12.5 mg = 5 mL (1 cucharadita) = 1 cdta"
+    },
+    "chartTitle": "Tabla de Dosis de Benadryl Líquido para Perros:",
+    "headers": {
+      "weight": "Peso del Perro",
+      "dose": "Dosis (mg)",
+      "liquid": "Cantidad Líquida"
+    },
+    "warning": {
+      "title": "Advertencia Importante para Benadryl Infantil:",
+      "items": [
+        "Revisa los ingredientes cuidadosamente - evita fórmulas con xilitol (tóxico para perros)",
+        "Usa fórmulas solo con difenhidramina (sin descongestionantes ni analgésicos)",
+        "Evita \"Benadryl-D\" o cualquier fórmula multisíntomas",
+        "Se prefieren fórmulas sin alcohol para perros"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "¿Cuánto Benadryl Puedo Dar a Mi Perro?",
+    "intro": "La dosis estándar de Benadryl para perros es de 1 mg por libra de peso corporal, administrada 2-3 veces al día. Este es el mismo ingrediente activo (difenhidramina) que se encuentra en el Benadryl humano, pero la dosis se calcula diferente para perros.",
+    "simpleRule": {
+      "title": "La Regla Simple:",
+      "formula": "1 mg Benadryl = 1 lb de peso corporal",
+      "example": "Ejemplo: Un perro de 25 lb puede tomar 25 mg de Benadryl (una tableta de 25mg)"
+    },
+    "guidelines": {
+      "title": "Pautas Importantes de Dosificación:",
+      "items": {
+        "frequency": "Frecuencia: Dar cada 8-12 horas (2-3 veces al día)",
+        "maximum": "Máximo: No exceder 2 mg por libra en una sola dosis",
+        "duration": "Duración: Solo uso a corto plazo a menos que tu veterinario indique lo contrario",
+        "forms": "Formas: Usa solo difenhidramina simple — evita fórmulas con descongestionantes (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "¿Es Seguro el Benadryl para Perros?",
+    "intro": "Sí, el Benadryl generalmente es seguro para la mayoría de los perros cuando se administra en la dosis correcta. La difenhidramina, el ingrediente activo del Benadryl, es un antihistamínico que los veterinarios comúnmente recomiendan para alergias, picazón y ansiedad leve en perros.",
+    "safeFor": {
+      "title": "Seguro Para:",
+      "items": [
+        "Perros adultos sanos",
+        "Alivio de alergias a corto plazo",
+        "Mareo por movimiento",
+        "Situaciones de ansiedad leve",
+        "Reacciones a picaduras de insectos"
+      ]
+    },
+    "notSafeFor": {
+      "title": "No Seguro Para:",
+      "items": [
+        "Perros con glaucoma",
+        "Perros con enfermedad cardíaca",
+        "Perros embarazadas o lactantes",
+        "Cachorros menores de 6 meses",
+        "Perros con ciertos medicamentos"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Cuándo Dar Benadryl a los Perros",
+    "allergies": {
+      "title": "Alergias",
+      "description": "Alergias estacionales, alérgenos ambientales, piel con picazón, urticaria y reacciones alérgicas leves."
+    },
+    "motionSickness": {
+      "title": "Mareo por Movimiento",
+      "description": "Viajes en auto, ansiedad de viaje. Dar 30 minutos antes de viajar para mejores resultados."
+    },
+    "anxiety": {
+      "title": "Ansiedad Leve",
+      "description": "Tormentas eléctricas, fuegos artificiales, visitas al veterinario. El efecto de somnolencia puede ayudar a calmar perros ansiosos."
+    },
+    "insectBites": {
+      "title": "Picaduras de Insectos",
+      "description": "Picaduras de abeja, mosquitos, arañas que causan hinchazón o picazón."
+    }
+  },
+  "safety": {
+    "title": "Efectos Secundarios y Señales de Advertencia",
+    "commonSideEffects": {
+      "title": "Efectos Secundarios Comunes (Generalmente Inofensivos):",
+      "items": [
+        "Somnolencia o sedación",
+        "Boca seca",
+        "Retención urinaria",
+        "Respiración rápida (inicialmente)"
+      ]
+    },
+    "callVet": {
+      "title": "Llama a Tu Veterinario Inmediatamente Si Notas:",
+      "items": [
+        "Dificultad para respirar o hinchazón",
+        "Letargo extremo o falta de respuesta",
+        "Convulsiones o temblores",
+        "Vómitos o diarrea",
+        "Pérdida de apetito por más de 24 horas",
+        "Latidos cardíacos rápidos o irregulares"
+      ]
+    },
+    "whenNot": {
+      "title": "Cuándo NO Dar Benadryl:",
+      "items": [
+        "Perros con glaucoma",
+        "Perros con enfermedad cardiovascular",
+        "Perros con presión arterial alta",
+        "Perros embarazadas o lactantes",
+        "Perros que toman ciertos medicamentos (IMAOs, sedantes)",
+        "Cachorros menores de 6 meses"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes Sobre Benadryl para Perros",
+    "items": [
+      {
+        "question": "¿Es seguro el Benadryl para perros?",
+        "answer": "Sí, el Benadryl (difenhidramina) generalmente es seguro para perros cuando se administra en la dosis correcta de 1 mg por libra de peso corporal. Sin embargo, debes evitar dar Benadryl a perros con glaucoma, enfermedad cardiovascular, presión arterial alta o perros embarazadas/lactantes. Siempre consulta a tu veterinario antes de dar cualquier medicamento."
+      },
+      {
+        "question": "¿Cuánto Benadryl puedo dar a mi perro?",
+        "answer": "La dosis estándar de Benadryl para perros es de 1 mg por libra de peso corporal, administrada 2-3 veces al día (cada 8-12 horas). Por ejemplo, un perro de 25 libras puede tomar 25 mg de Benadryl. Nunca excedas 2 mg por libra en una sola dosis. Usa nuestra calculadora arriba para una dosificación precisa."
+      },
+      {
+        "question": "¿Qué hace el Benadryl para los perros?",
+        "answer": "El Benadryl es un antihistamínico que ayuda a aliviar los síntomas de alergia en perros, incluyendo picazón, urticaria, hinchazón y estornudos. También puede ayudar con el mareo por movimiento, ansiedad leve y reacciones a picaduras de insectos. El ingrediente activo difenhidramina bloquea los receptores de histamina."
+      },
+      {
+        "question": "¿Pueden los perros tomar Benadryl para alergias?",
+        "answer": "Sí, los perros pueden tomar Benadryl para alergias. Trata efectivamente las alergias estacionales, alérgenos ambientales, alergias alimentarias (solo síntomas) y reacciones alérgicas que causan piel con picazón o urticaria. Da la dosis estándar de 1 mg por libra de peso corporal cada 8-12 horas."
+      },
+      {
+        "question": "¿Pueden los perros tomar Benadryl para la picazón?",
+        "answer": "Sí, el Benadryl puede ayudar a aliviar la picazón en perros causada por alergias, picaduras de insectos o irritación de la piel. Las propiedades antihistamínicas reducen la respuesta de histamina que causa la picazón. Para mejores resultados, da 1 mg por libra de peso corporal cada 8-12 horas hasta que los síntomas mejoren."
+      },
+      {
+        "question": "¿Qué tipo de Benadryl es seguro para perros?",
+        "answer": "Solo usa productos de Benadryl que contengan difenhidramina como el ÚNICO ingrediente activo. Evita Benadryl-D (contiene descongestionantes), fórmulas multisíntomas y cualquier producto que contenga xilitol (tóxico para perros). Las tabletas regulares de Benadryl (25mg) o el Benadryl líquido infantil (12.5mg/5mL) son opciones seguras."
+      },
+      {
+        "question": "¿Puedo dar Benadryl a mi perro todos los días?",
+        "answer": "Aunque el Benadryl generalmente es seguro para uso a corto plazo, el uso diario a largo plazo solo debe hacerse bajo supervisión veterinaria. El uso prolongado puede requerir ajustes de dosis o tratamientos alternativos. Para alergias crónicas, tu veterinario puede recomendar medicamentos recetados en su lugar."
+      },
+      {
+        "question": "¿Cuánto tiempo tarda el Benadryl en hacer efecto en perros?",
+        "answer": "El Benadryl típicamente comienza a hacer efecto en 30 minutos y alcanza su máxima efectividad en 1-2 horas. Los efectos generalmente duran 8-12 horas. Para mareo por movimiento o ansiedad de viaje, da Benadryl 30 minutos antes del viaje en auto."
+      },
+      {
+        "question": "¿Puedo usar Benadryl infantil para mi perro?",
+        "answer": "Sí, el Benadryl líquido infantil (12.5mg por 5mL) a menudo es más fácil de dosificar para perros más pequeños. Sin embargo, revisa los ingredientes cuidadosamente - evita cualquier fórmula que contenga xilitol (tóxico para perros), alcohol u otros ingredientes activos además de difenhidramina."
+      },
+      {
+        "question": "¿Qué pasa si le doy demasiado Benadryl a mi perro?",
+        "answer": "Si sospechas una sobredosis de Benadryl, contacta a tu veterinario o al Centro de Control de Envenenamiento Animal ASPCA (888-426-4435) inmediatamente. Los signos de sobredosis incluyen somnolencia extrema, convulsiones, latidos cardíacos rápidos, dificultad para respirar, agitación y pupilas dilatadas."
+      },
+      {
+        "question": "¿Es el Benadryl lo mismo que la difenhidramina?",
+        "answer": "Sí, Benadryl es un nombre comercial para el antihistamínico difenhidramina. La difenhidramina genérica funciona de manera idéntica y a menudo es más económica. Ya sea usando Benadryl de marca o difenhidramina genérica, siempre verifica que sea el único ingrediente activo."
+      },
+      {
+        "question": "¿Cuánto Benadryl puedo dar a mi perro de 50 lb?",
+        "answer": "Un perro de 50 libras puede tomar 50 mg de Benadryl (dos tabletas de 25mg) cada 8-12 horas. Esto sigue la dosis estándar de 1 mg por libra de peso corporal. No excedas 100 mg por dosis (máximo 2 mg por libra)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Aviso Médico",
+    "text": "Esta calculadora y la información proporcionada son solo para fines educativos y no deben reemplazar el consejo veterinario profesional. Siempre consulta con tu veterinario antes de dar cualquier medicamento a tu mascota. Los perros individuales pueden tener diferentes necesidades según su estado de salud, edad y otros factores."
+  },
+  "footer": {
+    "about": "Una calculadora gratuita para ayudar a los dueños de mascotas a determinar la dosis segura de Benadryl para sus perros. Siempre consulte a su veterinario antes de dar cualquier medicamento.",
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "calculator": "Calculadora de Dosis",
+      "dosageChart": "Tabla de Dosificación",
+      "safetyGuidelines": "Guías de Seguridad",
+      "faq": "Preguntas Frecuentes"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "disclaimer": "Aviso Legal"
+    },
+    "disclaimerText": "Esta calculadora es solo para fines informativos. Siempre consulte a su veterinario antes de dar medicamentos a su mascota.",
+    "copyright": "Todos los derechos reservados."
+  }
+}

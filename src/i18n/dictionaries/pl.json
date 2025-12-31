@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Kalkulator Dawkowania Benadryl dla Psów - Bezpieczna Dawka Difenhydraminy według Wagi",
+    "titleTemplate": "%s | Kalkulator Benadryl dla Psów",
+    "description": "Darmowy kalkulator dawkowania Benadryl dla psów. Oblicz bezpieczną dawkę difenhydraminy na podstawie wagi Twojego psa. Zawiera tabelę dawkowania, przewodnik po płynnym Benadryl i informacje o bezpieczeństwie.",
+    "keywords": "benadryl dla psów, dawkowanie benadryl psy, difenhydramina dla psów, ile benadryl mogę dać mojemu psu, tabela dawkowania benadryl psy, płynny benadryl dla psów"
+  },
+  "header": {
+    "title": "Kalkulator Benadryl dla Psów",
+    "nav": {
+      "calculator": "Kalkulator",
+      "dosageChart": "Tabela Dawek",
+      "safetyGuide": "Przewodnik Bezpieczeństwa",
+      "faq": "Najczęstsze Pytania"
+    }
+  },
+  "hero": {
+    "title": "Benadryl dla Psów: Kalkulator Dawkowania",
+    "subtitle": "Ile Benadryl mogę dać mojemu psu? Oblicz bezpieczną dawkę difenhydraminy na podstawie wagi Twojego psa. Darmowy kalkulator z tabelą dawkowania dla alergii, swędzenia i lęku."
+  },
+  "calculator": {
+    "title": "Kalkulator Dawkowania Benadryl",
+    "weightLabel": "Waga Psa",
+    "weightPlaceholder": "Wprowadź wagę",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Rodzaj Benadryl",
+    "typeOptions": {
+      "tablet25": "Tabletka (25mg)",
+      "tablet50": "Tabletka (50mg)",
+      "liquid": "Płyn (12,5mg/5ml)",
+      "chewable": "Do żucia (12,5mg)"
+    },
+    "purposeLabel": "Cel (Opcjonalnie)",
+    "purposeOptions": {
+      "allergies": "Alergie / Swędzenie",
+      "motion": "Choroba Lokomocyjna",
+      "anxiety": "Łagodny Lęk",
+      "insect": "Ukąszenia Owadów",
+      "other": "Inne"
+    },
+    "specialConditions": "Mój pies jest w ciąży, karmi, jest szczenięciem lub ma problemy zdrowotne",
+    "result": {
+      "singleDose": "Zalecana Pojedyncza Dawka",
+      "frequency": "Częstotliwość",
+      "frequencyValue": "2-3 razy dziennie (co 8-12 godzin)",
+      "maxDailyDose": "Maksymalna Dawka Dzienna",
+      "importantNotes": "Ważne Uwagi:",
+      "vetReminder": "Zawsze skonsultuj się z weterynarzem przed podaniem Benadryl swojemu psu, szczególnie jeśli Twój pies przyjmuje inne leki lub ma podstawowe problemy zdrowotne."
+    },
+    "warnings": {
+      "smallDogs": "Bardzo małe psy są bardziej wrażliwe. Zacznij od niższej dawki i skonsultuj się z weterynarzem.",
+      "largeDogs": "Dla dużych ras potwierdź dawkowanie z weterynarzem.",
+      "specialConditions": "Psy z problemami zdrowotnymi lub w ciąży/karmiące wymagają wskazówek weterynarza.",
+      "liquidRecommended": "Dla małych psów płynna forma może być łatwiejsza do dokładnego dawkowania.",
+      "tablet50TooStrong": "Tabletki 50mg są zbyt silne dla psów poniżej 25 lbs.",
+      "largeVolume": "Duża objętość - tabletki mogą być bardziej praktyczne."
+    }
+  },
+  "dosageChart": {
+    "title": "Tabela Dawkowania Benadryl dla Psów",
+    "subtitle": "Szybki przewodnik oparty na 1mg na 1lb masy ciała",
+    "headers": {
+      "weight": "Waga Psa",
+      "dosage": "Dawka (mg)",
+      "tablets25": "Tabletki 25mg",
+      "tablets50": "Tabletki 50mg",
+      "liquid": "Płyn (12,5mg/5ml)"
+    },
+    "note": "Uwaga: Ta tabela służy tylko do ogólnych celów. Dawkowanie może się różnić w zależności od indywidualnych potrzeb zdrowotnych Twojego psa. Zawsze skonsultuj się z weterynarzem przed podaniem leków."
+  },
+  "liquidGuide": {
+    "title": "Płynny Benadryl dla Psów: Przewodnik Dawkowania",
+    "intro": "Płynny Benadryl (formuła dla dzieci) jest często łatwiejszy do dawkowania dla małych psów. Standardowy płynny Benadryl dla dzieci zawiera 12,5 mg na 5 mL (1 łyżeczka).",
+    "conversion": {
+      "title": "Przelicznik Płynnego Benadryl dla Dzieci:",
+      "formula": "12,5 mg = 5 mL (1 łyżeczka) = 1 łyż."
+    },
+    "chartTitle": "Tabela Dawkowania Płynnego Benadryl dla Psów:",
+    "headers": {
+      "weight": "Waga Psa",
+      "dose": "Dawka (mg)",
+      "liquid": "Ilość Płynu"
+    },
+    "warning": {
+      "title": "Ważne Ostrzeżenie dla Benadryl dla Dzieci:",
+      "items": [
+        "Sprawdź dokładnie składniki - unikaj formuł z ksylitolem (toksycznym dla psów)",
+        "Używaj formuł tylko z difenhydraminą (bez środków udrażniających nos lub przeciwbólowych)",
+        "Unikaj \"Benadryl-D\" lub jakichkolwiek formuł wieloobjawowych",
+        "Formuły bezalkoholowe są preferowane dla psów"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Ile Benadryl Mogę Dać Mojemu Psu?",
+    "intro": "Standardowe dawkowanie Benadryl dla psów wynosi 1 mg na funt masy ciała, podawane 2-3 razy dziennie. To ta sama substancja czynna (difenhydramina) co w ludzkim Benadryl, ale dawkowanie jest obliczane inaczej dla psów.",
+    "simpleRule": {
+      "title": "Prosta Zasada:",
+      "formula": "1 mg Benadryl = 1 lb masy ciała",
+      "example": "Przykład: Pies 25 lb może przyjąć 25 mg Benadryl (jedna tabletka 25mg)"
+    },
+    "guidelines": {
+      "title": "Ważne Wytyczne Dawkowania:",
+      "items": {
+        "frequency": "Częstotliwość: Podawaj co 8-12 godzin (2-3 razy dziennie)",
+        "maximum": "Maksimum: Nie przekraczaj 2 mg na funt w jednej dawce",
+        "duration": "Czas trwania: Tylko krótkotrwałe stosowanie, chyba że lekarz weterynarii zaleci inaczej",
+        "forms": "Formy: Używaj tylko czystej difenhydraminy — unikaj formuł ze środkami udrażniającymi (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Czy Benadryl Jest Bezpieczny dla Psów?",
+    "intro": "Tak, Benadryl jest ogólnie bezpieczny dla większości psów przy prawidłowym dawkowaniu. Difenhydramina, substancja czynna w Benadryl, to lek przeciwhistaminowy, który weterynarze często zalecają przy alergiach, swędzeniu i łagodnym lęku u psów.",
+    "safeFor": {
+      "title": "Bezpieczny Dla:",
+      "items": [
+        "Zdrowych dorosłych psów",
+        "Krótkotrwałej ulgi przy alergiach",
+        "Choroby lokomocyjnej",
+        "Sytuacji łagodnego lęku",
+        "Reakcji na ukąszenia owadów"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Nie Jest Bezpieczny Dla:",
+      "items": [
+        "Psów z jaskrą",
+        "Psów z chorobami serca",
+        "Suk w ciąży lub karmiących",
+        "Szczeniąt poniżej 6 miesięcy",
+        "Psów przyjmujących niektóre leki"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Kiedy Podawać Benadryl Psom",
+    "allergies": {
+      "title": "Alergie",
+      "description": "Alergie sezonowe, alergeny środowiskowe, swędząca skóra, pokrzywka i łagodne reakcje alergiczne."
+    },
+    "motionSickness": {
+      "title": "Choroba Lokomocyjna",
+      "description": "Podróże samochodem, lęk przed podróżą. Podaj 30 minut przed podróżą dla najlepszych rezultatów."
+    },
+    "anxiety": {
+      "title": "Łagodny Lęk",
+      "description": "Burze, fajerwerki, wizyty u weterynarza. Efekt senności może pomóc uspokoić niespokojne psy."
+    },
+    "insectBites": {
+      "title": "Ukąszenia Owadów",
+      "description": "Użądlenia pszczół, ugryzienia komarów, pająków powodujące obrzęk lub swędzenie."
+    }
+  },
+  "safety": {
+    "title": "Działania Niepożądane i Sygnały Ostrzegawcze",
+    "commonSideEffects": {
+      "title": "Częste Działania Niepożądane (Zwykle Nieszkodliwe):",
+      "items": [
+        "Senność lub sedacja",
+        "Suchość w ustach",
+        "Zatrzymanie moczu",
+        "Szybki oddech (początkowo)"
+      ]
+    },
+    "callVet": {
+      "title": "Natychmiast Zadzwoń do Weterynarza Jeśli Zauważysz:",
+      "items": [
+        "Trudności w oddychaniu lub obrzęk",
+        "Skrajne osłabienie lub brak reakcji",
+        "Drgawki lub drżenie",
+        "Wymioty lub biegunkę",
+        "Utratę apetytu trwającą ponad 24 godziny",
+        "Szybkie lub nieregularne bicie serca"
+      ]
+    },
+    "whenNot": {
+      "title": "Kiedy NIE Podawać Benadryl:",
+      "items": [
+        "Psom z jaskrą",
+        "Psom z chorobami sercowo-naczyniowymi",
+        "Psom z wysokim ciśnieniem krwi",
+        "Sukom w ciąży lub karmiącym",
+        "Psom przyjmującym niektóre leki (IMAO, leki uspokajające)",
+        "Szczeniętom poniżej 6 miesięcy"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Najczęściej Zadawane Pytania o Benadryl dla Psów",
+    "items": [
+      {
+        "question": "Czy Benadryl jest bezpieczny dla psów?",
+        "answer": "Tak, Benadryl (difenhydramina) jest ogólnie bezpieczny dla psów przy prawidłowym dawkowaniu 1 mg na funt masy ciała. Należy jednak unikać podawania Benadryl psom z jaskrą, chorobami sercowo-naczyniowymi, wysokim ciśnieniem krwi lub sukom w ciąży/karmiącym. Zawsze skonsultuj się z weterynarzem przed podaniem jakiegokolwiek leku."
+      },
+      {
+        "question": "Ile Benadryl mogę dać mojemu psu?",
+        "answer": "Standardowe dawkowanie Benadryl dla psów wynosi 1 mg na funt masy ciała, podawane 2-3 razy dziennie (co 8-12 godzin). Na przykład, pies ważący 25 funtów może przyjąć 25 mg Benadryl. Nigdy nie przekraczaj 2 mg na funt w jednej dawce. Użyj naszego kalkulatora powyżej dla dokładnego dawkowania."
+      },
+      {
+        "question": "Co robi Benadryl dla psów?",
+        "answer": "Benadryl to lek przeciwhistaminowy, który pomaga łagodzić objawy alergii u psów, w tym swędzenie, pokrzywkę, obrzęk i kichanie. Może również pomóc przy chorobie lokomocyjnej, łagodnym lęku i reakcjach na ukąszenia owadów. Substancja czynna difenhydramina blokuje receptory histaminowe."
+      },
+      {
+        "question": "Czy psy mogą brać Benadryl na alergie?",
+        "answer": "Tak, psy mogą brać Benadryl na alergie. Skutecznie leczy alergie sezonowe, alergeny środowiskowe, alergie pokarmowe (tylko objawy) i reakcje alergiczne powodujące swędząca skórę lub pokrzywkę. Podaj standardową dawkę 1 mg na funt masy ciała co 8-12 godzin."
+      },
+      {
+        "question": "Czy psy mogą brać Benadryl na swędzenie?",
+        "answer": "Tak, Benadryl może pomóc złagodzić swędzenie u psów spowodowane alergiami, ukąszeniami owadów lub podrażnieniem skóry. Właściwości przeciwhistaminowe redukują reakcję histaminową powodującą swędzenie. Dla najlepszych rezultatów podawaj 1 mg na funt masy ciała co 8-12 godzin aż do ustąpienia objawów."
+      },
+      {
+        "question": "Jaki rodzaj Benadryl jest bezpieczny dla psów?",
+        "answer": "Używaj tylko produktów Benadryl zawierających difenhydraminę jako JEDYNĄ substancję czynną. Unikaj Benadryl-D (zawiera środki udrażniające nos), formuł wieloobjawowych i jakichkolwiek produktów zawierających ksylitol (toksyczny dla psów). Zwykłe tabletki Benadryl (25mg) lub płynny Benadryl dla dzieci (12,5mg/5mL) to bezpieczne opcje."
+      },
+      {
+        "question": "Czy mogę podawać Benadryl mojemu psu codziennie?",
+        "answer": "Chociaż Benadryl jest ogólnie bezpieczny przy krótkotrwałym stosowaniu, codzienne długotrwałe stosowanie powinno odbywać się tylko pod nadzorem weterynarza. Przedłużone stosowanie może wymagać dostosowania dawki lub alternatywnych metod leczenia. W przypadku przewlekłych alergii weterynarz może zalecić leki na receptę."
+      },
+      {
+        "question": "Jak długo trwa działanie Benadryl u psów?",
+        "answer": "Benadryl zazwyczaj zaczyna działać w ciągu 30 minut i osiąga maksymalną skuteczność w 1-2 godziny. Efekty zwykle trwają 8-12 godzin. Przy chorobie lokomocyjnej lub lęku przed podróżą podaj Benadryl 30 minut przed jazdą samochodem."
+      },
+      {
+        "question": "Czy mogę używać Benadryl dla dzieci dla mojego psa?",
+        "answer": "Tak, płynny Benadryl dla dzieci (12,5mg na 5mL) jest często łatwiejszy do dawkowania dla mniejszych psów. Jednak dokładnie sprawdź składniki - unikaj jakiejkolwiek formuły zawierającej ksylitol (toksyczny dla psów), alkohol lub dodatkowe substancje czynne poza difenhydraminą."
+      },
+      {
+        "question": "Co się stanie, jeśli dam mojemu psu za dużo Benadryl?",
+        "answer": "Jeśli podejrzewasz przedawkowanie Benadryl, natychmiast skontaktuj się z weterynarzem lub ASPCA Animal Poison Control Center (888-426-4435). Oznaki przedawkowania to skrajna senność, drgawki, szybkie bicie serca, trudności w oddychaniu, pobudzenie i rozszerzone źrenice."
+      },
+      {
+        "question": "Czy Benadryl to to samo co difenhydramina?",
+        "answer": "Tak, Benadryl to marka handlowa leku przeciwhistaminowego difenhydramina. Generyczna difenhydramina działa identycznie i jest często tańsza. Niezależnie od tego, czy używasz markowego Benadryl, czy generycznej difenhydraminy, zawsze sprawdź, czy jest to jedyna substancja czynna."
+      },
+      {
+        "question": "Ile Benadryl mogę dać mojemu psu ważącemu 50 lb?",
+        "answer": "Pies ważący 50 funtów może przyjąć 50 mg Benadryl (dwie tabletki 25mg) co 8-12 godzin. Jest to zgodne ze standardowym dawkowaniem 1 mg na funt masy ciała. Nie przekraczaj 100 mg na dawkę (maksymalnie 2 mg na funt)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Zastrzeżenie Medyczne",
+    "text": "Ten kalkulator i podane informacje służą wyłącznie celom edukacyjnym i nie powinny zastępować profesjonalnej porady weterynaryjnej. Zawsze skonsultuj się z weterynarzem przed podaniem jakiegokolwiek leku swojemu zwierzęciu. Poszczególne psy mogą mieć różne potrzeby w zależności od stanu zdrowia, wieku i innych czynników."
+  },
+  "footer": {
+    "about": "Bezpłatny kalkulator pomagający właścicielom zwierząt określić bezpieczną dawkę Benadryl dla ich psów. Zawsze skonsultuj się z weterynarzem przed podaniem jakiegokolwiek leku.",
+    "quickLinks": {
+      "title": "Szybkie Linki",
+      "calculator": "Kalkulator Dawkowania",
+      "dosageChart": "Tabela Dawkowania",
+      "safetyGuidelines": "Wytyczne Bezpieczeństwa",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Prawne",
+      "privacy": "Polityka Prywatności",
+      "terms": "Warunki Korzystania",
+      "disclaimer": "Zastrzeżenie"
+    },
+    "disclaimerText": "Ten kalkulator służy wyłącznie celom informacyjnym. Zawsze skonsultuj się z weterynarzem przed podaniem leków swojemu zwierzęciu.",
+    "copyright": "Wszelkie prawa zastrzeżone."
+  }
+}

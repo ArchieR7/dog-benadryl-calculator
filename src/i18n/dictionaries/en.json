@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Dog Benadryl Dosage Calculator - Safe Diphenhydramine Dose by Weight",
+    "titleTemplate": "%s | Dog Benadryl Calculator",
+    "description": "Free Benadryl dosage calculator for dogs. Calculate the safe diphenhydramine dose based on your dog's weight. Includes dosage chart, liquid Benadryl guide, and safety information.",
+    "keywords": "benadryl for dogs, dog benadryl dosage, diphenhydramine for dogs, how much benadryl can i give my dog, benadryl dosage chart dogs, liquid benadryl for dogs"
+  },
+  "header": {
+    "title": "Dog Benadryl Calculator",
+    "nav": {
+      "calculator": "Calculator",
+      "dosageChart": "Dosage Chart",
+      "safetyGuide": "Safety Guide",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "Benadryl for Dogs: Dosage Calculator",
+    "subtitle": "How much Benadryl can I give my dog? Calculate the safe diphenhydramine dose based on your dog's weight. Free calculator with dosage chart for allergies, itching, and anxiety."
+  },
+  "calculator": {
+    "title": "Benadryl Dosage Calculator",
+    "weightLabel": "Dog's Weight",
+    "weightPlaceholder": "Enter weight",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Benadryl Type",
+    "typeOptions": {
+      "tablet25": "Tablet (25mg)",
+      "tablet50": "Tablet (50mg)",
+      "liquid": "Liquid (12.5mg/5ml)",
+      "chewable": "Chewable (12.5mg)"
+    },
+    "purposeLabel": "Purpose (Optional)",
+    "purposeOptions": {
+      "allergies": "Allergies / Itching",
+      "motion": "Motion Sickness",
+      "anxiety": "Mild Anxiety",
+      "insect": "Insect Bites / Stings",
+      "other": "Other"
+    },
+    "specialConditions": "My dog is pregnant, nursing, a puppy, or has health conditions",
+    "result": {
+      "singleDose": "Recommended Single Dose",
+      "frequency": "Frequency",
+      "frequencyValue": "2-3 times per day (every 8-12 hours)",
+      "maxDailyDose": "Max Daily Dose",
+      "importantNotes": "Important Notes:",
+      "vetReminder": "Always consult your veterinarian before giving Benadryl to your dog, especially if your dog takes other medications or has underlying health conditions."
+    },
+    "warnings": {
+      "smallDogs": "Very small dogs are more sensitive. Start with a lower dose and consult your vet.",
+      "largeDogs": "For large breeds, confirm dosage with your veterinarian.",
+      "specialConditions": "Dogs with health conditions or pregnant/nursing dogs require veterinary guidance.",
+      "liquidRecommended": "For small dogs, liquid form may be easier to dose accurately.",
+      "tablet50TooStrong": "50mg tablets are too strong for dogs under 25 lbs.",
+      "largeVolume": "Large volume - tablets may be more practical."
+    }
+  },
+  "dosageChart": {
+    "title": "Benadryl Dosage Chart for Dogs",
+    "subtitle": "Quick reference based on 1mg per 1lb body weight",
+    "headers": {
+      "weight": "Dog Weight",
+      "dosage": "Dosage (mg)",
+      "tablets25": "25mg Tablets",
+      "tablets50": "50mg Tablets",
+      "liquid": "Liquid (12.5mg/5ml)"
+    },
+    "note": "Note: This chart is for general reference only. Dosages may vary based on your dog's individual health needs. Always consult your veterinarian before administering medication."
+  },
+  "liquidGuide": {
+    "title": "Liquid Benadryl for Dogs: Dosing Guide",
+    "intro": "Liquid Benadryl (children's formula) is often easier to dose for small dogs. The standard children's liquid Benadryl contains 12.5 mg per 5 mL (1 teaspoon).",
+    "conversion": {
+      "title": "Children's Liquid Benadryl Conversion:",
+      "formula": "12.5 mg = 5 mL (1 teaspoon) = 1 tsp"
+    },
+    "chartTitle": "Liquid Benadryl Dosage Chart for Dogs:",
+    "headers": {
+      "weight": "Dog Weight",
+      "dose": "Dose (mg)",
+      "liquid": "Liquid Amount"
+    },
+    "warning": {
+      "title": "Important Warning for Children's Benadryl:",
+      "items": [
+        "Check ingredients carefully - avoid formulas with xylitol (toxic to dogs)",
+        "Use diphenhydramine-only formulas (no decongestants or pain relievers)",
+        "Avoid \"Benadryl-D\" or any multi-symptom formulas",
+        "Alcohol-free formulas are preferred for dogs"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "How Much Benadryl Can I Give My Dog?",
+    "intro": "The standard dosage of Benadryl for dogs is 1 mg per pound of body weight, given 2-3 times daily. This is the same active ingredient (diphenhydramine) found in human Benadryl, but the dosing is calculated differently for dogs.",
+    "simpleRule": {
+      "title": "The Simple Rule:",
+      "formula": "1 mg Benadryl = 1 lb of body weight",
+      "example": "Example: A 25 lb dog can take 25 mg of Benadryl (one 25mg tablet)"
+    },
+    "guidelines": {
+      "title": "Important Dosing Guidelines:",
+      "items": {
+        "frequency": "Frequency: Give every 8-12 hours (2-3 times per day)",
+        "maximum": "Maximum: Do not exceed 2 mg per pound in a single dose",
+        "duration": "Duration: Short-term use only unless directed by your vet",
+        "forms": "Forms: Use plain diphenhydramine only — avoid formulas with decongestants (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Is Benadryl Safe for Dogs?",
+    "intro": "Yes, Benadryl is generally safe for most dogs when given at the correct dosage. Diphenhydramine, the active ingredient in Benadryl, is an antihistamine that veterinarians commonly recommend for allergies, itching, and mild anxiety in dogs.",
+    "safeFor": {
+      "title": "Safe For:",
+      "items": [
+        "Healthy adult dogs",
+        "Short-term allergy relief",
+        "Motion sickness",
+        "Mild anxiety situations",
+        "Insect bite reactions"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Not Safe For:",
+      "items": [
+        "Dogs with glaucoma",
+        "Dogs with heart disease",
+        "Pregnant or nursing dogs",
+        "Puppies under 6 months",
+        "Dogs on certain medications"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "When to Give Benadryl to Dogs",
+    "allergies": {
+      "title": "Allergies",
+      "description": "Seasonal allergies, environmental allergens, itchy skin, hives, and mild allergic reactions."
+    },
+    "motionSickness": {
+      "title": "Motion Sickness",
+      "description": "Car rides, travel anxiety. Give 30 minutes before travel for best results."
+    },
+    "anxiety": {
+      "title": "Mild Anxiety",
+      "description": "Thunderstorms, fireworks, vet visits. The drowsiness effect can help calm anxious dogs."
+    },
+    "insectBites": {
+      "title": "Insect Bites/Stings",
+      "description": "Bee stings, mosquito bites, spider bites causing swelling or itching."
+    }
+  },
+  "safety": {
+    "title": "Side Effects & Warning Signs",
+    "commonSideEffects": {
+      "title": "Common Side Effects (Usually Harmless):",
+      "items": [
+        "Drowsiness or sedation",
+        "Dry mouth",
+        "Urinary retention",
+        "Rapid breathing (initially)"
+      ]
+    },
+    "callVet": {
+      "title": "Call Your Vet Immediately If You Notice:",
+      "items": [
+        "Difficulty breathing or swelling",
+        "Extreme lethargy or unresponsiveness",
+        "Seizures or tremors",
+        "Vomiting or diarrhea",
+        "Loss of appetite lasting more than 24 hours",
+        "Rapid or irregular heartbeat"
+      ]
+    },
+    "whenNot": {
+      "title": "When NOT to Give Benadryl:",
+      "items": [
+        "Dogs with glaucoma",
+        "Dogs with cardiovascular disease",
+        "Dogs with high blood pressure",
+        "Pregnant or nursing dogs",
+        "Dogs taking certain medications (MAOIs, sedatives)",
+        "Puppies under 6 months old"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Benadryl for Dogs",
+    "items": [
+      {
+        "question": "Is Benadryl safe for dogs?",
+        "answer": "Yes, Benadryl (diphenhydramine) is generally safe for dogs when given at the correct dosage of 1 mg per pound of body weight. However, you should avoid giving Benadryl to dogs with glaucoma, cardiovascular disease, high blood pressure, or pregnant/nursing dogs. Always consult your veterinarian before giving any medication."
+      },
+      {
+        "question": "How much Benadryl can I give my dog?",
+        "answer": "The standard Benadryl dosage for dogs is 1 mg per pound of body weight, given 2-3 times daily (every 8-12 hours). For example, a 25-pound dog can take 25 mg of Benadryl. Never exceed 2 mg per pound in a single dose. Use our calculator above for accurate dosing."
+      },
+      {
+        "question": "What does Benadryl do for dogs?",
+        "answer": "Benadryl is an antihistamine that helps relieve allergy symptoms in dogs, including itching, hives, swelling, and sneezing. It can also help with motion sickness, mild anxiety, and reactions to insect bites or stings. The active ingredient diphenhydramine blocks histamine receptors."
+      },
+      {
+        "question": "Can dogs take Benadryl for allergies?",
+        "answer": "Yes, dogs can take Benadryl for allergies. It effectively treats seasonal allergies, environmental allergens, food allergies (symptoms only), and allergic reactions causing itchy skin or hives. Give the standard dose of 1 mg per pound of body weight every 8-12 hours."
+      },
+      {
+        "question": "Can dogs take Benadryl for itching?",
+        "answer": "Yes, Benadryl can help relieve itching in dogs caused by allergies, insect bites, or skin irritation. The antihistamine properties reduce the histamine response that causes itching. For best results, give 1 mg per pound of body weight every 8-12 hours until symptoms improve."
+      },
+      {
+        "question": "What type of Benadryl is safe for dogs?",
+        "answer": "Only use Benadryl products containing diphenhydramine as the ONLY active ingredient. Avoid Benadryl-D (contains decongestants), multi-symptom formulas, and any product containing xylitol (toxic to dogs). Regular Benadryl tablets (25mg) or children's liquid Benadryl (12.5mg/5mL) are safe options."
+      },
+      {
+        "question": "Can I give my dog Benadryl every day?",
+        "answer": "While Benadryl is generally safe for short-term use, daily long-term use should only be done under veterinary supervision. Prolonged use may require dosage adjustments or alternative treatments. For chronic allergies, your vet may recommend prescription medications instead."
+      },
+      {
+        "question": "How long does Benadryl take to work in dogs?",
+        "answer": "Benadryl typically starts working within 30 minutes and reaches peak effectiveness in 1-2 hours. The effects usually last 8-12 hours. For motion sickness or travel anxiety, give Benadryl 30 minutes before the car ride or trip."
+      },
+      {
+        "question": "Can I use children's Benadryl for my dog?",
+        "answer": "Yes, children's liquid Benadryl (12.5mg per 5mL) is often easier to dose for smaller dogs. However, check ingredients carefully - avoid any formula containing xylitol (toxic to dogs), alcohol, or additional active ingredients beyond diphenhydramine."
+      },
+      {
+        "question": "What if I give my dog too much Benadryl?",
+        "answer": "If you suspect a Benadryl overdose, contact your veterinarian or the ASPCA Animal Poison Control Center (888-426-4435) immediately. Signs of overdose include extreme drowsiness, seizures, rapid heartbeat, difficulty breathing, agitation, and dilated pupils."
+      },
+      {
+        "question": "Is Benadryl the same as diphenhydramine?",
+        "answer": "Yes, Benadryl is a brand name for the antihistamine diphenhydramine. Generic diphenhydramine works identically and is often more affordable. Whether using brand-name Benadryl or generic diphenhydramine, always verify it's the only active ingredient."
+      },
+      {
+        "question": "How much Benadryl can I give my 50 lb dog?",
+        "answer": "A 50-pound dog can take 50 mg of Benadryl (two 25mg tablets) every 8-12 hours. This follows the standard dosage of 1 mg per pound of body weight. Do not exceed 100 mg per dose (2 mg per pound maximum)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Medical Disclaimer",
+    "text": "This calculator and the information provided are for educational purposes only and should not replace professional veterinary advice. Always consult with your veterinarian before giving any medication to your pet. Individual dogs may have different needs based on their health status, age, and other factors."
+  },
+  "footer": {
+    "about": "A free calculator to help pet owners determine the safe Benadryl dosage for their dogs. Always consult your veterinarian before giving any medication.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "calculator": "Dosage Calculator",
+      "dosageChart": "Dosage Chart",
+      "safetyGuidelines": "Safety Guidelines",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Disclaimer"
+    },
+    "disclaimerText": "This calculator is for informational purposes only. Always consult your veterinarian before giving medication to your pet.",
+    "copyright": "All rights reserved."
+  }
+}

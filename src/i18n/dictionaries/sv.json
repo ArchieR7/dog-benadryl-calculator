@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Benadryl Doseringsräknare för Hundar - Säker Difenhydramindos per Vikt",
+    "titleTemplate": "%s | Benadryl Räknare för Hundar",
+    "description": "Gratis Benadryl doseringsräknare för hundar. Beräkna säker difenhydramindos baserat på din hunds vikt. Inkluderar doseringsschema, guide för flytande Benadryl och säkerhetsinformation.",
+    "keywords": "benadryl för hundar, hund benadryl dosering, difenhydramin för hundar, hur mycket benadryl kan jag ge min hund, benadryl doseringsschema hundar, flytande benadryl för hundar"
+  },
+  "header": {
+    "title": "Benadryl Räknare för Hundar",
+    "nav": {
+      "calculator": "Räknare",
+      "dosageChart": "Doseringsschema",
+      "safetyGuide": "Säkerhetsguide",
+      "faq": "Vanliga Frågor"
+    }
+  },
+  "hero": {
+    "title": "Benadryl för Hundar: Doseringsräknare",
+    "subtitle": "Hur mycket Benadryl kan jag ge min hund? Beräkna säker difenhydramindos baserat på din hunds vikt. Gratis räknare med doseringsschema för allergier, klåda och ångest."
+  },
+  "calculator": {
+    "title": "Benadryl Doseringsräknare",
+    "weightLabel": "Hundens Vikt",
+    "weightPlaceholder": "Ange vikt",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Typ av Benadryl",
+    "typeOptions": {
+      "tablet25": "Tablett (25mg)",
+      "tablet50": "Tablett (50mg)",
+      "liquid": "Flytande (12,5mg/5ml)",
+      "chewable": "Tuggtablett (12,5mg)"
+    },
+    "purposeLabel": "Syfte (Valfritt)",
+    "purposeOptions": {
+      "allergies": "Allergier / Klåda",
+      "motion": "Åksjuka",
+      "anxiety": "Mild Ångest",
+      "insect": "Insektsbett",
+      "other": "Annat"
+    },
+    "specialConditions": "Min hund är gravid, ammar, är en valp eller har hälsoproblem",
+    "result": {
+      "singleDose": "Rekommenderad Enkeldos",
+      "frequency": "Frekvens",
+      "frequencyValue": "2-3 gånger dagligen (var 8-12 timme)",
+      "maxDailyDose": "Max Daglig Dos",
+      "importantNotes": "Viktiga Anmärkningar:",
+      "vetReminder": "Rådgör alltid med din veterinär innan du ger Benadryl till din hund, särskilt om din hund tar andra mediciner eller har underliggande hälsoproblem."
+    },
+    "warnings": {
+      "smallDogs": "Mycket små hundar är mer känsliga. Börja med en lägre dos och rådgör med veterinären.",
+      "largeDogs": "För stora raser, bekräfta doseringen med din veterinär.",
+      "specialConditions": "Hundar med hälsoproblem eller gravida/ammande hundar behöver veterinärvägledning.",
+      "liquidRecommended": "För små hundar kan flytande form vara lättare att dosera exakt.",
+      "tablet50TooStrong": "50mg tabletter är för starka för hundar under 25 lbs.",
+      "largeVolume": "Stor volym - tabletter kan vara mer praktiska."
+    }
+  },
+  "dosageChart": {
+    "title": "Benadryl Doseringsschema för Hundar",
+    "subtitle": "Snabbreferens baserad på 1mg per 1lb kroppsvikt",
+    "headers": {
+      "weight": "Hundens Vikt",
+      "dosage": "Dosering (mg)",
+      "tablets25": "25mg Tabletter",
+      "tablets50": "50mg Tabletter",
+      "liquid": "Flytande (12,5mg/5ml)"
+    },
+    "note": "Obs: Detta schema är endast för allmän referens. Doseringar kan variera baserat på din hunds individuella hälsobehov. Rådgör alltid med veterinären innan du ger medicin."
+  },
+  "liquidGuide": {
+    "title": "Flytande Benadryl för Hundar: Doseringsguide",
+    "intro": "Flytande Benadryl (barnformula) är ofta lättare att dosera för små hundar. Standard flytande Benadryl för barn innehåller 12,5 mg per 5 mL (1 tesked).",
+    "conversion": {
+      "title": "Konvertering Flytande Barn-Benadryl:",
+      "formula": "12,5 mg = 5 mL (1 tesked) = 1 tsk"
+    },
+    "chartTitle": "Flytande Benadryl Doseringsschema för Hundar:",
+    "headers": {
+      "weight": "Hundens Vikt",
+      "dose": "Dos (mg)",
+      "liquid": "Flytande Mängd"
+    },
+    "warning": {
+      "title": "Viktig Varning för Barn-Benadryl:",
+      "items": [
+        "Kontrollera ingredienserna noggrant - undvik formler med xylitol (giftigt för hundar)",
+        "Använd endast formler med difenhydramin (inga avsvällande eller smärtstillande medel)",
+        "Undvik \"Benadryl-D\" eller multisymtomformler",
+        "Alkoholfria formler föredras för hundar"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Hur Mycket Benadryl Kan Jag Ge Min Hund?",
+    "intro": "Standarddoseringen av Benadryl för hundar är 1 mg per pund kroppsvikt, givet 2-3 gånger dagligen. Detta är samma aktiva ingrediens (difenhydramin) som finns i human Benadryl, men doseringen beräknas annorlunda för hundar.",
+    "simpleRule": {
+      "title": "Den Enkla Regeln:",
+      "formula": "1 mg Benadryl = 1 lb kroppsvikt",
+      "example": "Exempel: En 25 lb hund kan ta 25 mg Benadryl (en 25mg tablett)"
+    },
+    "guidelines": {
+      "title": "Viktiga Doseringsriktlinjer:",
+      "items": {
+        "frequency": "Frekvens: Ge var 8-12 timme (2-3 gånger dagligen)",
+        "maximum": "Maximum: Överskrid inte 2 mg per pund i en enkeldos",
+        "duration": "Varaktighet: Endast kortvarig användning om inte veterinären ordinerar annat",
+        "forms": "Former: Använd endast ren difenhydramin — undvik formler med avsvällande medel (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Är Benadryl Säkert för Hundar?",
+    "intro": "Ja, Benadryl är generellt säkert för de flesta hundar när det ges i rätt dos. Difenhydramin, den aktiva ingrediensen i Benadryl, är ett antihistamin som veterinärer ofta rekommenderar för allergier, klåda och mild ångest hos hundar.",
+    "safeFor": {
+      "title": "Säkert För:",
+      "items": [
+        "Friska vuxna hundar",
+        "Kortvarig allergilindring",
+        "Åksjuka",
+        "Milda ångestsituationer",
+        "Reaktioner på insektsbett"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Inte Säkert För:",
+      "items": [
+        "Hundar med glaukom",
+        "Hundar med hjärtsjukdom",
+        "Gravida eller ammande hundar",
+        "Valpar under 6 månader",
+        "Hundar som tar vissa mediciner"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "När Ska Man Ge Benadryl till Hundar",
+    "allergies": {
+      "title": "Allergier",
+      "description": "Säsongsallergier, miljöallergener, kliande hud, nässelutslag och milda allergiska reaktioner."
+    },
+    "motionSickness": {
+      "title": "Åksjuka",
+      "description": "Bilresor, reseångest. Ge 30 minuter före resan för bästa resultat."
+    },
+    "anxiety": {
+      "title": "Mild Ångest",
+      "description": "Åskväder, fyrverkerier, veterinärbesök. Dåsighetseffekten kan hjälpa till att lugna oroliga hundar."
+    },
+    "insectBites": {
+      "title": "Insektsbett",
+      "description": "Bistick, myggbett, spindelbett som orsakar svullnad eller klåda."
+    }
+  },
+  "safety": {
+    "title": "Biverkningar & Varningssignaler",
+    "commonSideEffects": {
+      "title": "Vanliga Biverkningar (Vanligtvis Ofarliga):",
+      "items": [
+        "Dåsighet eller sedering",
+        "Muntorrhet",
+        "Urinretention",
+        "Snabb andning (initialt)"
+      ]
+    },
+    "callVet": {
+      "title": "Ring Veterinären Omedelbart Om Du Märker:",
+      "items": [
+        "Andningssvårigheter eller svullnad",
+        "Extrem trötthet eller oresponsivitet",
+        "Kramper eller skakningar",
+        "Kräkningar eller diarré",
+        "Aptitförlust i mer än 24 timmar",
+        "Snabb eller oregelbunden hjärtrytm"
+      ]
+    },
+    "whenNot": {
+      "title": "När Man INTE Ska Ge Benadryl:",
+      "items": [
+        "Hundar med glaukom",
+        "Hundar med kardiovaskulär sjukdom",
+        "Hundar med högt blodtryck",
+        "Gravida eller ammande hundar",
+        "Hundar som tar vissa mediciner (MAO-hämmare, lugnande medel)",
+        "Valpar under 6 månader"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Vanliga Frågor Om Benadryl för Hundar",
+    "items": [
+      {
+        "question": "Är Benadryl säkert för hundar?",
+        "answer": "Ja, Benadryl (difenhydramin) är generellt säkert för hundar när det ges i rätt dos på 1 mg per pund kroppsvikt. Du bör dock undvika att ge Benadryl till hundar med glaukom, kardiovaskulär sjukdom, högt blodtryck eller gravida/ammande hundar. Rådgör alltid med veterinären innan du ger någon medicin."
+      },
+      {
+        "question": "Hur mycket Benadryl kan jag ge min hund?",
+        "answer": "Standarddoseringen av Benadryl för hundar är 1 mg per pund kroppsvikt, givet 2-3 gånger dagligen (var 8-12 timme). Till exempel kan en 25 punds hund ta 25 mg Benadryl. Överskrid aldrig 2 mg per pund i en enkeldos. Använd vår räknare ovan för exakt dosering."
+      },
+      {
+        "question": "Vad gör Benadryl för hundar?",
+        "answer": "Benadryl är ett antihistamin som hjälper till att lindra allergisymtom hos hundar, inklusive klåda, nässelutslag, svullnad och nysningar. Det kan också hjälpa mot åksjuka, mild ångest och reaktioner på insektsbett. Den aktiva ingrediensen difenhydramin blockerar histaminreceptorer."
+      },
+      {
+        "question": "Kan hundar ta Benadryl för allergier?",
+        "answer": "Ja, hundar kan ta Benadryl för allergier. Det behandlar effektivt säsongsallergier, miljöallergener, matallergier (endast symtom) och allergiska reaktioner som orsakar kliande hud eller nässelutslag. Ge standarddosen på 1 mg per pund kroppsvikt var 8-12 timme."
+      },
+      {
+        "question": "Kan hundar ta Benadryl för klåda?",
+        "answer": "Ja, Benadryl kan hjälpa till att lindra klåda hos hundar orsakad av allergier, insektsbett eller hudirritation. Antihistaminegenskaperna minskar histaminresponsen som orsakar klåda. För bästa resultat, ge 1 mg per pund kroppsvikt var 8-12 timme tills symtomen förbättras."
+      },
+      {
+        "question": "Vilken typ av Benadryl är säker för hundar?",
+        "answer": "Använd endast Benadryl-produkter som innehåller difenhydramin som ENDA aktiva ingrediens. Undvik Benadryl-D (innehåller avsvällande medel), multisymtomformler och alla produkter som innehåller xylitol (giftigt för hundar). Vanliga Benadryl-tabletter (25mg) eller flytande barn-Benadryl (12,5mg/5mL) är säkra alternativ."
+      },
+      {
+        "question": "Kan jag ge min hund Benadryl varje dag?",
+        "answer": "Medan Benadryl generellt är säkert för kortvarig användning, bör daglig långvarig användning endast ske under veterinärövervakning. Långvarig användning kan kräva dosjusteringar eller alternativa behandlingar. För kroniska allergier kan din veterinär rekommendera receptbelagda mediciner istället."
+      },
+      {
+        "question": "Hur lång tid tar det för Benadryl att verka på hundar?",
+        "answer": "Benadryl börjar vanligtvis verka inom 30 minuter och når maximal effektivitet inom 1-2 timmar. Effekterna varar vanligtvis 8-12 timmar. För åksjuka eller reseångest, ge Benadryl 30 minuter före bilresan."
+      },
+      {
+        "question": "Kan jag använda barn-Benadryl till min hund?",
+        "answer": "Ja, flytande barn-Benadryl (12,5mg per 5mL) är ofta lättare att dosera för mindre hundar. Kontrollera dock ingredienserna noggrant - undvik alla formler som innehåller xylitol (giftigt för hundar), alkohol eller ytterligare aktiva ingredienser utöver difenhydramin."
+      },
+      {
+        "question": "Vad händer om jag ger min hund för mycket Benadryl?",
+        "answer": "Om du misstänker en Benadryl-överdos, kontakta din veterinär eller ASPCA Animal Poison Control Center (888-426-4435) omedelbart. Tecken på överdos inkluderar extrem dåsighet, kramper, snabb hjärtrytm, andningssvårigheter, agitation och vidgade pupiller."
+      },
+      {
+        "question": "Är Benadryl samma sak som difenhydramin?",
+        "answer": "Ja, Benadryl är ett varumärke för antihistaminet difenhydramin. Generisk difenhydramin fungerar identiskt och är ofta billigare. Oavsett om du använder märkes-Benadryl eller generisk difenhydramin, verifiera alltid att det är den enda aktiva ingrediensen."
+      },
+      {
+        "question": "Hur mycket Benadryl kan jag ge min 50 lb hund?",
+        "answer": "En 50 punds hund kan ta 50 mg Benadryl (två 25mg tabletter) var 8-12 timme. Detta följer standarddoseringen på 1 mg per pund kroppsvikt. Överskrid inte 100 mg per dos (maximalt 2 mg per pund)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Medicinsk Friskrivning",
+    "text": "Denna räknare och den tillhandahållna informationen är endast för utbildningsändamål och bör inte ersätta professionell veterinärrådgivning. Rådgör alltid med din veterinär innan du ger någon medicin till ditt husdjur. Individuella hundar kan ha olika behov baserat på deras hälsotillstånd, ålder och andra faktorer."
+  },
+  "footer": {
+    "about": "En gratis räknare för att hjälpa husdjursägare att bestämma den säkra Benadryl-doseringen för sina hundar. Rådgör alltid med din veterinär innan du ger någon medicin.",
+    "quickLinks": {
+      "title": "Snabblänkar",
+      "calculator": "Doseringsräknare",
+      "dosageChart": "Doseringstabell",
+      "safetyGuidelines": "Säkerhetsriktlinjer",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Juridiskt",
+      "privacy": "Integritetspolicy",
+      "terms": "Användarvillkor",
+      "disclaimer": "Friskrivning"
+    },
+    "disclaimerText": "Denna räknare är endast för informationsändamål. Rådgör alltid med din veterinär innan du ger medicin till ditt husdjur.",
+    "copyright": "Alla rättigheter förbehållna."
+  }
+}

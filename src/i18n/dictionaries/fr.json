@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Calculateur de Dosage Benadryl pour Chiens - Dose Sûre de Diphénhydramine",
+    "titleTemplate": "%s | Calculateur Benadryl pour Chiens",
+    "description": "Calculateur gratuit de dosage Benadryl pour chiens. Calculez la dose sûre de diphénhydramine en fonction du poids de votre chien. Inclut tableau de dosage, guide Benadryl liquide et informations de sécurité.",
+    "keywords": "benadryl pour chiens, dosage benadryl chien, diphénhydramine pour chiens, combien de benadryl puis-je donner à mon chien, tableau dosage benadryl chiens"
+  },
+  "header": {
+    "title": "Calculateur Benadryl pour Chiens",
+    "nav": {
+      "calculator": "Calculateur",
+      "dosageChart": "Tableau de Dosage",
+      "safetyGuide": "Guide de Sécurité",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "Benadryl pour Chiens: Calculateur de Dosage",
+    "subtitle": "Combien de Benadryl puis-je donner à mon chien? Calculez la dose sûre de diphénhydramine en fonction du poids de votre chien. Calculateur gratuit avec tableau de dosage pour allergies, démangeaisons et anxiété."
+  },
+  "calculator": {
+    "title": "Calculateur de Dosage Benadryl",
+    "weightLabel": "Poids du Chien",
+    "weightPlaceholder": "Entrez le poids",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Type de Benadryl",
+    "typeOptions": {
+      "tablet25": "Comprimé (25mg)",
+      "tablet50": "Comprimé (50mg)",
+      "liquid": "Liquide (12,5mg/5ml)",
+      "chewable": "À croquer (12,5mg)"
+    },
+    "purposeLabel": "Objectif (Optionnel)",
+    "purposeOptions": {
+      "allergies": "Allergies / Démangeaisons",
+      "motion": "Mal des Transports",
+      "anxiety": "Anxiété Légère",
+      "insect": "Piqûres d'Insectes",
+      "other": "Autre"
+    },
+    "specialConditions": "Mon chien est enceinte, allaitante, un chiot ou a des problèmes de santé",
+    "result": {
+      "singleDose": "Dose Unique Recommandée",
+      "frequency": "Fréquence",
+      "frequencyValue": "2-3 fois par jour (toutes les 8-12 heures)",
+      "maxDailyDose": "Dose Quotidienne Maximum",
+      "importantNotes": "Notes Importantes:",
+      "vetReminder": "Consultez toujours votre vétérinaire avant de donner du Benadryl à votre chien, surtout si votre chien prend d'autres médicaments ou a des problèmes de santé sous-jacents."
+    },
+    "warnings": {
+      "smallDogs": "Les très petits chiens sont plus sensibles. Commencez par une dose plus faible et consultez votre vétérinaire.",
+      "largeDogs": "Pour les grandes races, confirmez le dosage avec votre vétérinaire.",
+      "specialConditions": "Les chiens avec des problèmes de santé ou enceintes/allaitantes nécessitent un conseil vétérinaire.",
+      "liquidRecommended": "Pour les petits chiens, la forme liquide peut être plus facile à doser avec précision.",
+      "tablet50TooStrong": "Les comprimés de 50mg sont trop forts pour les chiens de moins de 11 kg.",
+      "largeVolume": "Grand volume - les comprimés peuvent être plus pratiques."
+    }
+  },
+  "dosageChart": {
+    "title": "Tableau de Dosage Benadryl pour Chiens",
+    "subtitle": "Référence rapide basée sur 1mg par 1lb de poids corporel",
+    "headers": {
+      "weight": "Poids du Chien",
+      "dosage": "Dosage (mg)",
+      "tablets25": "Comprimés 25mg",
+      "tablets50": "Comprimés 50mg",
+      "liquid": "Liquide (12,5mg/5ml)"
+    },
+    "note": "Note: Ce tableau est uniquement pour référence générale. Les dosages peuvent varier selon les besoins de santé individuels de votre chien. Consultez toujours votre vétérinaire avant d'administrer des médicaments."
+  },
+  "liquidGuide": {
+    "title": "Benadryl Liquide pour Chiens: Guide de Dosage",
+    "intro": "Le Benadryl liquide (formule pour enfants) est souvent plus facile à doser pour les petits chiens. Le Benadryl liquide pour enfants standard contient 12,5 mg par 5 mL (1 cuillère à café).",
+    "conversion": {
+      "title": "Conversion Benadryl Liquide pour Enfants:",
+      "formula": "12,5 mg = 5 mL (1 cuillère à café) = 1 c.à.c."
+    },
+    "chartTitle": "Tableau de Dosage Benadryl Liquide pour Chiens:",
+    "headers": {
+      "weight": "Poids du Chien",
+      "dose": "Dose (mg)",
+      "liquid": "Quantité Liquide"
+    },
+    "warning": {
+      "title": "Avertissement Important pour le Benadryl pour Enfants:",
+      "items": [
+        "Vérifiez soigneusement les ingrédients - évitez les formules avec xylitol (toxique pour les chiens)",
+        "Utilisez des formules à base de diphénhydramine uniquement (sans décongestionnants ni analgésiques)",
+        "Évitez \"Benadryl-D\" ou toute formule multi-symptômes",
+        "Les formules sans alcool sont préférées pour les chiens"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Combien de Benadryl Puis-je Donner à Mon Chien?",
+    "intro": "Le dosage standard de Benadryl pour les chiens est de 1 mg par livre de poids corporel, administré 2-3 fois par jour. C'est le même principe actif (diphénhydramine) que dans le Benadryl humain, mais le dosage est calculé différemment pour les chiens.",
+    "simpleRule": {
+      "title": "La Règle Simple:",
+      "formula": "1 mg Benadryl = 1 lb de poids corporel",
+      "example": "Exemple: Un chien de 11 kg peut prendre 25 mg de Benadryl (un comprimé de 25mg)"
+    },
+    "guidelines": {
+      "title": "Directives de Dosage Importantes:",
+      "items": {
+        "frequency": "Fréquence: Donner toutes les 8-12 heures (2-3 fois par jour)",
+        "maximum": "Maximum: Ne pas dépasser 2 mg par livre en une seule dose",
+        "duration": "Durée: Usage à court terme uniquement sauf indication contraire de votre vétérinaire",
+        "forms": "Formes: Utilisez uniquement la diphénhydramine pure — évitez les formules avec décongestionnants (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Le Benadryl Est-il Sûr pour les Chiens?",
+    "intro": "Oui, le Benadryl est généralement sûr pour la plupart des chiens lorsqu'il est administré au dosage correct. La diphénhydramine, le principe actif du Benadryl, est un antihistaminique que les vétérinaires recommandent couramment pour les allergies, les démangeaisons et l'anxiété légère chez les chiens.",
+    "safeFor": {
+      "title": "Sûr Pour:",
+      "items": [
+        "Chiens adultes en bonne santé",
+        "Soulagement des allergies à court terme",
+        "Mal des transports",
+        "Situations d'anxiété légère",
+        "Réactions aux piqûres d'insectes"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Non Sûr Pour:",
+      "items": [
+        "Chiens atteints de glaucome",
+        "Chiens avec maladies cardiaques",
+        "Chiennes enceintes ou allaitantes",
+        "Chiots de moins de 6 mois",
+        "Chiens sous certains médicaments"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Quand Donner du Benadryl aux Chiens",
+    "allergies": {
+      "title": "Allergies",
+      "description": "Allergies saisonnières, allergènes environnementaux, peau qui démange, urticaire et réactions allergiques légères."
+    },
+    "motionSickness": {
+      "title": "Mal des Transports",
+      "description": "Trajets en voiture, anxiété de voyage. Donner 30 minutes avant le voyage pour de meilleurs résultats."
+    },
+    "anxiety": {
+      "title": "Anxiété Légère",
+      "description": "Orages, feux d'artifice, visites chez le vétérinaire. L'effet de somnolence peut aider à calmer les chiens anxieux."
+    },
+    "insectBites": {
+      "title": "Piqûres d'Insectes",
+      "description": "Piqûres d'abeilles, moustiques, araignées causant gonflement ou démangeaisons."
+    }
+  },
+  "safety": {
+    "title": "Effets Secondaires et Signes d'Alerte",
+    "commonSideEffects": {
+      "title": "Effets Secondaires Courants (Généralement Inoffensifs):",
+      "items": [
+        "Somnolence ou sédation",
+        "Bouche sèche",
+        "Rétention urinaire",
+        "Respiration rapide (initialement)"
+      ]
+    },
+    "callVet": {
+      "title": "Appelez Votre Vétérinaire Immédiatement Si Vous Remarquez:",
+      "items": [
+        "Difficulté à respirer ou gonflement",
+        "Léthargie extrême ou absence de réponse",
+        "Convulsions ou tremblements",
+        "Vomissements ou diarrhée",
+        "Perte d'appétit pendant plus de 24 heures",
+        "Battements cardiaques rapides ou irréguliers"
+      ]
+    },
+    "whenNot": {
+      "title": "Quand NE PAS Donner de Benadryl:",
+      "items": [
+        "Chiens atteints de glaucome",
+        "Chiens avec maladies cardiovasculaires",
+        "Chiens avec hypertension artérielle",
+        "Chiennes enceintes ou allaitantes",
+        "Chiens prenant certains médicaments (IMAO, sédatifs)",
+        "Chiots de moins de 6 mois"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées sur le Benadryl pour Chiens",
+    "items": [
+      {
+        "question": "Le Benadryl est-il sûr pour les chiens?",
+        "answer": "Oui, le Benadryl (diphénhydramine) est généralement sûr pour les chiens lorsqu'il est administré au dosage correct de 1 mg par livre de poids corporel. Cependant, vous devez éviter de donner du Benadryl aux chiens atteints de glaucome, de maladies cardiovasculaires, d'hypertension artérielle, ou aux chiennes enceintes/allaitantes. Consultez toujours votre vétérinaire avant de donner tout médicament."
+      },
+      {
+        "question": "Combien de Benadryl puis-je donner à mon chien?",
+        "answer": "Le dosage standard de Benadryl pour les chiens est de 1 mg par livre de poids corporel, administré 2-3 fois par jour (toutes les 8-12 heures). Par exemple, un chien de 11 kg peut prendre 25 mg de Benadryl. Ne dépassez jamais 2 mg par livre en une seule dose. Utilisez notre calculateur ci-dessus pour un dosage précis."
+      },
+      {
+        "question": "Que fait le Benadryl pour les chiens?",
+        "answer": "Le Benadryl est un antihistaminique qui aide à soulager les symptômes d'allergie chez les chiens, notamment les démangeaisons, l'urticaire, le gonflement et les éternuements. Il peut également aider avec le mal des transports, l'anxiété légère et les réactions aux piqûres d'insectes. Le principe actif diphénhydramine bloque les récepteurs d'histamine."
+      },
+      {
+        "question": "Les chiens peuvent-ils prendre du Benadryl pour les allergies?",
+        "answer": "Oui, les chiens peuvent prendre du Benadryl pour les allergies. Il traite efficacement les allergies saisonnières, les allergènes environnementaux, les allergies alimentaires (symptômes uniquement) et les réactions allergiques causant des démangeaisons ou de l'urticaire. Donnez la dose standard de 1 mg par livre de poids corporel toutes les 8-12 heures."
+      },
+      {
+        "question": "Les chiens peuvent-ils prendre du Benadryl pour les démangeaisons?",
+        "answer": "Oui, le Benadryl peut aider à soulager les démangeaisons chez les chiens causées par les allergies, les piqûres d'insectes ou l'irritation de la peau. Les propriétés antihistaminiques réduisent la réponse histaminique qui cause les démangeaisons. Pour de meilleurs résultats, donnez 1 mg par livre de poids corporel toutes les 8-12 heures jusqu'à amélioration des symptômes."
+      },
+      {
+        "question": "Quel type de Benadryl est sûr pour les chiens?",
+        "answer": "Utilisez uniquement des produits Benadryl contenant la diphénhydramine comme SEUL principe actif. Évitez Benadryl-D (contient des décongestionnants), les formules multi-symptômes et tout produit contenant du xylitol (toxique pour les chiens). Les comprimés Benadryl réguliers (25mg) ou le Benadryl liquide pour enfants (12,5mg/5mL) sont des options sûres."
+      },
+      {
+        "question": "Puis-je donner du Benadryl à mon chien tous les jours?",
+        "answer": "Bien que le Benadryl soit généralement sûr pour une utilisation à court terme, l'utilisation quotidienne à long terme ne doit être faite que sous supervision vétérinaire. Une utilisation prolongée peut nécessiter des ajustements de dosage ou des traitements alternatifs. Pour les allergies chroniques, votre vétérinaire peut recommander des médicaments sur ordonnance."
+      },
+      {
+        "question": "Combien de temps le Benadryl met-il à agir chez les chiens?",
+        "answer": "Le Benadryl commence généralement à agir dans les 30 minutes et atteint son efficacité maximale en 1-2 heures. Les effets durent généralement 8-12 heures. Pour le mal des transports ou l'anxiété de voyage, donnez le Benadryl 30 minutes avant le trajet en voiture."
+      },
+      {
+        "question": "Puis-je utiliser du Benadryl pour enfants pour mon chien?",
+        "answer": "Oui, le Benadryl liquide pour enfants (12,5mg par 5mL) est souvent plus facile à doser pour les petits chiens. Cependant, vérifiez soigneusement les ingrédients - évitez toute formule contenant du xylitol (toxique pour les chiens), de l'alcool ou d'autres principes actifs en plus de la diphénhydramine."
+      },
+      {
+        "question": "Que faire si je donne trop de Benadryl à mon chien?",
+        "answer": "Si vous suspectez un surdosage de Benadryl, contactez immédiatement votre vétérinaire ou le Centre Antipoison Animal ASPCA (888-426-4435). Les signes de surdosage incluent somnolence extrême, convulsions, battements cardiaques rapides, difficulté à respirer, agitation et pupilles dilatées."
+      },
+      {
+        "question": "Le Benadryl est-il la même chose que la diphénhydramine?",
+        "answer": "Oui, Benadryl est un nom de marque pour l'antihistaminique diphénhydramine. La diphénhydramine générique fonctionne de manière identique et est souvent moins chère. Que vous utilisiez du Benadryl de marque ou de la diphénhydramine générique, vérifiez toujours que c'est le seul principe actif."
+      },
+      {
+        "question": "Combien de Benadryl puis-je donner à mon chien de 23 kg?",
+        "answer": "Un chien de 23 kg peut prendre 50 mg de Benadryl (deux comprimés de 25mg) toutes les 8-12 heures. Cela suit le dosage standard de 1 mg par livre de poids corporel. Ne dépassez pas 100 mg par dose (maximum 2 mg par livre)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Avertissement Médical",
+    "text": "Ce calculateur et les informations fournies sont uniquement à des fins éducatives et ne doivent pas remplacer les conseils vétérinaires professionnels. Consultez toujours votre vétérinaire avant de donner tout médicament à votre animal. Les chiens individuels peuvent avoir des besoins différents en fonction de leur état de santé, de leur âge et d'autres facteurs."
+  },
+  "footer": {
+    "about": "Un calculateur gratuit pour aider les propriétaires d'animaux à déterminer la dose sûre de Benadryl pour leurs chiens. Consultez toujours votre vétérinaire avant de donner tout médicament.",
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "calculator": "Calculateur de Dosage",
+      "dosageChart": "Tableau de Dosage",
+      "safetyGuidelines": "Consignes de Sécurité",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Mentions Légales",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "disclaimer": "Avertissement"
+    },
+    "disclaimerText": "Ce calculateur est fourni à titre informatif uniquement. Consultez toujours votre vétérinaire avant de donner des médicaments à votre animal.",
+    "copyright": "Tous droits réservés."
+  }
+}

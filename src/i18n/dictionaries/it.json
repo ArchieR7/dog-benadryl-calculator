@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Calcolatore di Dosaggio Benadryl per Cani - Dose Sicura di Difenidramina per Peso",
+    "titleTemplate": "%s | Calcolatore Benadryl per Cani",
+    "description": "Calcolatore gratuito di dosaggio Benadryl per cani. Calcola la dose sicura di difenidramina in base al peso del tuo cane. Include tabella dei dosaggi, guida al Benadryl liquido e informazioni sulla sicurezza.",
+    "keywords": "benadryl per cani, dosaggio benadryl cani, difenidramina per cani, quanto benadryl posso dare al mio cane, tabella dosaggio benadryl cani, benadryl liquido per cani"
+  },
+  "header": {
+    "title": "Calcolatore Benadryl per Cani",
+    "nav": {
+      "calculator": "Calcolatore",
+      "dosageChart": "Tabella Dosaggi",
+      "safetyGuide": "Guida Sicurezza",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "title": "Benadryl per Cani: Calcolatore di Dosaggio",
+    "subtitle": "Quanto Benadryl posso dare al mio cane? Calcola la dose sicura di difenidramina in base al peso del tuo cane. Calcolatore gratuito con tabella dei dosaggi per allergie, prurito e ansia."
+  },
+  "calculator": {
+    "title": "Calcolatore di Dosaggio Benadryl",
+    "weightLabel": "Peso del Cane",
+    "weightPlaceholder": "Inserisci il peso",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Tipo di Benadryl",
+    "typeOptions": {
+      "tablet25": "Compressa (25mg)",
+      "tablet50": "Compressa (50mg)",
+      "liquid": "Liquido (12,5mg/5ml)",
+      "chewable": "Masticabile (12,5mg)"
+    },
+    "purposeLabel": "Scopo (Opzionale)",
+    "purposeOptions": {
+      "allergies": "Allergie / Prurito",
+      "motion": "Mal d'Auto",
+      "anxiety": "Ansia Lieve",
+      "insect": "Punture di Insetti",
+      "other": "Altro"
+    },
+    "specialConditions": "Il mio cane è incinta, in allattamento, è un cucciolo o ha condizioni di salute",
+    "result": {
+      "singleDose": "Dose Singola Raccomandata",
+      "frequency": "Frequenza",
+      "frequencyValue": "2-3 volte al giorno (ogni 8-12 ore)",
+      "maxDailyDose": "Dose Massima Giornaliera",
+      "importantNotes": "Note Importanti:",
+      "vetReminder": "Consulta sempre il tuo veterinario prima di dare Benadryl al tuo cane, specialmente se il tuo cane assume altri farmaci o ha condizioni di salute sottostanti."
+    },
+    "warnings": {
+      "smallDogs": "I cani molto piccoli sono più sensibili. Inizia con una dose più bassa e consulta il veterinario.",
+      "largeDogs": "Per razze grandi, conferma il dosaggio con il veterinario.",
+      "specialConditions": "I cani con condizioni di salute o incinte/in allattamento necessitano di guida veterinaria.",
+      "liquidRecommended": "Per cani piccoli, la forma liquida può essere più facile da dosare con precisione.",
+      "tablet50TooStrong": "Le compresse da 50mg sono troppo forti per cani sotto i 25 lbs.",
+      "largeVolume": "Grande volume - le compresse potrebbero essere più pratiche."
+    }
+  },
+  "dosageChart": {
+    "title": "Tabella dei Dosaggi Benadryl per Cani",
+    "subtitle": "Riferimento rapido basato su 1mg per 1lb di peso corporeo",
+    "headers": {
+      "weight": "Peso del Cane",
+      "dosage": "Dosaggio (mg)",
+      "tablets25": "Compresse 25mg",
+      "tablets50": "Compresse 50mg",
+      "liquid": "Liquido (12,5mg/5ml)"
+    },
+    "note": "Nota: Questa tabella è solo per riferimento generale. I dosaggi possono variare in base alle esigenze di salute individuali del tuo cane. Consulta sempre il veterinario prima di somministrare farmaci."
+  },
+  "liquidGuide": {
+    "title": "Benadryl Liquido per Cani: Guida al Dosaggio",
+    "intro": "Il Benadryl liquido (formula per bambini) è spesso più facile da dosare per cani piccoli. Il Benadryl liquido per bambini standard contiene 12,5 mg per 5 mL (1 cucchiaino).",
+    "conversion": {
+      "title": "Conversione Benadryl Liquido per Bambini:",
+      "formula": "12,5 mg = 5 mL (1 cucchiaino) = 1 tsp"
+    },
+    "chartTitle": "Tabella Dosaggio Benadryl Liquido per Cani:",
+    "headers": {
+      "weight": "Peso del Cane",
+      "dose": "Dose (mg)",
+      "liquid": "Quantità Liquida"
+    },
+    "warning": {
+      "title": "Avvertenza Importante per Benadryl per Bambini:",
+      "items": [
+        "Controlla attentamente gli ingredienti - evita formule con xilitolo (tossico per i cani)",
+        "Usa formule solo con difenidramina (senza decongestionanti o antidolorifici)",
+        "Evita \"Benadryl-D\" o qualsiasi formula multi-sintomo",
+        "Le formule senza alcol sono preferite per i cani"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Quanto Benadryl Posso Dare al Mio Cane?",
+    "intro": "Il dosaggio standard di Benadryl per cani è di 1 mg per libbra di peso corporeo, somministrato 2-3 volte al giorno. Questo è lo stesso principio attivo (difenidramina) trovato nel Benadryl per umani, ma il dosaggio è calcolato diversamente per i cani.",
+    "simpleRule": {
+      "title": "La Regola Semplice:",
+      "formula": "1 mg Benadryl = 1 lb di peso corporeo",
+      "example": "Esempio: Un cane di 25 lb può assumere 25 mg di Benadryl (una compressa da 25mg)"
+    },
+    "guidelines": {
+      "title": "Linee Guida Importanti per il Dosaggio:",
+      "items": {
+        "frequency": "Frequenza: Somministrare ogni 8-12 ore (2-3 volte al giorno)",
+        "maximum": "Massimo: Non superare 2 mg per libbra in una singola dose",
+        "duration": "Durata: Solo uso a breve termine a meno che non sia indicato dal veterinario",
+        "forms": "Forme: Usa solo difenidramina pura — evita formule con decongestionanti (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Il Benadryl è Sicuro per i Cani?",
+    "intro": "Sì, il Benadryl è generalmente sicuro per la maggior parte dei cani quando somministrato al dosaggio corretto. La difenidramina, il principio attivo del Benadryl, è un antistaminico che i veterinari raccomandano comunemente per allergie, prurito e ansia lieve nei cani.",
+    "safeFor": {
+      "title": "Sicuro Per:",
+      "items": [
+        "Cani adulti sani",
+        "Sollievo allergico a breve termine",
+        "Mal d'auto",
+        "Situazioni di ansia lieve",
+        "Reazioni a punture di insetti"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Non Sicuro Per:",
+      "items": [
+        "Cani con glaucoma",
+        "Cani con malattie cardiache",
+        "Cagne incinte o in allattamento",
+        "Cuccioli sotto i 6 mesi",
+        "Cani che assumono certi farmaci"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Quando Dare Benadryl ai Cani",
+    "allergies": {
+      "title": "Allergie",
+      "description": "Allergie stagionali, allergeni ambientali, pelle pruriginosa, orticaria e reazioni allergiche lievi."
+    },
+    "motionSickness": {
+      "title": "Mal d'Auto",
+      "description": "Viaggi in auto, ansia da viaggio. Somministrare 30 minuti prima del viaggio per migliori risultati."
+    },
+    "anxiety": {
+      "title": "Ansia Lieve",
+      "description": "Temporali, fuochi d'artificio, visite dal veterinario. L'effetto sonnolenza può aiutare a calmare i cani ansiosi."
+    },
+    "insectBites": {
+      "title": "Punture di Insetti",
+      "description": "Punture di api, zanzare, ragni che causano gonfiore o prurito."
+    }
+  },
+  "safety": {
+    "title": "Effetti Collaterali e Segnali di Allarme",
+    "commonSideEffects": {
+      "title": "Effetti Collaterali Comuni (Solitamente Innocui):",
+      "items": [
+        "Sonnolenza o sedazione",
+        "Bocca secca",
+        "Ritenzione urinaria",
+        "Respirazione rapida (inizialmente)"
+      ]
+    },
+    "callVet": {
+      "title": "Chiama Immediatamente il Veterinario Se Noti:",
+      "items": [
+        "Difficoltà respiratorie o gonfiore",
+        "Letargia estrema o mancanza di risposta",
+        "Convulsioni o tremori",
+        "Vomito o diarrea",
+        "Perdita di appetito per più di 24 ore",
+        "Battito cardiaco rapido o irregolare"
+      ]
+    },
+    "whenNot": {
+      "title": "Quando NON Dare Benadryl:",
+      "items": [
+        "Cani con glaucoma",
+        "Cani con malattie cardiovascolari",
+        "Cani con pressione alta",
+        "Cagne incinte o in allattamento",
+        "Cani che assumono certi farmaci (IMAO, sedativi)",
+        "Cuccioli sotto i 6 mesi"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti sul Benadryl per Cani",
+    "items": [
+      {
+        "question": "Il Benadryl è sicuro per i cani?",
+        "answer": "Sì, il Benadryl (difenidramina) è generalmente sicuro per i cani quando somministrato al dosaggio corretto di 1 mg per libbra di peso corporeo. Tuttavia, dovresti evitare di dare Benadryl a cani con glaucoma, malattie cardiovascolari, pressione alta o cagne incinte/in allattamento. Consulta sempre il veterinario prima di somministrare qualsiasi farmaco."
+      },
+      {
+        "question": "Quanto Benadryl posso dare al mio cane?",
+        "answer": "Il dosaggio standard di Benadryl per cani è di 1 mg per libbra di peso corporeo, somministrato 2-3 volte al giorno (ogni 8-12 ore). Per esempio, un cane di 25 libbre può assumere 25 mg di Benadryl. Non superare mai 2 mg per libbra in una singola dose. Usa il nostro calcolatore sopra per un dosaggio preciso."
+      },
+      {
+        "question": "Cosa fa il Benadryl per i cani?",
+        "answer": "Il Benadryl è un antistaminico che aiuta ad alleviare i sintomi allergici nei cani, inclusi prurito, orticaria, gonfiore e starnuti. Può anche aiutare con il mal d'auto, l'ansia lieve e le reazioni a punture di insetti. Il principio attivo difenidramina blocca i recettori dell'istamina."
+      },
+      {
+        "question": "I cani possono prendere Benadryl per le allergie?",
+        "answer": "Sì, i cani possono prendere Benadryl per le allergie. Tratta efficacemente allergie stagionali, allergeni ambientali, allergie alimentari (solo sintomi) e reazioni allergiche che causano pelle pruriginosa o orticaria. Somministra la dose standard di 1 mg per libbra di peso corporeo ogni 8-12 ore."
+      },
+      {
+        "question": "I cani possono prendere Benadryl per il prurito?",
+        "answer": "Sì, il Benadryl può aiutare ad alleviare il prurito nei cani causato da allergie, punture di insetti o irritazione della pelle. Le proprietà antistaminiche riducono la risposta istaminica che causa il prurito. Per migliori risultati, somministra 1 mg per libbra di peso corporeo ogni 8-12 ore fino a quando i sintomi migliorano."
+      },
+      {
+        "question": "Quale tipo di Benadryl è sicuro per i cani?",
+        "answer": "Usa solo prodotti Benadryl contenenti difenidramina come UNICO principio attivo. Evita Benadryl-D (contiene decongestionanti), formule multi-sintomo e qualsiasi prodotto contenente xilitolo (tossico per i cani). Le compresse Benadryl regolari (25mg) o il Benadryl liquido per bambini (12,5mg/5mL) sono opzioni sicure."
+      },
+      {
+        "question": "Posso dare Benadryl al mio cane ogni giorno?",
+        "answer": "Mentre il Benadryl è generalmente sicuro per uso a breve termine, l'uso quotidiano a lungo termine dovrebbe essere fatto solo sotto supervisione veterinaria. L'uso prolungato può richiedere aggiustamenti di dosaggio o trattamenti alternativi. Per allergie croniche, il veterinario potrebbe raccomandare farmaci su prescrizione."
+      },
+      {
+        "question": "Quanto tempo impiega il Benadryl a fare effetto nei cani?",
+        "answer": "Il Benadryl tipicamente inizia a fare effetto entro 30 minuti e raggiunge la massima efficacia in 1-2 ore. Gli effetti durano solitamente 8-12 ore. Per mal d'auto o ansia da viaggio, somministra Benadryl 30 minuti prima del viaggio in auto."
+      },
+      {
+        "question": "Posso usare il Benadryl per bambini per il mio cane?",
+        "answer": "Sì, il Benadryl liquido per bambini (12,5mg per 5mL) è spesso più facile da dosare per cani più piccoli. Tuttavia, controlla attentamente gli ingredienti - evita qualsiasi formula contenente xilitolo (tossico per i cani), alcol o ingredienti attivi aggiuntivi oltre alla difenidramina."
+      },
+      {
+        "question": "Cosa succede se do troppo Benadryl al mio cane?",
+        "answer": "Se sospetti un sovradosaggio di Benadryl, contatta immediatamente il veterinario o il Centro Antiveleni per Animali ASPCA (888-426-4435). I segni di sovradosaggio includono sonnolenza estrema, convulsioni, battito cardiaco rapido, difficoltà respiratorie, agitazione e pupille dilatate."
+      },
+      {
+        "question": "Il Benadryl è lo stesso della difenidramina?",
+        "answer": "Sì, Benadryl è un marchio per l'antistaminico difenidramina. La difenidramina generica funziona in modo identico ed è spesso più economica. Sia che usi Benadryl di marca o difenidramina generica, verifica sempre che sia l'unico principio attivo."
+      },
+      {
+        "question": "Quanto Benadryl posso dare al mio cane di 50 lb?",
+        "answer": "Un cane di 50 libbre può assumere 50 mg di Benadryl (due compresse da 25mg) ogni 8-12 ore. Questo segue il dosaggio standard di 1 mg per libbra di peso corporeo. Non superare 100 mg per dose (massimo 2 mg per libbra)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Disclaimer Medico",
+    "text": "Questo calcolatore e le informazioni fornite sono solo a scopo educativo e non dovrebbero sostituire il consiglio veterinario professionale. Consulta sempre il veterinario prima di somministrare qualsiasi farmaco al tuo animale domestico. I singoli cani possono avere esigenze diverse in base al loro stato di salute, età e altri fattori."
+  },
+  "footer": {
+    "about": "Un calcolatore gratuito per aiutare i proprietari di animali a determinare il dosaggio sicuro di Benadryl per i loro cani. Consulta sempre il veterinario prima di somministrare qualsiasi farmaco.",
+    "quickLinks": {
+      "title": "Link Rapidi",
+      "calculator": "Calcolatore Dosaggio",
+      "dosageChart": "Tabella Dosaggio",
+      "safetyGuidelines": "Linee Guida Sicurezza",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Legale",
+      "privacy": "Informativa Privacy",
+      "terms": "Termini di Servizio",
+      "disclaimer": "Disclaimer"
+    },
+    "disclaimerText": "Questo calcolatore è solo a scopo informativo. Consulta sempre il veterinario prima di somministrare farmaci al tuo animale domestico.",
+    "copyright": "Tutti i diritti riservati."
+  }
+}

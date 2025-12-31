@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Máy Tính Liều Lượng Benadryl Cho Chó - Liều Diphenhydramine An Toàn Theo Cân Nặng",
+    "titleTemplate": "%s | Máy Tính Benadryl Cho Chó",
+    "description": "Máy tính liều lượng Benadryl miễn phí cho chó. Tính liều diphenhydramine an toàn dựa trên cân nặng của chó. Bao gồm bảng liều lượng, hướng dẫn Benadryl dạng lỏng và thông tin an toàn.",
+    "keywords": "benadryl cho chó, liều benadryl chó, diphenhydramine cho chó, cho chó uống bao nhiêu benadryl, bảng liều benadryl cho chó, benadryl dạng lỏng cho chó"
+  },
+  "header": {
+    "title": "Máy Tính Benadryl Cho Chó",
+    "nav": {
+      "calculator": "Máy Tính",
+      "dosageChart": "Bảng Liều Lượng",
+      "safetyGuide": "Hướng Dẫn An Toàn",
+      "faq": "Câu Hỏi Thường Gặp"
+    }
+  },
+  "hero": {
+    "title": "Benadryl Cho Chó: Máy Tính Liều Lượng",
+    "subtitle": "Cho chó uống bao nhiêu Benadryl? Tính liều diphenhydramine an toàn dựa trên cân nặng của chó. Máy tính miễn phí với bảng liều lượng cho dị ứng, ngứa và lo âu."
+  },
+  "calculator": {
+    "title": "Máy Tính Liều Lượng Benadryl",
+    "weightLabel": "Cân Nặng Chó",
+    "weightPlaceholder": "Nhập cân nặng",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Loại Benadryl",
+    "typeOptions": {
+      "tablet25": "Viên nén (25mg)",
+      "tablet50": "Viên nén (50mg)",
+      "liquid": "Dạng lỏng (12.5mg/5ml)",
+      "chewable": "Viên nhai (12.5mg)"
+    },
+    "purposeLabel": "Mục đích (Tùy chọn)",
+    "purposeOptions": {
+      "allergies": "Dị ứng / Ngứa",
+      "motion": "Say xe",
+      "anxiety": "Lo âu nhẹ",
+      "insect": "Côn trùng cắn",
+      "other": "Khác"
+    },
+    "specialConditions": "Chó của tôi đang mang thai, cho con bú, là chó con hoặc có vấn đề sức khỏe",
+    "result": {
+      "singleDose": "Liều Đơn Khuyến Nghị",
+      "frequency": "Tần suất",
+      "frequencyValue": "2-3 lần mỗi ngày (mỗi 8-12 giờ)",
+      "maxDailyDose": "Liều Tối Đa Hàng Ngày",
+      "importantNotes": "Lưu Ý Quan Trọng:",
+      "vetReminder": "Luôn tham khảo bác sĩ thú y trước khi cho chó uống Benadryl, đặc biệt nếu chó đang dùng thuốc khác hoặc có vấn đề sức khỏe tiềm ẩn."
+    },
+    "warnings": {
+      "smallDogs": "Chó rất nhỏ nhạy cảm hơn. Bắt đầu với liều thấp hơn và tham khảo bác sĩ thú y.",
+      "largeDogs": "Đối với giống chó lớn, xác nhận liều lượng với bác sĩ thú y.",
+      "specialConditions": "Chó có vấn đề sức khỏe hoặc đang mang thai/cho con bú cần được bác sĩ thú y hướng dẫn.",
+      "liquidRecommended": "Đối với chó nhỏ, dạng lỏng có thể dễ dàng cho liều chính xác hơn.",
+      "tablet50TooStrong": "Viên 50mg quá mạnh cho chó dưới 25 lbs.",
+      "largeVolume": "Lượng lớn - viên nén có thể thực tế hơn."
+    }
+  },
+  "dosageChart": {
+    "title": "Bảng Liều Lượng Benadryl Cho Chó",
+    "subtitle": "Tham khảo nhanh dựa trên 1mg mỗi 1lb cân nặng",
+    "headers": {
+      "weight": "Cân Nặng Chó",
+      "dosage": "Liều Lượng (mg)",
+      "tablets25": "Viên 25mg",
+      "tablets50": "Viên 50mg",
+      "liquid": "Dạng Lỏng (12.5mg/5ml)"
+    },
+    "note": "Lưu ý: Bảng này chỉ để tham khảo chung. Liều lượng có thể khác nhau dựa trên nhu cầu sức khỏe cá nhân của chó. Luôn tham khảo bác sĩ thú y trước khi cho thuốc."
+  },
+  "liquidGuide": {
+    "title": "Benadryl Dạng Lỏng Cho Chó: Hướng Dẫn Liều Lượng",
+    "intro": "Benadryl dạng lỏng (công thức dành cho trẻ em) thường dễ dàng cho liều hơn cho chó nhỏ. Benadryl dạng lỏng tiêu chuẩn cho trẻ em chứa 12.5 mg mỗi 5 mL (1 muỗng cà phê).",
+    "conversion": {
+      "title": "Quy Đổi Benadryl Dạng Lỏng Cho Trẻ Em:",
+      "formula": "12.5 mg = 5 mL (1 muỗng cà phê) = 1 tsp"
+    },
+    "chartTitle": "Bảng Liều Benadryl Dạng Lỏng Cho Chó:",
+    "headers": {
+      "weight": "Cân Nặng Chó",
+      "dose": "Liều (mg)",
+      "liquid": "Lượng Lỏng"
+    },
+    "warning": {
+      "title": "Cảnh Báo Quan Trọng Về Benadryl Cho Trẻ Em:",
+      "items": [
+        "Kiểm tra thành phần cẩn thận - tránh công thức có xylitol (độc cho chó)",
+        "Chỉ sử dụng công thức với diphenhydramine (không có thuốc thông mũi hoặc giảm đau)",
+        "Tránh \"Benadryl-D\" hoặc công thức đa triệu chứng",
+        "Công thức không cồn được ưu tiên cho chó"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Cho Chó Uống Bao Nhiêu Benadryl?",
+    "intro": "Liều tiêu chuẩn của Benadryl cho chó là 1 mg mỗi pound cân nặng, cho uống 2-3 lần mỗi ngày. Đây là cùng hoạt chất (diphenhydramine) có trong Benadryl cho người, nhưng liều lượng được tính khác cho chó.",
+    "simpleRule": {
+      "title": "Quy Tắc Đơn Giản:",
+      "formula": "1 mg Benadryl = 1 lb cân nặng",
+      "example": "Ví dụ: Chó 25 lb có thể uống 25 mg Benadryl (một viên 25mg)"
+    },
+    "guidelines": {
+      "title": "Hướng Dẫn Liều Lượng Quan Trọng:",
+      "items": {
+        "frequency": "Tần suất: Cho uống mỗi 8-12 giờ (2-3 lần mỗi ngày)",
+        "maximum": "Tối đa: Không vượt quá 2 mg mỗi pound trong một liều đơn",
+        "duration": "Thời gian: Chỉ sử dụng ngắn hạn trừ khi bác sĩ thú y chỉ định khác",
+        "forms": "Dạng: Chỉ sử dụng diphenhydramine nguyên chất — tránh công thức có thuốc thông mũi (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Benadryl Có An Toàn Cho Chó Không?",
+    "intro": "Có, Benadryl nói chung an toàn cho hầu hết chó khi cho đúng liều. Diphenhydramine, hoạt chất trong Benadryl, là thuốc kháng histamine mà bác sĩ thú y thường khuyên dùng cho dị ứng, ngứa và lo âu nhẹ ở chó.",
+    "safeFor": {
+      "title": "An Toàn Cho:",
+      "items": [
+        "Chó trưởng thành khỏe mạnh",
+        "Giảm dị ứng ngắn hạn",
+        "Say xe",
+        "Tình huống lo âu nhẹ",
+        "Phản ứng với côn trùng cắn"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Không An Toàn Cho:",
+      "items": [
+        "Chó bị glaucoma",
+        "Chó bị bệnh tim",
+        "Chó mang thai hoặc đang cho con bú",
+        "Chó con dưới 6 tháng tuổi",
+        "Chó đang dùng một số loại thuốc"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Khi Nào Nên Cho Chó Uống Benadryl",
+    "allergies": {
+      "title": "Dị Ứng",
+      "description": "Dị ứng theo mùa, chất gây dị ứng môi trường, da ngứa, mề đay và phản ứng dị ứng nhẹ."
+    },
+    "motionSickness": {
+      "title": "Say Xe",
+      "description": "Đi ô tô, lo âu khi đi lại. Cho uống 30 phút trước chuyến đi để có kết quả tốt nhất."
+    },
+    "anxiety": {
+      "title": "Lo Âu Nhẹ",
+      "description": "Giông bão, pháo hoa, khám bác sĩ thú y. Tác dụng gây buồn ngủ có thể giúp làm dịu chó lo âu."
+    },
+    "insectBites": {
+      "title": "Côn Trùng Cắn",
+      "description": "Ong đốt, muỗi đốt, nhện cắn gây sưng hoặc ngứa."
+    }
+  },
+  "safety": {
+    "title": "Tác Dụng Phụ & Dấu Hiệu Cảnh Báo",
+    "commonSideEffects": {
+      "title": "Tác Dụng Phụ Thường Gặp (Thường Vô Hại):",
+      "items": [
+        "Buồn ngủ hoặc an thần",
+        "Khô miệng",
+        "Bí tiểu",
+        "Thở nhanh (ban đầu)"
+      ]
+    },
+    "callVet": {
+      "title": "Gọi Bác Sĩ Thú Y Ngay Nếu Nhận Thấy:",
+      "items": [
+        "Khó thở hoặc sưng",
+        "Mệt lử cực độ hoặc không phản ứng",
+        "Co giật hoặc run rẩy",
+        "Nôn mửa hoặc tiêu chảy",
+        "Mất cảm giác thèm ăn hơn 24 giờ",
+        "Nhịp tim nhanh hoặc không đều"
+      ]
+    },
+    "whenNot": {
+      "title": "Khi KHÔNG Nên Cho Benadryl:",
+      "items": [
+        "Chó bị glaucoma",
+        "Chó bị bệnh tim mạch",
+        "Chó bị cao huyết áp",
+        "Chó mang thai hoặc đang cho con bú",
+        "Chó đang dùng một số thuốc (thuốc ức chế MAO, thuốc an thần)",
+        "Chó con dưới 6 tháng tuổi"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Câu Hỏi Thường Gặp Về Benadryl Cho Chó",
+    "items": [
+      {
+        "question": "Benadryl có an toàn cho chó không?",
+        "answer": "Có, Benadryl (diphenhydramine) nói chung an toàn cho chó khi cho đúng liều 1 mg mỗi pound cân nặng. Tuy nhiên, bạn nên tránh cho chó bị glaucoma, bệnh tim mạch, cao huyết áp hoặc chó mang thai/cho con bú uống Benadryl. Luôn tham khảo bác sĩ thú y trước khi cho thuốc."
+      },
+      {
+        "question": "Cho chó uống bao nhiêu Benadryl?",
+        "answer": "Liều tiêu chuẩn của Benadryl cho chó là 1 mg mỗi pound cân nặng, cho uống 2-3 lần mỗi ngày (mỗi 8-12 giờ). Ví dụ, chó 25 pound có thể uống 25 mg Benadryl. Không bao giờ vượt quá 2 mg mỗi pound trong một liều đơn. Sử dụng máy tính ở trên để có liều chính xác."
+      },
+      {
+        "question": "Benadryl có tác dụng gì cho chó?",
+        "answer": "Benadryl là thuốc kháng histamine giúp giảm triệu chứng dị ứng ở chó, bao gồm ngứa, mề đay, sưng và hắt hơi. Nó cũng có thể giúp với say xe, lo âu nhẹ và phản ứng với côn trùng cắn. Hoạt chất diphenhydramine chặn các thụ thể histamine."
+      },
+      {
+        "question": "Chó có thể uống Benadryl cho dị ứng không?",
+        "answer": "Có, chó có thể uống Benadryl cho dị ứng. Nó điều trị hiệu quả dị ứng theo mùa, chất gây dị ứng môi trường, dị ứng thực phẩm (chỉ triệu chứng) và phản ứng dị ứng gây da ngứa hoặc mề đay. Cho liều tiêu chuẩn 1 mg mỗi pound cân nặng mỗi 8-12 giờ."
+      },
+      {
+        "question": "Chó có thể uống Benadryl cho ngứa không?",
+        "answer": "Có, Benadryl có thể giúp giảm ngứa ở chó do dị ứng, côn trùng cắn hoặc kích ứng da. Đặc tính kháng histamine giảm phản ứng histamine gây ngứa. Để có kết quả tốt nhất, cho 1 mg mỗi pound cân nặng mỗi 8-12 giờ cho đến khi triệu chứng cải thiện."
+      },
+      {
+        "question": "Loại Benadryl nào an toàn cho chó?",
+        "answer": "Chỉ sử dụng sản phẩm Benadryl có diphenhydramine là hoạt chất DUY NHẤT. Tránh Benadryl-D (chứa thuốc thông mũi), công thức đa triệu chứng và bất kỳ sản phẩm nào chứa xylitol (độc cho chó). Viên Benadryl thông thường (25mg) hoặc Benadryl dạng lỏng cho trẻ em (12.5mg/5mL) là lựa chọn an toàn."
+      },
+      {
+        "question": "Tôi có thể cho chó uống Benadryl mỗi ngày không?",
+        "answer": "Trong khi Benadryl nói chung an toàn cho sử dụng ngắn hạn, sử dụng hàng ngày lâu dài chỉ nên thực hiện dưới sự giám sát của bác sĩ thú y. Sử dụng kéo dài có thể cần điều chỉnh liều hoặc phương pháp điều trị thay thế. Đối với dị ứng mãn tính, bác sĩ thú y có thể đề xuất thuốc kê đơn thay thế."
+      },
+      {
+        "question": "Benadryl mất bao lâu để có tác dụng ở chó?",
+        "answer": "Benadryl thường bắt đầu có tác dụng trong vòng 30 phút và đạt hiệu quả tối đa trong 1-2 giờ. Tác dụng thường kéo dài 8-12 giờ. Đối với say xe hoặc lo âu khi đi lại, cho Benadryl 30 phút trước chuyến đi."
+      },
+      {
+        "question": "Tôi có thể dùng Benadryl cho trẻ em cho chó không?",
+        "answer": "Có, Benadryl dạng lỏng cho trẻ em (12.5mg mỗi 5mL) thường dễ dàng cho liều hơn cho chó nhỏ. Tuy nhiên, kiểm tra thành phần cẩn thận - tránh bất kỳ công thức nào chứa xylitol (độc cho chó), cồn hoặc hoạt chất bổ sung ngoài diphenhydramine."
+      },
+      {
+        "question": "Điều gì xảy ra nếu tôi cho chó uống quá nhiều Benadryl?",
+        "answer": "Nếu bạn nghi ngờ quá liều Benadryl, liên hệ bác sĩ thú y hoặc ASPCA Animal Poison Control Center (888-426-4435) ngay lập tức. Dấu hiệu quá liều bao gồm buồn ngủ cực độ, co giật, nhịp tim nhanh, khó thở, kích động và đồng tử giãn."
+      },
+      {
+        "question": "Benadryl có giống diphenhydramine không?",
+        "answer": "Có, Benadryl là tên thương hiệu của thuốc kháng histamine diphenhydramine. Diphenhydramine generic hoạt động giống hệt và thường rẻ hơn. Dù bạn sử dụng Benadryl thương hiệu hay diphenhydramine generic, luôn xác minh đó là hoạt chất duy nhất."
+      },
+      {
+        "question": "Cho chó 50 lb uống bao nhiêu Benadryl?",
+        "answer": "Chó 50 pound có thể uống 50 mg Benadryl (hai viên 25mg) mỗi 8-12 giờ. Điều này tuân theo liều tiêu chuẩn 1 mg mỗi pound cân nặng. Không vượt quá 100 mg mỗi liều (tối đa 2 mg mỗi pound)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Tuyên Bố Miễn Trừ Y Tế",
+    "text": "Máy tính và thông tin được cung cấp chỉ nhằm mục đích giáo dục và không nên thay thế lời khuyên của bác sĩ thú y chuyên nghiệp. Luôn tham khảo bác sĩ thú y trước khi cho thú cưng uống bất kỳ loại thuốc nào. Mỗi con chó có thể có nhu cầu khác nhau dựa trên tình trạng sức khỏe, tuổi tác và các yếu tố khác."
+  },
+  "footer": {
+    "about": "Công cụ tính miễn phí giúp chủ thú cưng xác định liều Benadryl an toàn cho chó. Luôn tham khảo bác sĩ thú y trước khi cho thú cưng uống bất kỳ loại thuốc nào.",
+    "quickLinks": {
+      "title": "Liên Kết Nhanh",
+      "calculator": "Máy Tính Liều Lượng",
+      "dosageChart": "Bảng Liều Lượng",
+      "safetyGuidelines": "Hướng Dẫn An Toàn",
+      "faq": "Câu Hỏi Thường Gặp"
+    },
+    "legal": {
+      "title": "Pháp Lý",
+      "privacy": "Chính Sách Bảo Mật",
+      "terms": "Điều Khoản Dịch Vụ",
+      "disclaimer": "Tuyên Bố Miễn Trừ"
+    },
+    "disclaimerText": "Máy tính này chỉ nhằm mục đích cung cấp thông tin. Luôn tham khảo bác sĩ thú y trước khi cho thú cưng uống thuốc.",
+    "copyright": "Bảo lưu mọi quyền."
+  }
+}

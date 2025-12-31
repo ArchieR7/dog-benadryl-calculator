@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Benadryl Doseringscalculator voor Honden - Veilige Difenhydramine Dosis per Gewicht",
+    "titleTemplate": "%s | Benadryl Calculator voor Honden",
+    "description": "Gratis Benadryl doseringscalculator voor honden. Bereken de veilige difenhydramine dosis op basis van het gewicht van uw hond. Inclusief doseringstabel, vloeibare Benadryl gids en veiligheidsinformatie.",
+    "keywords": "benadryl voor honden, hond benadryl dosering, difenhydramine voor honden, hoeveel benadryl kan ik mijn hond geven, benadryl doseringstabel honden, vloeibare benadryl voor honden"
+  },
+  "header": {
+    "title": "Benadryl Calculator voor Honden",
+    "nav": {
+      "calculator": "Calculator",
+      "dosageChart": "Doseringstabel",
+      "safetyGuide": "Veiligheidsgids",
+      "faq": "Veelgestelde Vragen"
+    }
+  },
+  "hero": {
+    "title": "Benadryl voor Honden: Doseringscalculator",
+    "subtitle": "Hoeveel Benadryl kan ik mijn hond geven? Bereken de veilige difenhydramine dosis op basis van het gewicht van uw hond. Gratis calculator met doseringstabel voor allergieën, jeuk en angst."
+  },
+  "calculator": {
+    "title": "Benadryl Doseringscalculator",
+    "weightLabel": "Gewicht van de Hond",
+    "weightPlaceholder": "Voer gewicht in",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Type Benadryl",
+    "typeOptions": {
+      "tablet25": "Tablet (25mg)",
+      "tablet50": "Tablet (50mg)",
+      "liquid": "Vloeibaar (12,5mg/5ml)",
+      "chewable": "Kauwtablet (12,5mg)"
+    },
+    "purposeLabel": "Doel (Optioneel)",
+    "purposeOptions": {
+      "allergies": "Allergieën / Jeuk",
+      "motion": "Wagenziekte",
+      "anxiety": "Milde Angst",
+      "insect": "Insectenbeten",
+      "other": "Overig"
+    },
+    "specialConditions": "Mijn hond is zwanger, geeft borstvoeding, is een puppy of heeft gezondheidsproblemen",
+    "result": {
+      "singleDose": "Aanbevolen Enkele Dosis",
+      "frequency": "Frequentie",
+      "frequencyValue": "2-3 keer per dag (elke 8-12 uur)",
+      "maxDailyDose": "Max Dagelijkse Dosis",
+      "importantNotes": "Belangrijke Opmerkingen:",
+      "vetReminder": "Raadpleeg altijd uw dierenarts voordat u Benadryl aan uw hond geeft, vooral als uw hond andere medicijnen gebruikt of onderliggende gezondheidsproblemen heeft."
+    },
+    "warnings": {
+      "smallDogs": "Zeer kleine honden zijn gevoeliger. Begin met een lagere dosis en raadpleeg uw dierenarts.",
+      "largeDogs": "Voor grote rassen, bevestig de dosering met uw dierenarts.",
+      "specialConditions": "Honden met gezondheidsproblemen of zwangere/zogende honden hebben dierenartsbegeleiding nodig.",
+      "liquidRecommended": "Voor kleine honden is de vloeibare vorm misschien gemakkelijker om nauwkeurig te doseren.",
+      "tablet50TooStrong": "50mg tabletten zijn te sterk voor honden onder 25 lbs.",
+      "largeVolume": "Groot volume - tabletten kunnen praktischer zijn."
+    }
+  },
+  "dosageChart": {
+    "title": "Benadryl Doseringstabel voor Honden",
+    "subtitle": "Snelle referentie op basis van 1mg per 1lb lichaamsgewicht",
+    "headers": {
+      "weight": "Gewicht Hond",
+      "dosage": "Dosering (mg)",
+      "tablets25": "25mg Tabletten",
+      "tablets50": "50mg Tabletten",
+      "liquid": "Vloeibaar (12,5mg/5ml)"
+    },
+    "note": "Opmerking: Deze tabel is alleen voor algemene referentie. Doseringen kunnen variëren op basis van de individuele gezondheidsbehoeften van uw hond. Raadpleeg altijd uw dierenarts voordat u medicijnen toedient."
+  },
+  "liquidGuide": {
+    "title": "Vloeibare Benadryl voor Honden: Doseringsgids",
+    "intro": "Vloeibare Benadryl (kinderformule) is vaak gemakkelijker te doseren voor kleine honden. Standaard vloeibare Benadryl voor kinderen bevat 12,5 mg per 5 mL (1 theelepel).",
+    "conversion": {
+      "title": "Conversie Vloeibare Kinder-Benadryl:",
+      "formula": "12,5 mg = 5 mL (1 theelepel) = 1 tl"
+    },
+    "chartTitle": "Vloeibare Benadryl Doseringstabel voor Honden:",
+    "headers": {
+      "weight": "Gewicht Hond",
+      "dose": "Dosis (mg)",
+      "liquid": "Vloeibare Hoeveelheid"
+    },
+    "warning": {
+      "title": "Belangrijke Waarschuwing voor Kinder-Benadryl:",
+      "items": [
+        "Controleer ingrediënten zorgvuldig - vermijd formules met xylitol (giftig voor honden)",
+        "Gebruik alleen formules met difenhydramine (geen decongestiva of pijnstillers)",
+        "Vermijd \"Benadryl-D\" of multi-symptoom formules",
+        "Alcoholvrije formules hebben de voorkeur voor honden"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Hoeveel Benadryl Kan Ik Mijn Hond Geven?",
+    "intro": "De standaard dosering van Benadryl voor honden is 1 mg per pond lichaamsgewicht, 2-3 keer per dag toegediend. Dit is dezelfde werkzame stof (difenhydramine) als in menselijke Benadryl, maar de dosering wordt anders berekend voor honden.",
+    "simpleRule": {
+      "title": "De Simpele Regel:",
+      "formula": "1 mg Benadryl = 1 lb lichaamsgewicht",
+      "example": "Voorbeeld: Een hond van 25 lb kan 25 mg Benadryl nemen (één tablet van 25mg)"
+    },
+    "guidelines": {
+      "title": "Belangrijke Doseringsrichtlijnen:",
+      "items": {
+        "frequency": "Frequentie: Geef elke 8-12 uur (2-3 keer per dag)",
+        "maximum": "Maximum: Overschrijd niet 2 mg per pond in een enkele dosis",
+        "duration": "Duur: Alleen kortdurend gebruik tenzij anders aangegeven door uw dierenarts",
+        "forms": "Vormen: Gebruik alleen pure difenhydramine — vermijd formules met decongestiva (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Is Benadryl Veilig voor Honden?",
+    "intro": "Ja, Benadryl is over het algemeen veilig voor de meeste honden wanneer het in de juiste dosering wordt gegeven. Difenhydramine, de werkzame stof in Benadryl, is een antihistaminicum dat dierenartsen vaak aanbevelen voor allergieën, jeuk en milde angst bij honden.",
+    "safeFor": {
+      "title": "Veilig Voor:",
+      "items": [
+        "Gezonde volwassen honden",
+        "Kortdurende allergieverlichting",
+        "Wagenziekte",
+        "Milde angstsituaties",
+        "Reacties op insectenbeten"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Niet Veilig Voor:",
+      "items": [
+        "Honden met glaucoom",
+        "Honden met hartaandoeningen",
+        "Zwangere of zogende honden",
+        "Puppy's onder 6 maanden",
+        "Honden die bepaalde medicijnen gebruiken"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Wanneer Benadryl aan Honden te Geven",
+    "allergies": {
+      "title": "Allergieën",
+      "description": "Seizoensallergieën, omgevingsallergenen, jeukende huid, netelroos en milde allergische reacties."
+    },
+    "motionSickness": {
+      "title": "Wagenziekte",
+      "description": "Autoritten, reisangst. Geef 30 minuten voor de reis voor beste resultaten."
+    },
+    "anxiety": {
+      "title": "Milde Angst",
+      "description": "Onweer, vuurwerk, dierenarts bezoeken. Het slaperigheidseffect kan helpen angstige honden te kalmeren."
+    },
+    "insectBites": {
+      "title": "Insectenbeten",
+      "description": "Bijensteken, muggenbeten, spinnenbeten die zwelling of jeuk veroorzaken."
+    }
+  },
+  "safety": {
+    "title": "Bijwerkingen & Waarschuwingssignalen",
+    "commonSideEffects": {
+      "title": "Veel Voorkomende Bijwerkingen (Meestal Onschadelijk):",
+      "items": [
+        "Slaperigheid of sedatie",
+        "Droge mond",
+        "Urineretentie",
+        "Snelle ademhaling (aanvankelijk)"
+      ]
+    },
+    "callVet": {
+      "title": "Bel Onmiddellijk Uw Dierenarts Als U Merkt:",
+      "items": [
+        "Ademhalingsproblemen of zwelling",
+        "Extreme lethargie of niet-reageren",
+        "Aanvallen of trillen",
+        "Braken of diarree",
+        "Verlies van eetlust langer dan 24 uur",
+        "Snelle of onregelmatige hartslag"
+      ]
+    },
+    "whenNot": {
+      "title": "Wanneer GEEN Benadryl te Geven:",
+      "items": [
+        "Honden met glaucoom",
+        "Honden met cardiovasculaire aandoeningen",
+        "Honden met hoge bloeddruk",
+        "Zwangere of zogende honden",
+        "Honden die bepaalde medicijnen gebruiken (MAO-remmers, sedativa)",
+        "Puppy's onder 6 maanden oud"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen Over Benadryl voor Honden",
+    "items": [
+      {
+        "question": "Is Benadryl veilig voor honden?",
+        "answer": "Ja, Benadryl (difenhydramine) is over het algemeen veilig voor honden wanneer het in de juiste dosering van 1 mg per pond lichaamsgewicht wordt gegeven. U moet echter vermijden Benadryl te geven aan honden met glaucoom, cardiovasculaire aandoeningen, hoge bloeddruk of zwangere/zogende honden. Raadpleeg altijd uw dierenarts voordat u medicijnen toedient."
+      },
+      {
+        "question": "Hoeveel Benadryl kan ik mijn hond geven?",
+        "answer": "De standaard Benadryl-dosering voor honden is 1 mg per pond lichaamsgewicht, 2-3 keer per dag gegeven (elke 8-12 uur). Bijvoorbeeld, een hond van 25 pond kan 25 mg Benadryl nemen. Overschrijd nooit 2 mg per pond in een enkele dosis. Gebruik onze calculator hierboven voor nauwkeurige dosering."
+      },
+      {
+        "question": "Wat doet Benadryl voor honden?",
+        "answer": "Benadryl is een antihistaminicum dat helpt allergiesymptomen bij honden te verlichten, waaronder jeuk, netelroos, zwelling en niezen. Het kan ook helpen bij wagenziekte, milde angst en reacties op insectenbeten of steken. De werkzame stof difenhydramine blokkeert histaminereceptoren."
+      },
+      {
+        "question": "Kunnen honden Benadryl nemen voor allergieën?",
+        "answer": "Ja, honden kunnen Benadryl nemen voor allergieën. Het behandelt effectief seizoensallergieën, omgevingsallergenen, voedselallergieën (alleen symptomen) en allergische reacties die jeukende huid of netelroos veroorzaken. Geef de standaarddosis van 1 mg per pond lichaamsgewicht elke 8-12 uur."
+      },
+      {
+        "question": "Kunnen honden Benadryl nemen voor jeuk?",
+        "answer": "Ja, Benadryl kan helpen jeuk bij honden te verlichten veroorzaakt door allergieën, insectenbeten of huidirritatie. De antihistamine-eigenschappen verminderen de histaminerespons die jeuk veroorzaakt. Voor beste resultaten, geef 1 mg per pond lichaamsgewicht elke 8-12 uur totdat de symptomen verbeteren."
+      },
+      {
+        "question": "Welk type Benadryl is veilig voor honden?",
+        "answer": "Gebruik alleen Benadryl-producten met difenhydramine als het ENIGE werkzame bestanddeel. Vermijd Benadryl-D (bevat decongestiva), multi-symptoomformules en elk product met xylitol (giftig voor honden). Gewone Benadryl-tabletten (25mg) of vloeibare kinder-Benadryl (12,5mg/5mL) zijn veilige opties."
+      },
+      {
+        "question": "Kan ik mijn hond elke dag Benadryl geven?",
+        "answer": "Hoewel Benadryl over het algemeen veilig is voor kortdurend gebruik, moet dagelijks langdurig gebruik alleen onder toezicht van een dierenarts plaatsvinden. Langdurig gebruik kan dosisaanpassingen of alternatieve behandelingen vereisen. Voor chronische allergieën kan uw dierenarts in plaats daarvan voorgeschreven medicijnen aanbevelen."
+      },
+      {
+        "question": "Hoe lang duurt het voordat Benadryl werkt bij honden?",
+        "answer": "Benadryl begint typisch binnen 30 minuten te werken en bereikt maximale effectiviteit binnen 1-2 uur. De effecten duren meestal 8-12 uur. Voor wagenziekte of reisangst, geef Benadryl 30 minuten voor de autorit."
+      },
+      {
+        "question": "Kan ik kinder-Benadryl gebruiken voor mijn hond?",
+        "answer": "Ja, vloeibare kinder-Benadryl (12,5mg per 5mL) is vaak gemakkelijker te doseren voor kleinere honden. Controleer echter de ingrediënten zorgvuldig - vermijd elke formule met xylitol (giftig voor honden), alcohol of extra werkzame stoffen naast difenhydramine."
+      },
+      {
+        "question": "Wat gebeurt er als ik mijn hond te veel Benadryl geef?",
+        "answer": "Als u een Benadryl-overdosis vermoedt, neem dan onmiddellijk contact op met uw dierenarts of het ASPCA Animal Poison Control Center (888-426-4435). Tekenen van overdosis zijn onder meer extreme slaperigheid, aanvallen, snelle hartslag, ademhalingsproblemen, agitatie en verwijde pupillen."
+      },
+      {
+        "question": "Is Benadryl hetzelfde als difenhydramine?",
+        "answer": "Ja, Benadryl is een merknaam voor het antihistaminicum difenhydramine. Generieke difenhydramine werkt identiek en is vaak goedkoper. Of u nu merk-Benadryl of generieke difenhydramine gebruikt, controleer altijd of het het enige werkzame bestanddeel is."
+      },
+      {
+        "question": "Hoeveel Benadryl kan ik mijn hond van 50 lb geven?",
+        "answer": "Een hond van 50 pond kan 50 mg Benadryl nemen (twee tabletten van 25mg) elke 8-12 uur. Dit volgt de standaarddosering van 1 mg per pond lichaamsgewicht. Overschrijd niet 100 mg per dosis (maximaal 2 mg per pond)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Medische Disclaimer",
+    "text": "Deze calculator en de verstrekte informatie zijn alleen voor educatieve doeleinden en mogen professioneel veterinair advies niet vervangen. Raadpleeg altijd uw dierenarts voordat u medicijnen aan uw huisdier toedient. Individuele honden kunnen verschillende behoeften hebben op basis van hun gezondheidstoestand, leeftijd en andere factoren."
+  },
+  "footer": {
+    "about": "Een gratis calculator om huisdiereigenaren te helpen de veilige Benadryl-dosering voor hun honden te bepalen. Raadpleeg altijd uw dierenarts voordat u medicijnen toedient.",
+    "quickLinks": {
+      "title": "Snelle Links",
+      "calculator": "Dosering Calculator",
+      "dosageChart": "Doseringtabel",
+      "safetyGuidelines": "Veiligheidsrichtlijnen",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Juridisch",
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "disclaimer": "Disclaimer"
+    },
+    "disclaimerText": "Deze calculator is alleen voor informatieve doeleinden. Raadpleeg altijd uw dierenarts voordat u medicijnen aan uw huisdier geeft.",
+    "copyright": "Alle rechten voorbehouden."
+  }
+}
