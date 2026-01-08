@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Kalkulator Dosis Benadryl untuk Anjing - Dosis Diphenhydramine Aman Berdasarkan Berat",
+    "titleTemplate": "%s | Kalkulator Benadryl untuk Anjing",
+    "description": "Kalkulator dosis Benadryl gratis untuk anjing. Hitung dosis diphenhydramine yang aman berdasarkan berat badan anjing Anda. Termasuk tabel dosis, panduan Benadryl cair, dan informasi keamanan.",
+    "keywords": "benadryl untuk anjing, dosis benadryl anjing, diphenhydramine untuk anjing, berapa banyak benadryl untuk anjing, tabel dosis benadryl anjing, benadryl cair untuk anjing"
+  },
+  "header": {
+    "title": "Kalkulator Benadryl untuk Anjing",
+    "nav": {
+      "calculator": "Kalkulator",
+      "dosageChart": "Tabel Dosis",
+      "safetyGuide": "Panduan Keamanan",
+      "faq": "Pertanyaan Umum"
+    }
+  },
+  "hero": {
+    "title": "Benadryl untuk Anjing: Kalkulator Dosis",
+    "subtitle": "Berapa banyak Benadryl yang bisa diberikan ke anjing? Hitung dosis diphenhydramine yang aman berdasarkan berat badan anjing Anda. Kalkulator gratis dengan tabel dosis untuk alergi, gatal, dan kecemasan."
+  },
+  "calculator": {
+    "title": "Kalkulator Dosis Benadryl",
+    "weightLabel": "Berat Anjing",
+    "weightPlaceholder": "Masukkan berat",
+    "lbs": "lbs",
+    "kg": "kg",
+    "typeLabel": "Jenis Benadryl",
+    "typeOptions": {
+      "tablet25": "Tablet (25mg)",
+      "tablet50": "Tablet (50mg)",
+      "liquid": "Cair (12,5mg/5ml)",
+      "chewable": "Kunyah (12,5mg)"
+    },
+    "purposeLabel": "Tujuan (Opsional)",
+    "purposeOptions": {
+      "allergies": "Alergi / Gatal",
+      "motion": "Mabuk Perjalanan",
+      "anxiety": "Kecemasan Ringan",
+      "insect": "Gigitan Serangga",
+      "other": "Lainnya"
+    },
+    "specialConditions": "Anjing saya hamil, menyusui, masih anak anjing, atau memiliki kondisi kesehatan",
+    "result": {
+      "singleDose": "Dosis Tunggal yang Direkomendasikan",
+      "frequency": "Frekuensi",
+      "frequencyValue": "2-3 kali sehari (setiap 8-12 jam)",
+      "maxDailyDose": "Dosis Harian Maksimum",
+      "importantNotes": "Catatan Penting:",
+      "vetReminder": "Selalu konsultasikan dengan dokter hewan sebelum memberikan Benadryl kepada anjing Anda, terutama jika anjing Anda sedang mengonsumsi obat lain atau memiliki kondisi kesehatan yang mendasarinya."
+    },
+    "warnings": {
+      "smallDogs": "Anjing sangat kecil lebih sensitif. Mulai dengan dosis lebih rendah dan konsultasikan dengan dokter hewan.",
+      "largeDogs": "Untuk ras besar, konfirmasi dosis dengan dokter hewan Anda.",
+      "specialConditions": "Anjing dengan kondisi kesehatan atau hamil/menyusui memerlukan panduan dokter hewan.",
+      "liquidRecommended": "Untuk anjing kecil, bentuk cair mungkin lebih mudah untuk dosis yang akurat.",
+      "tablet50TooStrong": "Tablet 50mg terlalu kuat untuk anjing di bawah 25 lbs.",
+      "largeVolume": "Volume besar - tablet mungkin lebih praktis."
+    }
+  },
+  "dosageChart": {
+    "title": "Tabel Dosis Benadryl untuk Anjing",
+    "subtitle": "Referensi cepat berdasarkan 1mg per 1lb berat badan",
+    "headers": {
+      "weight": "Berat Anjing",
+      "dosage": "Dosis (mg)",
+      "tablets25": "Tablet 25mg",
+      "tablets50": "Tablet 50mg",
+      "liquid": "Cair (12,5mg/5ml)"
+    },
+    "note": "Catatan: Tabel ini hanya untuk referensi umum. Dosis dapat bervariasi berdasarkan kebutuhan kesehatan individu anjing Anda. Selalu konsultasikan dengan dokter hewan sebelum memberikan obat."
+  },
+  "liquidGuide": {
+    "title": "Benadryl Cair untuk Anjing: Panduan Dosis",
+    "intro": "Benadryl cair (formula anak) seringkali lebih mudah untuk dosis pada anjing kecil. Benadryl cair anak standar mengandung 12,5 mg per 5 mL (1 sendok teh).",
+    "conversion": {
+      "title": "Konversi Benadryl Cair Anak:",
+      "formula": "12,5 mg = 5 mL (1 sendok teh) = 1 tsp"
+    },
+    "chartTitle": "Tabel Dosis Benadryl Cair untuk Anjing:",
+    "headers": {
+      "weight": "Berat Anjing",
+      "dose": "Dosis (mg)",
+      "liquid": "Jumlah Cair"
+    },
+    "warning": {
+      "title": "Peringatan Penting untuk Benadryl Anak:",
+      "items": [
+        "Periksa bahan dengan cermat - hindari formula dengan xylitol (beracun untuk anjing)",
+        "Gunakan formula dengan diphenhydramine saja (tanpa dekongestan atau pereda nyeri)",
+        "Hindari \"Benadryl-D\" atau formula multi-gejala",
+        "Formula bebas alkohol lebih disukai untuk anjing"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "Berapa Banyak Benadryl yang Bisa Diberikan ke Anjing Saya?",
+    "intro": "Dosis standar Benadryl untuk anjing adalah 1 mg per pon berat badan, diberikan 2-3 kali sehari. Ini adalah bahan aktif yang sama (diphenhydramine) yang ditemukan dalam Benadryl manusia, tetapi dosisnya dihitung secara berbeda untuk anjing.",
+    "simpleRule": {
+      "title": "Aturan Sederhana:",
+      "formula": "1 mg Benadryl = 1 lb berat badan",
+      "example": "Contoh: Anjing 25 lb dapat mengonsumsi 25 mg Benadryl (satu tablet 25mg)"
+    },
+    "guidelines": {
+      "title": "Pedoman Dosis Penting:",
+      "items": {
+        "frequency": "Frekuensi: Berikan setiap 8-12 jam (2-3 kali sehari)",
+        "maximum": "Maksimum: Jangan melebihi 2 mg per pon dalam satu dosis",
+        "duration": "Durasi: Hanya penggunaan jangka pendek kecuali diarahkan oleh dokter hewan",
+        "forms": "Bentuk: Gunakan diphenhydramine murni saja — hindari formula dengan dekongestan (Benadryl-D)"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Apakah Benadryl Aman untuk Anjing?",
+    "intro": "Ya, Benadryl umumnya aman untuk sebagian besar anjing bila diberikan dalam dosis yang benar. Diphenhydramine, bahan aktif dalam Benadryl, adalah antihistamin yang sering direkomendasikan dokter hewan untuk alergi, gatal, dan kecemasan ringan pada anjing.",
+    "safeFor": {
+      "title": "Aman Untuk:",
+      "items": [
+        "Anjing dewasa yang sehat",
+        "Pereda alergi jangka pendek",
+        "Mabuk perjalanan",
+        "Situasi kecemasan ringan",
+        "Reaksi terhadap gigitan serangga"
+      ]
+    },
+    "notSafeFor": {
+      "title": "Tidak Aman Untuk:",
+      "items": [
+        "Anjing dengan glaukoma",
+        "Anjing dengan penyakit jantung",
+        "Anjing hamil atau menyusui",
+        "Anak anjing di bawah 6 bulan",
+        "Anjing yang mengonsumsi obat tertentu"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "Kapan Memberikan Benadryl kepada Anjing",
+    "allergies": {
+      "title": "Alergi",
+      "description": "Alergi musiman, alergen lingkungan, kulit gatal, biduran, dan reaksi alergi ringan."
+    },
+    "motionSickness": {
+      "title": "Mabuk Perjalanan",
+      "description": "Perjalanan mobil, kecemasan perjalanan. Berikan 30 menit sebelum perjalanan untuk hasil terbaik."
+    },
+    "anxiety": {
+      "title": "Kecemasan Ringan",
+      "description": "Badai petir, kembang api, kunjungan dokter hewan. Efek kantuk dapat membantu menenangkan anjing yang cemas."
+    },
+    "insectBites": {
+      "title": "Gigitan Serangga",
+      "description": "Sengatan lebah, gigitan nyamuk, gigitan laba-laba yang menyebabkan pembengkakan atau gatal."
+    }
+  },
+  "safety": {
+    "title": "Efek Samping & Tanda Peringatan",
+    "commonSideEffects": {
+      "title": "Efek Samping Umum (Biasanya Tidak Berbahaya):",
+      "items": [
+        "Kantuk atau sedasi",
+        "Mulut kering",
+        "Retensi urin",
+        "Napas cepat (awalnya)"
+      ]
+    },
+    "callVet": {
+      "title": "Hubungi Dokter Hewan Segera Jika Anda Melihat:",
+      "items": [
+        "Kesulitan bernapas atau pembengkakan",
+        "Kelesuan ekstrem atau tidak responsif",
+        "Kejang atau gemetar",
+        "Muntah atau diare",
+        "Kehilangan nafsu makan selama lebih dari 24 jam",
+        "Detak jantung cepat atau tidak teratur"
+      ]
+    },
+    "whenNot": {
+      "title": "Kapan TIDAK Memberikan Benadryl:",
+      "items": [
+        "Anjing dengan glaukoma",
+        "Anjing dengan penyakit kardiovaskular",
+        "Anjing dengan tekanan darah tinggi",
+        "Anjing hamil atau menyusui",
+        "Anjing yang mengonsumsi obat tertentu (inhibitor MAO, sedatif)",
+        "Anak anjing di bawah 6 bulan"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan Umum Tentang Benadryl untuk Anjing",
+    "items": [
+      {
+        "question": "Apakah Benadryl aman untuk anjing?",
+        "answer": "Ya, Benadryl (diphenhydramine) umumnya aman untuk anjing bila diberikan dalam dosis yang benar 1 mg per pon berat badan. Namun, Anda harus menghindari memberikan Benadryl kepada anjing dengan glaukoma, penyakit kardiovaskular, tekanan darah tinggi, atau anjing hamil/menyusui. Selalu konsultasikan dengan dokter hewan sebelum memberikan obat apapun."
+      },
+      {
+        "question": "Berapa banyak Benadryl yang bisa saya berikan ke anjing saya?",
+        "answer": "Dosis standar Benadryl untuk anjing adalah 1 mg per pon berat badan, diberikan 2-3 kali sehari (setiap 8-12 jam). Misalnya, anjing 25 pon dapat mengonsumsi 25 mg Benadryl. Jangan pernah melebihi 2 mg per pon dalam satu dosis. Gunakan kalkulator di atas untuk dosis yang akurat."
+      },
+      {
+        "question": "Apa yang dilakukan Benadryl untuk anjing?",
+        "answer": "Benadryl adalah antihistamin yang membantu meredakan gejala alergi pada anjing, termasuk gatal, biduran, pembengkakan, dan bersin. Obat ini juga dapat membantu mabuk perjalanan, kecemasan ringan, dan reaksi terhadap gigitan serangga. Bahan aktif diphenhydramine memblokir reseptor histamin."
+      },
+      {
+        "question": "Bisakah anjing mengonsumsi Benadryl untuk alergi?",
+        "answer": "Ya, anjing dapat mengonsumsi Benadryl untuk alergi. Obat ini efektif mengobati alergi musiman, alergen lingkungan, alergi makanan (hanya gejala), dan reaksi alergi yang menyebabkan kulit gatal atau biduran. Berikan dosis standar 1 mg per pon berat badan setiap 8-12 jam."
+      },
+      {
+        "question": "Bisakah anjing mengonsumsi Benadryl untuk gatal?",
+        "answer": "Ya, Benadryl dapat membantu meredakan gatal pada anjing yang disebabkan oleh alergi, gigitan serangga, atau iritasi kulit. Sifat antihistamin mengurangi respons histamin yang menyebabkan gatal. Untuk hasil terbaik, berikan 1 mg per pon berat badan setiap 8-12 jam sampai gejala membaik."
+      },
+      {
+        "question": "Jenis Benadryl apa yang aman untuk anjing?",
+        "answer": "Gunakan hanya produk Benadryl yang mengandung diphenhydramine sebagai SATU-SATUNYA bahan aktif. Hindari Benadryl-D (mengandung dekongestan), formula multi-gejala, dan produk apa pun yang mengandung xylitol (beracun untuk anjing). Tablet Benadryl biasa (25mg) atau Benadryl cair anak (12,5mg/5mL) adalah pilihan yang aman."
+      },
+      {
+        "question": "Bisakah saya memberikan Benadryl kepada anjing saya setiap hari?",
+        "answer": "Meskipun Benadryl umumnya aman untuk penggunaan jangka pendek, penggunaan harian jangka panjang hanya boleh dilakukan di bawah pengawasan dokter hewan. Penggunaan berkepanjangan mungkin memerlukan penyesuaian dosis atau perawatan alternatif. Untuk alergi kronis, dokter hewan Anda mungkin merekomendasikan obat resep sebagai gantinya."
+      },
+      {
+        "question": "Berapa lama Benadryl bekerja pada anjing?",
+        "answer": "Benadryl biasanya mulai bekerja dalam 30 menit dan mencapai efektivitas maksimum dalam 1-2 jam. Efeknya biasanya berlangsung 8-12 jam. Untuk mabuk perjalanan atau kecemasan perjalanan, berikan Benadryl 30 menit sebelum perjalanan mobil."
+      },
+      {
+        "question": "Bisakah saya menggunakan Benadryl anak untuk anjing saya?",
+        "answer": "Ya, Benadryl cair anak (12,5mg per 5mL) seringkali lebih mudah untuk dosis pada anjing yang lebih kecil. Namun, periksa bahan dengan cermat - hindari formula apa pun yang mengandung xylitol (beracun untuk anjing), alkohol, atau bahan aktif tambahan selain diphenhydramine."
+      },
+      {
+        "question": "Apa yang terjadi jika saya memberikan terlalu banyak Benadryl kepada anjing saya?",
+        "answer": "Jika Anda mencurigai overdosis Benadryl, hubungi dokter hewan atau ASPCA Animal Poison Control Center (888-426-4435) segera. Tanda-tanda overdosis termasuk kantuk ekstrem, kejang, detak jantung cepat, kesulitan bernapas, agitasi, dan pupil melebar."
+      },
+      {
+        "question": "Apakah Benadryl sama dengan diphenhydramine?",
+        "answer": "Ya, Benadryl adalah nama merek untuk antihistamin diphenhydramine. Diphenhydramine generik bekerja secara identik dan sering lebih murah. Baik Anda menggunakan Benadryl bermerek atau diphenhydramine generik, selalu verifikasi bahwa itu adalah satu-satunya bahan aktif."
+      },
+      {
+        "question": "Berapa banyak Benadryl yang bisa saya berikan ke anjing 50 lb saya?",
+        "answer": "Anjing 50 pon dapat mengonsumsi 50 mg Benadryl (dua tablet 25mg) setiap 8-12 jam. Ini mengikuti dosis standar 1 mg per pon berat badan. Jangan melebihi 100 mg per dosis (maksimum 2 mg per pon)."
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Penafian Medis",
+    "text": "Kalkulator ini dan informasi yang diberikan hanya untuk tujuan edukasi dan tidak boleh menggantikan nasihat dokter hewan profesional. Selalu konsultasikan dengan dokter hewan sebelum memberikan obat apa pun kepada hewan peliharaan Anda. Setiap anjing mungkin memiliki kebutuhan yang berbeda berdasarkan kondisi kesehatan, usia, dan faktor lainnya."
+  },
+  "footer": {
+    "about": "Kalkulator gratis untuk membantu pemilik hewan peliharaan menentukan dosis Benadryl yang aman untuk anjing mereka. Selalu konsultasikan dengan dokter hewan sebelum memberikan obat apa pun.",
+    "quickLinks": {
+      "title": "Tautan Cepat",
+      "calculator": "Kalkulator Dosis",
+      "dosageChart": "Tabel Dosis",
+      "safetyGuidelines": "Panduan Keamanan",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Hukum",
+      "privacy": "Kebijakan Privasi",
+      "terms": "Ketentuan Layanan",
+      "disclaimer": "Penafian"
+    },
+    "disclaimerText": "Kalkulator ini hanya untuk tujuan informasi. Selalu konsultasikan dengan dokter hewan sebelum memberikan obat kepada hewan peliharaan Anda.",
+    "copyright": "Hak cipta dilindungi."
+  }
+}

@@ -1,0 +1,98 @@
+export const locales = [
+  'en',
+  'es',
+  'de',
+  'fr',
+  'ja',
+  'pt',
+  'ko',
+  'zh-TW',
+  'it',
+  'nl',
+  'pl',
+  'tr',
+  'sv',
+  'th',
+  'vi',
+  'id',
+] as const
+
+export type Locale = (typeof locales)[number]
+
+export const defaultLocale: Locale = 'en'
+
+export const localeNames: Record<Locale, string> = {
+  en: 'English',
+  es: 'Español',
+  de: 'Deutsch',
+  fr: 'Français',
+  ja: '日本語',
+  pt: 'Português',
+  ko: '한국어',
+  'zh-TW': '繁體中文',
+  it: 'Italiano',
+  nl: 'Nederlands',
+  pl: 'Polski',
+  tr: 'Türkçe',
+  sv: 'Svenska',
+  th: 'ไทย',
+  vi: 'Tiếng Việt',
+  id: 'Bahasa Indonesia',
+}
+
+export const localeFlags: Record<Locale, string> = {
+  en: '🇺🇸',
+  es: '🇪🇸',
+  de: '🇩🇪',
+  fr: '🇫🇷',
+  ja: '🇯🇵',
+  pt: '🇧🇷',
+  ko: '🇰🇷',
+  'zh-TW': '🇹🇼',
+  it: '🇮🇹',
+  nl: '🇳🇱',
+  pl: '🇵🇱',
+  tr: '🇹🇷',
+  sv: '🇸🇪',
+  th: '🇹🇭',
+  vi: '🇻🇳',
+  id: '🇮🇩',
+}
+
+export const ogLocales: Record<Locale, string> = {
+  en: 'en_US',
+  es: 'es_ES',
+  de: 'de_DE',
+  fr: 'fr_FR',
+  ja: 'ja_JP',
+  pt: 'pt_BR',
+  ko: 'ko_KR',
+  'zh-TW': 'zh_TW',
+  it: 'it_IT',
+  nl: 'nl_NL',
+  pl: 'pl_PL',
+  tr: 'tr_TR',
+  sv: 'sv_SE',
+  th: 'th_TH',
+  vi: 'vi_VN',
+  id: 'id_ID',
+}
+
+export const hreflangCodes: Record<Locale, string> = {
+  en: 'en',
+  es: 'es',
+  de: 'de',
+  fr: 'fr',
+  ja: 'ja',
+  pt: 'pt',
+  ko: 'ko',
+  'zh-TW': 'zh-Hant',
+  it: 'it',
+  nl: 'nl',
+  pl: 'pl',
+  tr: 'tr',
+  sv: 'sv',
+  th: 'th',
+  vi: 'vi',
+  id: 'id',
+}

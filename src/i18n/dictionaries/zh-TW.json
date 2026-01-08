@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "狗狗 Benadryl 劑量計算器 - 依體重計算安全的苯海拉明劑量",
+    "titleTemplate": "%s | 狗狗 Benadryl 計算器",
+    "description": "免費的狗狗 Benadryl 劑量計算器。根據您狗狗的體重計算安全的苯海拉明劑量。包含劑量表、液態 Benadryl 指南及安全資訊。",
+    "keywords": "狗 benadryl, 狗 benadryl 劑量, 狗用苯海拉明, 狗可以吃多少 benadryl, benadryl 劑量表 狗, 液態 benadryl 狗"
+  },
+  "header": {
+    "title": "狗狗 Benadryl 計算器",
+    "nav": {
+      "calculator": "計算器",
+      "dosageChart": "劑量表",
+      "safetyGuide": "安全指南",
+      "faq": "常見問題"
+    }
+  },
+  "hero": {
+    "title": "狗用 Benadryl：劑量計算器",
+    "subtitle": "我可以給我的狗多少 Benadryl？根據您狗狗的體重計算安全的苯海拉明劑量。免費計算器附過敏、搔癢和焦慮的劑量表。"
+  },
+  "calculator": {
+    "title": "Benadryl 劑量計算器",
+    "weightLabel": "狗狗體重",
+    "weightPlaceholder": "輸入體重",
+    "lbs": "磅",
+    "kg": "公斤",
+    "typeLabel": "Benadryl 類型",
+    "typeOptions": {
+      "tablet25": "錠劑 (25mg)",
+      "tablet50": "錠劑 (50mg)",
+      "liquid": "液態 (12.5mg/5ml)",
+      "chewable": "咀嚼錠 (12.5mg)"
+    },
+    "purposeLabel": "用途（選填）",
+    "purposeOptions": {
+      "allergies": "過敏 / 搔癢",
+      "motion": "暈車",
+      "anxiety": "輕度焦慮",
+      "insect": "蟲咬",
+      "other": "其他"
+    },
+    "specialConditions": "我的狗狗懷孕中、哺乳中、是幼犬或有健康狀況",
+    "result": {
+      "singleDose": "建議單次劑量",
+      "frequency": "頻率",
+      "frequencyValue": "每日 2-3 次（每 8-12 小時）",
+      "maxDailyDose": "每日最大劑量",
+      "importantNotes": "重要注意事項：",
+      "vetReminder": "在給您的狗狗服用 Benadryl 之前，請務必諮詢獸醫，特別是如果您的狗狗正在服用其他藥物或有潛在健康狀況。"
+    },
+    "warnings": {
+      "smallDogs": "非常小的狗狗更敏感。請從較低劑量開始並諮詢獸醫。",
+      "largeDogs": "對於大型犬，請與獸醫確認劑量。",
+      "specialConditions": "有健康狀況或懷孕/哺乳中的狗狗需要獸醫指導。",
+      "liquidRecommended": "對於小型犬，液態形式可能更容易準確給藥。",
+      "tablet50TooStrong": "50mg 錠劑對於 25 磅以下的狗狗來說太強了。",
+      "largeVolume": "大容量 - 錠劑可能更實用。"
+    }
+  },
+  "dosageChart": {
+    "title": "狗狗 Benadryl 劑量表",
+    "subtitle": "基於每磅體重 1mg 的快速參考",
+    "headers": {
+      "weight": "狗狗體重",
+      "dosage": "劑量 (mg)",
+      "tablets25": "25mg 錠劑",
+      "tablets50": "50mg 錠劑",
+      "liquid": "液態 (12.5mg/5ml)"
+    },
+    "note": "注意：此表僅供一般參考。劑量可能因您狗狗的個別健康需求而異。給藥前請務必諮詢獸醫。"
+  },
+  "liquidGuide": {
+    "title": "狗用液態 Benadryl：給藥指南",
+    "intro": "液態 Benadryl（兒童配方）通常更容易給小型犬服用。標準兒童液態 Benadryl 每 5 mL（1 茶匙）含 12.5 mg。",
+    "conversion": {
+      "title": "兒童液態 Benadryl 換算：",
+      "formula": "12.5 mg = 5 mL（1 茶匙）= 1 tsp"
+    },
+    "chartTitle": "狗用液態 Benadryl 劑量表：",
+    "headers": {
+      "weight": "狗狗體重",
+      "dose": "劑量 (mg)",
+      "liquid": "液體量"
+    },
+    "warning": {
+      "title": "兒童 Benadryl 重要警告：",
+      "items": [
+        "仔細檢查成分 - 避免含有木糖醇（對狗有毒）的配方",
+        "僅使用只含苯海拉明的配方（不含減充血劑或止痛劑）",
+        "避免「Benadryl-D」或任何多症狀配方",
+        "狗狗首選無酒精配方"
+      ]
+    }
+  },
+  "howMuch": {
+    "title": "我可以給我的狗多少 Benadryl？",
+    "intro": "狗用 Benadryl 的標準劑量是每磅體重 1 mg，每天給藥 2-3 次。這與人用 Benadryl 中的活性成分（苯海拉明）相同，但狗的劑量計算方式不同。",
+    "simpleRule": {
+      "title": "簡單規則：",
+      "formula": "1 mg Benadryl = 1 磅體重",
+      "example": "範例：25 磅的狗可以服用 25 mg 的 Benadryl（一顆 25mg 錠劑）"
+    },
+    "guidelines": {
+      "title": "重要給藥指南：",
+      "items": {
+        "frequency": "頻率：每 8-12 小時給藥一次（每天 2-3 次）",
+        "maximum": "最大劑量：單次劑量不超過每磅 2 mg",
+        "duration": "持續時間：除非獸醫指示，否則僅短期使用",
+        "forms": "形式：僅使用純苯海拉明 — 避免含減充血劑的配方（Benadryl-D）"
+      }
+    }
+  },
+  "isSafe": {
+    "title": "Benadryl 對狗狗安全嗎？",
+    "intro": "是的，在正確劑量下，Benadryl 對大多數狗狗通常是安全的。苯海拉明是 Benadryl 的活性成分，是獸醫常推薦用於狗狗過敏、搔癢和輕度焦慮的抗組胺藥。",
+    "safeFor": {
+      "title": "安全適用於：",
+      "items": [
+        "健康成年犬",
+        "短期過敏緩解",
+        "暈車",
+        "輕度焦慮情況",
+        "蟲咬反應"
+      ]
+    },
+    "notSafeFor": {
+      "title": "不適用於：",
+      "items": [
+        "患有青光眼的狗狗",
+        "患有心臟病的狗狗",
+        "懷孕或哺乳中的狗狗",
+        "6 個月以下的幼犬",
+        "正在服用某些藥物的狗狗"
+      ]
+    }
+  },
+  "whenToGive": {
+    "title": "何時給狗狗 Benadryl",
+    "allergies": {
+      "title": "過敏",
+      "description": "季節性過敏、環境過敏原、皮膚搔癢、蕁麻疹和輕度過敏反應。"
+    },
+    "motionSickness": {
+      "title": "暈車",
+      "description": "乘車、旅行焦慮。為獲得最佳效果，在旅行前 30 分鐘給藥。"
+    },
+    "anxiety": {
+      "title": "輕度焦慮",
+      "description": "雷雨、煙火、看獸醫。嗜睡效果可幫助鎮定焦慮的狗狗。"
+    },
+    "insectBites": {
+      "title": "蟲咬",
+      "description": "蜜蜂叮咬、蚊蟲叮咬、引起腫脹或搔癢的蜘蛛咬傷。"
+    }
+  },
+  "safety": {
+    "title": "副作用與警告徵兆",
+    "commonSideEffects": {
+      "title": "常見副作用（通常無害）：",
+      "items": [
+        "嗜睡或鎮靜",
+        "口乾",
+        "尿液滯留",
+        "呼吸加快（初期）"
+      ]
+    },
+    "callVet": {
+      "title": "如果發現以下情況，請立即致電獸醫：",
+      "items": [
+        "呼吸困難或腫脹",
+        "極度嗜睡或無反應",
+        "癲癇或顫抖",
+        "嘔吐或腹瀉",
+        "食慾不振超過 24 小時",
+        "心跳加快或不規則"
+      ]
+    },
+    "whenNot": {
+      "title": "何時不應給予 Benadryl：",
+      "items": [
+        "患有青光眼的狗狗",
+        "患有心血管疾病的狗狗",
+        "患有高血壓的狗狗",
+        "懷孕或哺乳中的狗狗",
+        "正在服用某些藥物（MAOIs、鎮靜劑）的狗狗",
+        "6 個月以下的幼犬"
+      ]
+    }
+  },
+  "faq": {
+    "title": "狗用 Benadryl 常見問題",
+    "items": [
+      {
+        "question": "Benadryl 對狗狗安全嗎？",
+        "answer": "是的，Benadryl（苯海拉明）在每磅體重 1 mg 的正確劑量下，對狗狗通常是安全的。但是，您應該避免給患有青光眼、心血管疾病、高血壓或懷孕/哺乳中的狗狗服用 Benadryl。給藥前請務必諮詢獸醫。"
+      },
+      {
+        "question": "我可以給我的狗多少 Benadryl？",
+        "answer": "狗用 Benadryl 的標準劑量是每磅體重 1 mg，每天給藥 2-3 次（每 8-12 小時）。例如，25 磅的狗可以服用 25 mg 的 Benadryl。單次劑量絕不要超過每磅 2 mg。使用我們上面的計算器獲得準確劑量。"
+      },
+      {
+        "question": "Benadryl 對狗狗有什麼作用？",
+        "answer": "Benadryl 是一種抗組胺藥，有助於緩解狗狗的過敏症狀，包括搔癢、蕁麻疹、腫脹和打噴嚏。它還可以幫助暈車、輕度焦慮和對蟲咬或蜇傷的反應。活性成分苯海拉明會阻斷組胺受體。"
+      },
+      {
+        "question": "狗狗可以為過敏服用 Benadryl 嗎？",
+        "answer": "是的，狗狗可以為過敏服用 Benadryl。它可以有效治療季節性過敏、環境過敏原、食物過敏（僅症狀）以及導致皮膚搔癢或蕁麻疹的過敏反應。每 8-12 小時給予每磅體重 1 mg 的標準劑量。"
+      },
+      {
+        "question": "狗狗可以為搔癢服用 Benadryl 嗎？",
+        "answer": "是的，Benadryl 可以幫助緩解由過敏、蟲咬或皮膚刺激引起的狗狗搔癢。抗組胺特性可減少引起搔癢的組胺反應。為獲得最佳效果，在症狀改善之前，每 8-12 小時給予每磅體重 1 mg。"
+      },
+      {
+        "question": "哪種類型的 Benadryl 對狗狗安全？",
+        "answer": "僅使用僅含苯海拉明作為唯一活性成分的 Benadryl 產品。避免 Benadryl-D（含減充血劑）、多症狀配方以及任何含木糖醇（對狗有毒）的產品。普通 Benadryl 錠劑（25mg）或兒童液態 Benadryl（12.5mg/5mL）是安全的選擇。"
+      },
+      {
+        "question": "我可以每天給我的狗 Benadryl 嗎？",
+        "answer": "雖然 Benadryl 通常短期使用是安全的，但每天長期使用應僅在獸醫監督下進行。長期使用可能需要調整劑量或替代治療。對於慢性過敏，您的獸醫可能會建議處方藥物。"
+      },
+      {
+        "question": "Benadryl 對狗狗多久開始生效？",
+        "answer": "Benadryl 通常在 30 分鐘內開始生效，並在 1-2 小時內達到最大效果。效果通常持續 8-12 小時。對於暈車或旅行焦慮，在乘車前 30 分鐘給予 Benadryl。"
+      },
+      {
+        "question": "我可以給我的狗使用兒童 Benadryl 嗎？",
+        "answer": "是的，兒童液態 Benadryl（每 5mL 含 12.5mg）通常更容易給較小的狗狗服用。但是，請仔細檢查成分 - 避免任何含有木糖醇（對狗有毒）、酒精或苯海拉明以外的其他活性成分的配方。"
+      },
+      {
+        "question": "如果我給我的狗太多 Benadryl 會怎樣？",
+        "answer": "如果您懷疑 Benadryl 過量，請立即聯繫您的獸醫或 ASPCA 動物毒物控制中心（888-426-4435）。過量的跡象包括極度嗜睡、癲癇、心跳加快、呼吸困難、躁動和瞳孔放大。"
+      },
+      {
+        "question": "Benadryl 和苯海拉明是一樣的嗎？",
+        "answer": "是的，Benadryl 是抗組胺藥苯海拉明的品牌名稱。非專利的苯海拉明效果相同，通常更便宜。無論是使用品牌 Benadryl 還是非專利苯海拉明，請務必確認它是唯一的活性成分。"
+      },
+      {
+        "question": "我可以給我 50 磅的狗多少 Benadryl？",
+        "answer": "50 磅的狗可以每 8-12 小時服用 50 mg 的 Benadryl（兩顆 25mg 錠劑）。這遵循每磅體重 1 mg 的標準劑量。每次劑量不要超過 100 mg（每磅最多 2 mg）。"
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "醫療免責聲明",
+    "text": "此計算器和提供的資訊僅供教育目的，不應取代專業獸醫建議。在給您的寵物任何藥物之前，請務必諮詢獸醫。個別狗狗可能因其健康狀況、年齡和其他因素而有不同的需求。"
+  },
+  "footer": {
+    "about": "一個免費的計算器，幫助寵物主人確定狗狗的安全 Benadryl 劑量。在給予任何藥物之前，請務必諮詢獸醫。",
+    "quickLinks": {
+      "title": "快速連結",
+      "calculator": "劑量計算器",
+      "dosageChart": "劑量表",
+      "safetyGuidelines": "安全指南",
+      "faq": "常見問題"
+    },
+    "legal": {
+      "title": "法律資訊",
+      "privacy": "隱私政策",
+      "terms": "服務條款",
+      "disclaimer": "免責聲明"
+    },
+    "disclaimerText": "此計算器僅供參考。在給您的寵物任何藥物之前，請務必諮詢獸醫。",
+    "copyright": "版權所有。"
+  }
+}
