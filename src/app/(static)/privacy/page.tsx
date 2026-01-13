@@ -1,8 +1,12 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy | Dog Benadryl Calculator',
-  description: 'Privacy policy for Dog Benadryl Calculator. Learn how we handle your data.',
+  description: 'Privacy policy for Dog Benadryl Calculator. Learn how we collect, use, and protect your data. We respect your privacy and do not store any personal information from calculator usage.',
+  alternates: {
+    canonical: '/privacy',
+  },
   robots: 'noindex, follow',
 }
 
@@ -72,6 +76,28 @@ export default function PrivacyPage() {
                 our website.
               </p>
             </section>
+
+            {/* Related Links */}
+            <div className="mt-8 pt-6 border-t border-gray-200">
+              <h3 className="text-lg font-semibold text-gray-900 mb-3">Related Links</h3>
+              <ul className="space-y-2">
+                <li>
+                  <Link href="/en" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    ← Back to Dog Benadryl Calculator
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/terms" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Terms of Use
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/disclaimer" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Medical Disclaimer
+                  </Link>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>

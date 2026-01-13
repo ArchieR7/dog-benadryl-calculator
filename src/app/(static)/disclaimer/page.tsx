@@ -1,8 +1,12 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Medical Disclaimer | Dog Benadryl Calculator',
-  description: 'Medical disclaimer for Dog Benadryl Calculator. Important information about using our calculator.',
+  description: 'Medical disclaimer for Dog Benadryl Calculator. Important safety information about using our dosage calculator. Always consult your veterinarian before giving medication to your dog.',
+  alternates: {
+    canonical: '/disclaimer',
+  },
   robots: 'noindex, follow',
 }
 
@@ -116,6 +120,28 @@ export default function DisclaimerPage() {
                 knows your dog&apos;s medical history and can provide personalized advice.
               </p>
             </section>
+
+            {/* Related Links */}
+            <div className="mt-8 pt-6 border-t border-gray-200">
+              <h3 className="text-lg font-semibold text-gray-900 mb-3">Related Links</h3>
+              <ul className="space-y-2">
+                <li>
+                  <Link href="/en" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    ← Back to Dog Benadryl Calculator
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/privacy" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Privacy Policy
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/terms" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Terms of Use
+                  </Link>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>

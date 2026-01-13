@@ -1,8 +1,12 @@
 import { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Terms of Use | Dog Benadryl Calculator',
-  description: 'Terms of use for Dog Benadryl Calculator. Please read before using our calculator.',
+  description: 'Terms of use for Dog Benadryl Calculator. Read our terms before using the free dosage calculator. This tool provides educational information only and is not veterinary advice.',
+  alternates: {
+    canonical: '/terms',
+  },
   robots: 'noindex, follow',
 }
 
@@ -85,6 +89,28 @@ export default function TermsPage() {
                 the website after changes constitutes acceptance of the modified terms.
               </p>
             </section>
+
+            {/* Related Links */}
+            <div className="mt-8 pt-6 border-t border-gray-200">
+              <h3 className="text-lg font-semibold text-gray-900 mb-3">Related Links</h3>
+              <ul className="space-y-2">
+                <li>
+                  <Link href="/en" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    ← Back to Dog Benadryl Calculator
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/privacy" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Privacy Policy
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/disclaimer" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Medical Disclaimer
+                  </Link>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
