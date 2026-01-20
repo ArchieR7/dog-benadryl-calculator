@@ -15,8 +15,8 @@
     }
   },
   "hero": {
-    "title": "Benadryl for Dogs: Dosage Calculator",
-    "subtitle": "How much Benadryl can I give my dog? Calculate the safe diphenhydramine dose based on your dog's weight. Free calculator with dosage chart for allergies, itching, and anxiety."
+    "title": "Dog Benadryl Dosage Calculator",
+    "subtitle": "How much Benadryl can I give my dog? Calculate the safe diphenhydramine dose based on your dog's weight. Free Benadryl dose for dogs calculator with dosage chart for allergies, itching, and anxiety."
   },
   "calculator": {
     "title": "Benadryl Dosage Calculator",
@@ -58,8 +58,8 @@
     }
   },
   "dosageChart": {
-    "title": "Benadryl Dosage Chart for Dogs",
-    "subtitle": "Quick reference based on 1mg per 1lb body weight",
+    "title": "Benadryl Dosage Chart for Dogs by Weight",
+    "subtitle": "Quick reference for benadryl for dogs dosage based on 1mg per 1lb body weight",
     "headers": {
       "weight": "Dog Weight",
       "dosage": "Dosage (mg)",
@@ -70,8 +70,8 @@
     "note": "Note: This chart is for general reference only. Dosages may vary based on your dog's individual health needs. Always consult your veterinarian before administering medication."
   },
   "liquidGuide": {
-    "title": "Liquid Benadryl for Dogs: Dosing Guide",
-    "intro": "Liquid Benadryl (children's formula) is often easier to dose for small dogs. The standard children's liquid Benadryl contains 12.5 mg per 5 mL (1 teaspoon).",
+    "title": "How Much Liquid Benadryl to Give a Dog",
+    "intro": "Liquid Benadryl (children's formula) is often easier to dose for small dogs. How many ml of Benadryl for dogs? The standard children's liquid Benadryl contains 12.5 mg per 5 mL (1 teaspoon).",
     "conversion": {
       "title": "Children's Liquid Benadryl Conversion:",
       "formula": "12.5 mg = 5 mL (1 teaspoon) = 1 tsp"
@@ -237,6 +237,38 @@
       {
         "question": "How much Benadryl can I give my 50 lb dog?",
         "answer": "A 50-pound dog can take 50 mg of Benadryl (two 25mg tablets) every 8-12 hours. This follows the standard dosage of 1 mg per pound of body weight. Do not exceed 100 mg per dose (2 mg per pound maximum)."
+      },
+      {
+        "question": "How much Benadryl can I give my 25 lb dog?",
+        "answer": "A 25-pound dog can take 25 mg of Benadryl (one 25mg tablet) every 8-12 hours. This follows the standard benadryl dose for dogs of 1 mg per pound of body weight. For smaller dogs, liquid Benadryl may be easier to dose accurately."
+      },
+      {
+        "question": "What is the Benadryl dosage for dogs in mg/kg?",
+        "answer": "The Benadryl dosage for dogs is approximately 2-4 mg per kilogram of body weight (equivalent to 1 mg per pound). For example, a 10 kg dog can take 20-40 mg of Benadryl. This conversion is useful for international pet owners using the metric system."
+      },
+      {
+        "question": "How many ml of Benadryl can I give my dog?",
+        "answer": "Using children's liquid Benadryl (12.5mg/5mL), give approximately 2 mL per 5 pounds of body weight. For example, a 25 lb dog would need about 10 mL (2 teaspoons). Use a measuring syringe for accurate dosing, especially for small dogs."
+      },
+      {
+        "question": "How much diphenhydramine can I give my dog?",
+        "answer": "The standard diphenhydramine dosage for dogs is 1 mg per pound of body weight, given 2-3 times daily. Diphenhydramine is the active ingredient in Benadryl. Whether using brand-name or generic, the dosage remains the same. Never exceed 2 mg per pound per dose."
+      },
+      {
+        "question": "Can I give my dog Benadryl for anxiety?",
+        "answer": "Yes, Benadryl can help with mild anxiety in dogs due to its sedating effects. It's commonly used for thunderstorm anxiety, fireworks, vet visits, or travel stress. Give the dose 30-60 minutes before the anxiety-inducing event for best results."
+      },
+      {
+        "question": "How often can I give my dog Benadryl?",
+        "answer": "You can give your dog Benadryl every 8-12 hours (2-3 times per day) as needed. Do not exceed 3 doses in 24 hours unless directed by your veterinarian. Allow at least 8 hours between doses to prevent accumulation."
+      },
+      {
+        "question": "What are the side effects of Benadryl in dogs?",
+        "answer": "Common Benadryl side effects in dogs include drowsiness, dry mouth, urinary retention, and decreased appetite. These are usually mild and temporary. Serious side effects requiring immediate veterinary attention include difficulty breathing, seizures, extreme lethargy, or rapid heartbeat."
+      },
+      {
+        "question": "Can puppies take Benadryl?",
+        "answer": "Benadryl is generally not recommended for puppies under 6 months old without veterinary guidance. Puppies are more sensitive to medications and may experience stronger side effects. If your puppy needs antihistamines, consult your veterinarian for appropriate alternatives and dosing."
       }
     ]
   },

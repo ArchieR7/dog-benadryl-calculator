@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.dogbenadrylcalculator.com/en',
   },
   robots: {
-    index: false,
+    index: true,
     follow: true,
   },
 }

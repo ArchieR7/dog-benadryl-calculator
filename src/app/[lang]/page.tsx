@@ -2,6 +2,10 @@ import BenadrylCalculator from '@/components/calculator/BenadrylCalculator'
 import DosageChart from '@/components/calculator/DosageChart'
 import LiquidBenadrylGuide from '@/components/calculator/LiquidBenadrylGuide'
 import FAQSchema from '@/components/seo/FAQSchema'
+import CalculatorSchema from '@/components/seo/CalculatorSchema'
+import HowToSchema from '@/components/seo/HowToSchema'
+import BreadcrumbSchema from '@/components/seo/BreadcrumbSchema'
+import TableOfContents from '@/components/layout/TableOfContents'
 import { locales, type Locale } from '@/i18n/config'
 import { getDictionary } from '@/i18n/dictionaries'
 
@@ -20,11 +24,19 @@ export default async function Home({
 
   return (
     <div className="py-8 md:py-12">
-      {/* FAQ Schema for SEO */}
+      {/* SEO Schemas */}
       <FAQSchema faqs={dictionary.faq.items} />
+      <CalculatorSchema />
+      <HowToSchema />
+      <BreadcrumbSchema locale={locale} />
+
+      {/* Table of Contents for better navigation */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <TableOfContents dictionary={dictionary} />
+      </div>
 
       {/* Hero Section */}
-      <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+      <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-12" id="calculator">
         <div className="text-center mb-8">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             {dictionary.hero.title}
