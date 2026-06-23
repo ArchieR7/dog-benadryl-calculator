@@ -46,10 +46,48 @@ export default function PrivacyPage() {
             </section>
 
             <section>
+              <h2 className="text-xl font-semibold text-gray-900 mt-8 mb-4">Advertising</h2>
+              <p className="text-gray-700">
+                This site is supported by advertising. We use Google AdSense and may use other
+                third-party advertising vendors to serve ads when you visit our website.
+              </p>
+              <ul className="list-disc list-inside text-gray-700 mt-4 space-y-2">
+                <li>
+                  Third-party vendors, including Google, use cookies to serve ads based on your
+                  prior visits to this and other websites.
+                </li>
+                <li>
+                  Google&apos;s use of advertising cookies enables it and its partners to serve
+                  ads to you based on your visit to this site and/or other sites on the Internet.
+                </li>
+                <li>
+                  You may opt out of personalized advertising by visiting{' '}
+                  <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    Google Ads Settings
+                  </a>
+                  . You can also opt out of a third-party vendor&apos;s use of cookies for
+                  personalized advertising by visiting{' '}
+                  <a href="https://www.aboutads.info/choices/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 transition-colors">
+                    aboutads.info
+                  </a>
+                  .
+                </li>
+              </ul>
+              <p className="text-gray-700 mt-4">
+                For more information about how Google uses data, see Google&apos;s{' '}
+                <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 transition-colors">
+                  Privacy &amp; Terms
+                </a>
+                .
+              </p>
+            </section>
+
+            <section>
               <h2 className="text-xl font-semibold text-gray-900 mt-8 mb-4">Cookies</h2>
               <p className="text-gray-700">
-                Our website may use cookies for analytics purposes. You can control cookie
-                settings through your browser preferences.
+                Our website may use cookies for analytics and advertising purposes, including
+                cookies set by Google AdSense and other advertising partners. You can control or
+                disable cookies through your browser preferences.
               </p>
             </section>
 
@@ -72,8 +110,15 @@ export default function PrivacyPage() {
             <section>
               <h2 className="text-xl font-semibold text-gray-900 mt-8 mb-4">Contact</h2>
               <p className="text-gray-700">
-                If you have questions about this privacy policy, please contact us through
-                our website.
+                If you have questions about this privacy policy, please contact us at{' '}
+                <a href="mailto:contact@archie-design.app" className="text-blue-600 hover:text-blue-800 transition-colors">
+                  contact@archie-design.app
+                </a>{' '}
+                or through our{' '}
+                <Link href="/contact" className="text-blue-600 hover:text-blue-800 transition-colors">
+                  contact page
+                </Link>
+                .
               </p>
             </section>
 

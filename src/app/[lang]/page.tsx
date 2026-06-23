@@ -50,6 +50,23 @@ export default async function Home({
         <div className="max-w-2xl mx-auto">
           <BenadrylCalculator dictionary={dictionary} />
         </div>
+
+        {/* Emergency: ASPCA Animal Poison Control */}
+        <div className="max-w-2xl mx-auto mt-6">
+          <div className="bg-red-50 border border-red-200 rounded-xl p-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+            <p className="text-sm text-red-800">
+              <span className="text-lg mr-1" aria-hidden="true">🚨</span>
+              <strong>Pet emergency or suspected poisoning?</strong> Call the ASPCA Animal Poison
+              Control Center, available 24/7.
+            </p>
+            <a
+              href="tel:+18884264435"
+              className="inline-flex items-center justify-center rounded-lg bg-red-600 px-4 py-2 text-sm font-semibold text-white transition-colors hover:bg-red-700 whitespace-nowrap"
+            >
+              📞 (888) 426-4435
+            </a>
+          </div>
+        </div>
       </section>
 
       {/* Dosage Chart Section */}
@@ -248,6 +265,16 @@ export default async function Home({
         <div className="bg-gray-100 rounded-2xl p-6 text-center">
           <p className="text-sm text-gray-600">
             <strong>{dictionary.disclaimer.title}:</strong> {dictionary.disclaimer.text}
+          </p>
+          <p className="text-xs text-gray-500 mt-4">
+            Authoritative sources:{' '}
+            <a href="https://www.aspca.org/pet-care/animal-poison-control" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">ASPCA</a>
+            {' · '}
+            <a href="https://www.akc.org/expert-advice/health/benadryl-for-dogs/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">AKC</a>
+            {' · '}
+            <a href="https://vcahospitals.com/know-your-pet/diphenhydramine" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">VCA Hospitals</a>
+            {' · '}
+            <a href="https://www.merckvetmanual.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Merck Veterinary Manual</a>
           </p>
         </div>
       </section>

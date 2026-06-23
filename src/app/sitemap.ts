@@ -108,6 +108,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Static pages (English only for now)
   const staticPages = [
     {
+      url: `${baseUrl}/about`,
+      lastModified,
+      changeFrequency: 'yearly' as const,
+      priority: 0.5,
+    },
+    {
+      url: `${baseUrl}/contact`,
+      lastModified,
+      changeFrequency: 'yearly' as const,
+      priority: 0.4,
+    },
+    {
       url: `${baseUrl}/privacy`,
       lastModified,
       changeFrequency: 'yearly' as const,

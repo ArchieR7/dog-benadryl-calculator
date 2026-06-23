@@ -52,6 +52,18 @@ export default function Header({ dictionary, locale }: HeaderProps) {
             >
               {t.nav.faq}
             </Link>
+            <Link
+              href="/about"
+              className="text-gray-600 hover:text-primary-600 transition-colors"
+            >
+              About
+            </Link>
+            <Link
+              href="/contact"
+              className="text-gray-600 hover:text-primary-600 transition-colors"
+            >
+              Contact
+            </Link>
             <LanguageSwitcher currentLocale={locale} />
           </div>
 

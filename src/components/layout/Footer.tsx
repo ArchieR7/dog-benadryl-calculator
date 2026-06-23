@@ -50,10 +50,20 @@ export default function Footer({ dictionary }: FooterProps) {
             </ul>
           </div>
 
-          {/* Legal */}
+          {/* Legal & Site */}
           <div>
             <h3 className="text-white font-semibold text-lg mb-4">{t.legal.title}</h3>
             <ul className="space-y-2 text-sm">
+              <li>
+                <Link href="/about" className="hover:text-white transition-colors">
+                  About
+                </Link>
+              </li>
+              <li>
+                <Link href="/contact" className="hover:text-white transition-colors">
+                  Contact
+                </Link>
+              </li>
               <li>
                 <Link href="/privacy" className="hover:text-white transition-colors">
                   {t.legal.privacy}
