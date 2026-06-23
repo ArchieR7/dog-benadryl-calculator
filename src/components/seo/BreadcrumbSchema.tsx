@@ -7,7 +7,7 @@ interface BreadcrumbSchemaProps {
 }
 
 export default function BreadcrumbSchema({ locale }: BreadcrumbSchemaProps) {
-  const baseUrl = 'https://www.dogbenadrylcalculator.com'
+  const baseUrl = 'https://dogbenadrylcalculator.com'
 
   const schemaData = {
     '@context': 'https://schema.org',

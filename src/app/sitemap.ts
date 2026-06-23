@@ -4,7 +4,7 @@ import { getAllBreedSlugs } from '@/data/breeds'
 import { getAllUseCaseSlugs } from '@/data/uses'
 import { getAllSafetyGuideSlugs } from '@/data/safety'
 
-const baseUrl = 'https://www.dogbenadrylcalculator.com'
+const baseUrl = 'https://dogbenadrylcalculator.com'
 
 // Helper to generate alternates for a given path
 function generateAlternates(path: string): Record<string, string> {

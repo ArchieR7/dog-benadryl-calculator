@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation'
 import { locales, hreflangCodes, type Locale } from '@/i18n/config'
 import { getUseCaseBySlug, getAllUseCaseSlugs, useCases, type UseCase } from '@/data/uses'
 
-const BASE_URL = 'https://www.dogbenadrylcalculator.com'
+const BASE_URL = 'https://dogbenadrylcalculator.com'
 
 interface PageProps {
   params: Promise<{ lang: Locale; use: string }>

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { locales, hreflangCodes, type Locale } from '@/i18n/config'
 import { useCases, getHighEffectivenessUses, type UseCase } from '@/data/uses'
 
-const BASE_URL = 'https://www.dogbenadrylcalculator.com'
+const BASE_URL = 'https://dogbenadrylcalculator.com'
 
 interface PageProps {
   params: Promise<{ lang: Locale }>

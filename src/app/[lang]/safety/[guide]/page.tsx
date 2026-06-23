@@ -9,7 +9,7 @@ import {
   type SafetyGuide,
 } from '@/data/safety'
 
-const BASE_URL = 'https://www.dogbenadrylcalculator.com'
+const BASE_URL = 'https://dogbenadrylcalculator.com'
 
 interface PageProps {
   params: Promise<{ lang: Locale; guide: string }>

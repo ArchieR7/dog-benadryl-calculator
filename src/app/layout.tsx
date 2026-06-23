@@ -2,11 +2,11 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.dogbenadrylcalculator.com'),
+  metadataBase: new URL('https://dogbenadrylcalculator.com'),
   title: 'Dog Benadryl Calculator',
   description: 'Calculate safe Benadryl dosage for your dog',
   alternates: {
-    canonical: 'https://www.dogbenadrylcalculator.com/en',
+    canonical: 'https://dogbenadrylcalculator.com/en',
   },
   robots: {
     index: true,

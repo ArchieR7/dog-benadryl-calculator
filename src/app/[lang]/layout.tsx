@@ -24,7 +24,7 @@ export async function generateMetadata({
   const locale = locales.includes(lang as Locale) ? (lang as Locale) : 'en'
   const dictionary = await getDictionary(locale)
 
-  const baseUrl = 'https://www.dogbenadrylcalculator.com'
+  const baseUrl = 'https://dogbenadrylcalculator.com'
   // All languages use /lang path format including English
   const currentUrl = `${baseUrl}/${locale}`
 

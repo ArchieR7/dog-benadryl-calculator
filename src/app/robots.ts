@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/_next/'],
     },
-    sitemap: 'https://www.dogbenadrylcalculator.com/sitemap.xml',
+    sitemap: 'https://dogbenadrylcalculator.com/sitemap.xml',
   }
 }

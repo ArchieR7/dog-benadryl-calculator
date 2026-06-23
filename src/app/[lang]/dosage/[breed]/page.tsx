@@ -10,7 +10,7 @@ import {
   type DogBreed,
 } from '@/data/breeds'
 
-const BASE_URL = 'https://www.dogbenadrylcalculator.com'
+const BASE_URL = 'https://dogbenadrylcalculator.com'
 
 interface PageProps {
   params: Promise<{ lang: Locale; breed: string }>

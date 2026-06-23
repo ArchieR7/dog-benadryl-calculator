@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.dogbenadrylcalculator.com'),
+  metadataBase: new URL('https://dogbenadrylcalculator.com'),
 }
 
 export default function StaticLayout({

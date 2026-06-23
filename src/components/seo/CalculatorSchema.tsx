@@ -19,7 +19,7 @@ export default function CalculatorSchema() {
     },
     description:
       'Free online calculator to determine the safe Benadryl (diphenhydramine) dosage for dogs based on weight. Includes dosage chart and liquid Benadryl guide.',
-    url: 'https://www.dogbenadrylcalculator.com/en',
+    url: 'https://dogbenadrylcalculator.com/en',
     author: {
       '@type': 'Organization',
       name: 'Dog Benadryl Calculator',
