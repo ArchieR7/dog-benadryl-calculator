@@ -1,8 +1,5 @@
 import { MetadataRoute } from 'next'
 import { locales, hreflangCodes, type Locale } from '@/i18n/config'
-import { getAllBreedSlugs } from '@/data/breeds'
-import { getAllUseCaseSlugs } from '@/data/uses'
-import { getAllSafetyGuideSlugs } from '@/data/safety'
 
 const baseUrl = 'https://dogbenadrylcalculator.com'
 
@@ -16,13 +13,17 @@ function generateAlternates(path: string): Record<string, string> {
   return languages
 }
 
+/**
+ * AdSense 過審策略（瘦身先過審）：
+ * 只在 sitemap 列出有獨特價值、真翻譯的內容 —— 16 語言首頁 + 法律靜態頁。
+ * 程式化 SEO 的 leaf/hub 頁（/dosage、/uses、/safety）內容薄且跨語言重複，
+ * 已在各頁 generateMetadata 設為 noindex，且不列入 sitemap，
+ * 以避免拉低整站品質評分。待逐步補上各頁獨特內容後，再分批放回索引與 sitemap。
+ */
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date()
-  const breedSlugs = getAllBreedSlugs()
-  const useCaseSlugs = getAllUseCaseSlugs()
-  const safetyGuideSlugs = getAllSafetyGuideSlugs()
 
-  // Main page entries for each locale
+  // 16 語言首頁（內容紮實、真翻譯）
   const mainPageEntries = locales.map((locale) => ({
     url: `${baseUrl}/${locale}`,
     lastModified,
@@ -33,79 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   }))
 
-  // Breeds HUB page entries for each locale
-  const breedsHubEntries = locales.map((locale) => ({
-    url: `${baseUrl}/${locale}/breeds`,
-    lastModified,
-    changeFrequency: 'monthly' as const,
-    priority: locale === 'en' ? 0.9 : 0.7,
-    alternates: {
-      languages: generateAlternates('/breeds'),
-    },
-  }))
-
-  // Breed Leaf page entries for each locale and breed
-  const breedLeafEntries = locales.flatMap((locale) =>
-    breedSlugs.map((slug) => ({
-      url: `${baseUrl}/${locale}/dosage/${slug}`,
-      lastModified,
-      changeFrequency: 'monthly' as const,
-      priority: locale === 'en' ? 0.8 : 0.6,
-      alternates: {
-        languages: generateAlternates(`/dosage/${slug}`),
-      },
-    }))
-  )
-
-  // Uses HUB page entries for each locale
-  const usesHubEntries = locales.map((locale) => ({
-    url: `${baseUrl}/${locale}/uses`,
-    lastModified,
-    changeFrequency: 'monthly' as const,
-    priority: locale === 'en' ? 0.9 : 0.7,
-    alternates: {
-      languages: generateAlternates('/uses'),
-    },
-  }))
-
-  // Uses Leaf page entries for each locale and use case
-  const usesLeafEntries = locales.flatMap((locale) =>
-    useCaseSlugs.map((slug) => ({
-      url: `${baseUrl}/${locale}/uses/${slug}`,
-      lastModified,
-      changeFrequency: 'monthly' as const,
-      priority: locale === 'en' ? 0.8 : 0.6,
-      alternates: {
-        languages: generateAlternates(`/uses/${slug}`),
-      },
-    }))
-  )
-
-  // Safety HUB page entries for each locale
-  const safetyHubEntries = locales.map((locale) => ({
-    url: `${baseUrl}/${locale}/safety`,
-    lastModified,
-    changeFrequency: 'monthly' as const,
-    priority: locale === 'en' ? 0.9 : 0.7,
-    alternates: {
-      languages: generateAlternates('/safety'),
-    },
-  }))
-
-  // Safety Leaf page entries for each locale and guide
-  const safetyLeafEntries = locales.flatMap((locale) =>
-    safetyGuideSlugs.map((slug) => ({
-      url: `${baseUrl}/${locale}/safety/${slug}`,
-      lastModified,
-      changeFrequency: 'monthly' as const,
-      priority: locale === 'en' ? 0.8 : 0.6,
-      alternates: {
-        languages: generateAlternates(`/safety/${slug}`),
-      },
-    }))
-  )
-
-  // Static pages (English only for now)
+  // 法律靜態頁
   const staticPages = [
     {
       url: `${baseUrl}/about`,
@@ -139,14 +68,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]
 
-  return [
-    ...mainPageEntries,
-    ...breedsHubEntries,
-    ...breedLeafEntries,
-    ...usesHubEntries,
-    ...usesLeafEntries,
-    ...safetyHubEntries,
-    ...safetyLeafEntries,
-    ...staticPages,
-  ]
+  return [...mainPageEntries, ...staticPages]
 }

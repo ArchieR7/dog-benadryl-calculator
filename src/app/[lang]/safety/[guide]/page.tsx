@@ -56,6 +56,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: 'Dog Benadryl Calculator',
       type: 'article',
     },
+    // pSEO 薄頁暫時 noindex,待補上獨特內容後再放回索引(AdSense 過審策略)
+    robots: { index: false, follow: true },
   }
 }
 
