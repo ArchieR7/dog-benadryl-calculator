@@ -15,7 +15,7 @@ function generateAlternates(path: string): Record<string, string> {
 
 /**
  * AdSense 過審策略（瘦身先過審）：
- * 只在 sitemap 列出有獨特價值、真翻譯的內容 —— 16 語言首頁 + 法律靜態頁。
+ * 只在 sitemap 列出有獨特價值、真翻譯的內容 —— 16 語言首頁 + 關於與聯絡頁。
  * 程式化 SEO 的 leaf/hub 頁（/dosage、/uses、/safety）內容薄且跨語言重複，
  * 已在各頁 generateMetadata 設為 noindex，且不列入 sitemap，
  * 以避免拉低整站品質評分。待逐步補上各頁獨特內容後，再分批放回索引與 sitemap。
@@ -34,7 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   }))
 
-  // 法律靜態頁
+  // 關於與聯絡頁；privacy、terms、disclaimer 已設 noindex，不列入 sitemap
   const staticPages = [
     {
       url: `${baseUrl}/about`,
@@ -47,24 +47,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified,
       changeFrequency: 'yearly' as const,
       priority: 0.4,
-    },
-    {
-      url: `${baseUrl}/privacy`,
-      lastModified,
-      changeFrequency: 'yearly' as const,
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/terms`,
-      lastModified,
-      changeFrequency: 'yearly' as const,
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/disclaimer`,
-      lastModified,
-      changeFrequency: 'yearly' as const,
-      priority: 0.3,
     },
   ]
 
